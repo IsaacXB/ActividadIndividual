@@ -1,0 +1,1424 @@
+﻿Log file open, 10/23/21 10:52:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: EscapeMadness
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.195186
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-17155196
+LogInit: Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz, GPU: NVIDIA GeForce RTX 2080 Ti
+LogInit: Compiled (64-bit): Aug 13 2021 06:13:13
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.10.23-16.52.46:726][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.10.23-16.52.46:726][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.10.23-16.52.46:726][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Config/Windows/Engine.ini]
+[2021.10.23-16.52.46:726][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.10.23-16.52.46:726][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Config/Windows/Engine.ini]
+[2021.10.23-16.52.46:726][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Config/Windows/Engine.ini]
+[2021.10.23-16.52.46:726][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.10.23-16.52.46:726][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.10.23-16.52.46:726][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.10.23-16.52.46:726][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.10.23-16.52.46:726][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.10.23-16.52.46:726][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.10.23-16.52.46:726][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.10.23-16.52.46:726][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.10.23-16.52.46:726][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.10.23-16.52.46:726][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.10.23-16.52.46:726][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.10.23-16.52.46:726][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.10.23-16.52.46:726][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.10.23-16.52.46:726][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.10.23-16.52.46:726][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Config/Windows/Engine.ini]
+[2021.10.23-16.52.46:726][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.10.23-16.52.46:726][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.10.23-16.52.46:726][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.10.23-16.52.46:726][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.10.23-16.52.46:726][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.10.23-16.52.46:726][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.10.23-16.52.46:726][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.10.23-16.52.46:726][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.10.23-16.52.46:726][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.10.23-16.52.46:726][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.10.23-16.52.46:726][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.10.23-16.52.46:726][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.10.23-16.52.46:726][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.10.23-16.52.46:726][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.10.23-16.52.46:726][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Config/Windows/Engine.ini]
+[2021.10.23-16.52.46:726][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Config/Windows/Engine.ini]
+[2021.10.23-16.52.46:745][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Config/Windows/Scalability.ini]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Config/Windows/Scalability.ini]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Config/Windows/Scalability.ini]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Config/Windows/Scalability.ini]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Config/Windows/Scalability.ini]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Config/Windows/Scalability.ini]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Config/Windows/Scalability.ini]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.23-16.52.46:745][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Config/Windows/Scalability.ini]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.10.23-16.52.46:746][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.23-16.52.46:746][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.10.23-16.52.46:746][  0]LogHAL: Display: Platform has ~ 64 GB [68483461120 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.10.23-16.52.46:746][  0]LogInit: Going up to parent DeviceProfile []
+[2021.10.23-16.52.46:746][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Config/Windows/Scalability.ini]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Config/Windows/Scalability.ini]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Config/Windows/Scalability.ini]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Config/Windows/Scalability.ini]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Config/Windows/Scalability.ini]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Config/Windows/Scalability.ini]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.10.23-16.52.46:746][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.10.23-16.52.46:747][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.10.23-16.52.46:747][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.10.23-16.52.46:747][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Config/Windows/Scalability.ini]
+[2021.10.23-16.52.46:747][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.23-16.52.46:747][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.23-16.52.46:747][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Config/Windows/Scalability.ini]
+[2021.10.23-16.52.46:747][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.10.23-16.52.46:747][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.10.23-16.52.46:747][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.10.23-16.52.46:747][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.10.23-16.52.46:747][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.10.23-16.52.46:747][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.10.23-16.52.46:747][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.10.23-16.52.46:747][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Config/Windows/Engine.ini]
+[2021.10.23-16.52.46:747][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Config/Windows/Editor.ini]
+[2021.10.23-16.52.46:747][  0]LogInit: Computer: DESKTOP-5J514UK
+[2021.10.23-16.52.46:747][  0]LogInit: User: isach
+[2021.10.23-16.52.46:747][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.10.23-16.52.46:747][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.10.23-16.52.46:747][  0]LogMemory: Memory total: Physical=63.8GB (64GB approx)
+[2021.10.23-16.52.46:747][  0]LogMemory: Platform Memory Stats for Windows
+[2021.10.23-16.52.46:747][  0]LogMemory: Process Physical Memory: 148.84 MB used, 148.84 MB peak
+[2021.10.23-16.52.46:747][  0]LogMemory: Process Virtual Memory: 123.22 MB used, 123.22 MB peak
+[2021.10.23-16.52.46:747][  0]LogMemory: Physical Memory: 12847.61 MB used,  52463.31 MB free, 65310.92 MB total
+[2021.10.23-16.52.46:747][  0]LogMemory: Virtual Memory: 134160872.00 MB used,  56854.48 MB free, 134217728.00 MB total
+[2021.10.23-16.52.46:968][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.10.23-16.52.46:999][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.10.23-16.52.47:000][  0]LogInit: Using OS detected language (en-US).
+[2021.10.23-16.52.47:000][  0]LogInit: Using OS detected locale (en-US).
+[2021.10.23-16.52.47:002][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.10.23-16.52.47:149][  0]LogInit: Setting process to per monitor DPI aware
+[2021.10.23-16.52.47:161][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.10.23-16.52.47:174][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.10.23-16.52.47:174][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.10.23-16.52.47:350][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2021.10.23-16.52.47:352][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.10.23-16.52.47:353][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.10.23-16.52.47:353][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.10.23-16.52.47:353][  0]LogD3D11RHI: D3D11 adapters:
+[2021.10.23-16.52.47:430][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080 Ti' (Feature Level 11_0)
+[2021.10.23-16.52.47:430][  0]LogD3D11RHI:       11049/0/32655 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.10.23-16.52.47:432][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.10.23-16.52.47:432][  0]LogD3D11RHI:       0/0/32655 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.10.23-16.52.47:432][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.10.23-16.52.47:439][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.10.23-16.52.47:439][  0]LogD3D11RHI:     GPU DeviceId: 0x1e07 (for the marketing name, search the web for "GPU Device Id")
+[2021.10.23-16.52.47:439][  0]LogWindows: EnumDisplayDevices:
+[2021.10.23-16.52.47:439][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080 Ti' (P:1 D:1)
+[2021.10.23-16.52.47:440][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:1)
+[2021.10.23-16.52.47:440][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2021.10.23-16.52.47:440][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2021.10.23-16.52.47:440][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.10.23-16.52.47:440][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 Ti
+[2021.10.23-16.52.47:440][  0]LogD3D11RHI:   Driver Version: 496.13 (internal:30.0.14.9613, unified:496.13)
+[2021.10.23-16.52.47:440][  0]LogD3D11RHI:      Driver Date: 10-6-2021
+[2021.10.23-16.52.47:440][  0]LogRHI: Texture pool is 7734 MB (70% of 11049 MB)
+[2021.10.23-16.52.47:501][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.10.23-16.52.47:501][  0]LogD3D11RHI: Async texture creation enabled
+[2021.10.23-16.52.47:501][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.10.23-16.52.47:524][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.10.23-16.52.47:561][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.10.23-16.52.47:789][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.10.23-16.52.47:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.10.23-16.52.47:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.10.23-16.52.47:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.10.23-16.52.47:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.10.23-16.52.47:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.10.23-16.52.47:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.10.23-16.52.47:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.10.23-16.52.47:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.10.23-16.52.47:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.10.23-16.52.47:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.10.23-16.52.47:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.10.23-16.52.47:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.10.23-16.52.47:830][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.10.23-16.52.47:834][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.10.23-16.52.47:838][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.10.23-16.52.47:841][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.10.23-16.52.47:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.10.23-16.52.47:853][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.10.23-16.52.47:857][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.10.23-16.52.47:877][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.10.23-16.52.47:877][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.10.23-16.52.47:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.10.23-16.52.47:887][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.10.23-16.52.47:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.10.23-16.52.47:894][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.10.23-16.52.47:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.10.23-16.52.47:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.10.23-16.52.47:910][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.10.23-16.52.47:913][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.10.23-16.52.47:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.10.23-16.52.47:920][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.10.23-16.52.47:920][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.10.23-16.52.47:926][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.10.23-16.52.47:949][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2021.10.23-16.52.47:978][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.10.23-16.52.47:978][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Intermediate/Shaders/WorkingDirectory/1408/).
+[2021.10.23-16.52.47:978][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/isach/AppData/Local/Temp/UnrealShaderWorkingDir/658DF11F4A8DF8172EEC369DD5F7734A/'.
+[2021.10.23-16.52.47:978][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.10.23-16.52.47:978][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.10.23-16.52.47:978][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.10.23-16.52.48:602][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.10.23-16.52.48:644][  0]LogDerivedDataCache: Loaded boot cache 0.04s 95MB C:/Users/isach/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.10.23-16.52.48:644][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/isach/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2021.10.23-16.52.48:644][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.10.23-16.52.48:644][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.10.23-16.52.48:644][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.23-16.52.48:644][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.10.23-16.52.48:657][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.10.23-16.52.48:657][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.23-16.52.48:657][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.10.23-16.52.48:663][  0]LogDerivedDataCache: Speed tests for C:/Users/isach/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.10.23-16.52.48:663][  0]LogDerivedDataCache: Display: Performance to C:/Users/isach/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1116.61MBs, RandomWriteSpeed=201.55MBs. Assigned SpeedClass 'Local'
+[2021.10.23-16.52.48:663][  0]LogDerivedDataCache: Using Local data cache path C:/Users/isach/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.10.23-16.52.48:664][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.10.23-16.52.48:664][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.10.23-16.52.48:701][  0]LogSlate: Using FreeType 2.10.0
+[2021.10.23-16.52.48:701][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.10.23-16.52.48:719][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2021.10.23-16.52.48:906][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.23-16.52.48:906][  0]LogInit: Active device profile: [0000020A9A2EEC00][0000020A9587D740 49] Windows
+[2021.10.23-16.52.48:906][  0]LogInit: Profiles: [0000020A9A2EEC00][0000020A9587D740 49] Windows, [0000020A9A245600][0000020A958898C0 49] WindowsNoEditor, [0000020A9A2ED600][0000020A8C113A40 49] WindowsServer, [0000020A9A246400][0000020A8C11BBC0 49] WindowsClient, [0000020A9A2EE300][0000020A9899A1C0 49] IOS, [0000020A9A247100][0000020A98B58340 49] iPadAir, [0000020A9A2EEA00][0000020A98B664C0 49] iPadAir2, [0000020A9B1CB200][0000020A98BA8780 49] IPadPro, [0000020A9B1CB300][0000020A98BA47C0 49] iPadAir3, [0000020A9A2ECE00][0000020A8B916940 49] iPadAir4, [0000020A9B1CB900][0000020A95880A80 49] iPadMini2, [0000020A9A2EFE00][0000020A95CD0BC0 49] iPadMini3, [0000020A9B1C9400][0000020A8B946D00 49] iPadMini4, [0000020A9A2EEE00][0000020A8B94AE80 49] iPadMini5, [0000020A9A20E700][0000020A8B953140 49] iPhone6, [0000020A9A20E800][0000020A8B94F180 49] iPodTouch6, [0000020A9B1C9100][0000020A8B95B440 49] iPhone7, [0000020A9B1C9000][0000020A8B957480 49] iPodTouch7, [0000020A9A20DA00][0000020A98ACF600 49] iPhone5S, [0000020A9B1C8A00][0000020A98AE3780 49] iPhone6Plus, [0000020A9A20E000][0000020A98B0B900 49] iPhone6S, [0000020A9B1CAF00][0000020A98BEDA80 49] iPhone6SPlus, [0000020A9A20FF00][0000020A98BF1C00 49] iPhone7Plus, [0000020A9B1CA500][0000020A98BF8200 49] iPhoneSE, [0000020A9A20D800][0000020A98D16380 49] iPhone8, [0000020A9B1CAA00][0000020A98D1A500 49] iPhone8Plus, [0000020A9A20D200][0000020A98D28680 49] iPhoneX, [0000020A9B1C9200][0000020A98D2C800 49] iPhoneXS, [0000020A9A20EE00][0000020A98D30980 49] iPhoneXSMax, [0000020A9B1C8700][0000020A98D34B00 49] iPhoneXR, [0000020A9A20E400][0000020A8BB3CC40 49] iPhone11, [0000020A9B1CAB00][0000020A8B8C6D80 49] iPhone11Pro, [0000020A9A20F100][0000020A8B8CAEC0 49] iPhone11ProMax, [0000020A9B1C8900][0000020A8B909040 49] iPhoneSE2, [0000020A9A20C600][0000020A8B90D1C0 49] iPhone12Mini, [0000020A9B1CB000][0000020A8B911340 49] iPhone12, [0000020A9A20C700][0000020A95C6B4C0 49] iPhone12Pro, [0000020A9B1CA300][0000020A95CAF640 49] iPhone12ProMax, [0000020A9A20F600][0000020A95CB37C0 49] iPadPro105, [0000020A9B1C8300][0000020A95CBB940 49] iPadPro129, [0000020A9A20C900][0000020A95CBFAC0 49] iPadPro97, [0000020A9B1C9F00][0000020A95CC20C0 49] iPadPro2_129, [0000020A9A20EC00][0000020A95CCA240 49] iPad5, [0000020A9B1C8C00][0000020A98BAC3C0 49] iPad6, [0000020A9A20CC00][0000020A98BB0540 49] iPad7, [0000020A9B1C9700][0000020A98BB46C0 49] iPad8, [0000020A9A20D100][0000020A98BB8840 49] iPadPro11, [0000020A9B1CB700][0000020A95CC69C0 49] iPadPro2_11, [0000020A9A20CD00][0000020A95CB6B40 49] iPadPro3_129, [0000020A9A500800][0000020A98BC8CC0 49] iPadPro4_129, [0000020A9A245500][0000020A8B8E2E00 49] AppleTV, [0000020A9A501B00][0000020A985A2F40 49] AppleTV4K, [0000020A9A246200][0000020A985A7080 49] TVOS, [0000020A9A501400][0000020A98AD31C0 49] Mac, [0000020A9A245700][0000020A8C117340 49] MacClient, [0000020A9A500B00][0000020A9896F4C0 49] MacNoEditor, [0000020A9A244400][0000020A985AB640 49] MacServer, [0000020A9A501100][0000020A985AF7C0 49] Linux, [0000020A9A244100][0000020A985B3940 49] LinuxAArch64, [0000020A9A500A00][0000020A985B7AC0 49] LinuxNoEditor, [0000020A9A246500][0000020A985BA0C0 49] LinuxAArch64NoEditor, [0000020A9A501700][0000020A98A90240 49] LinuxClient, [0000020A9A244D00][0000020A98A943C0 49] LinuxAArch64Client, [0000020A9A501000][0000020A98A98540 49] LinuxServer, [0000020A9A246800][0000020A98A9C6C0 49] LinuxAArch64Server, [0000020A9A20D900][0000020A98AA0840 49] Android, [0000020A9B1CBA00][0000020A98AA49C0 49] Android_Low, [0000020A9A20DD00][0000020A98AA8B40 49] Android_Mid, [0000020A9B1C8600][0000020A98AACCC0 49] Android_High, [0000020A9A20E100][0000020A98AB0E40 49] Android_Default, [0000020A9B1CB600][0000020A95CE8F80 49] Android_Adreno4xx, [0000020A9A20FE00][0000020A989730C0 49] Android_Adreno5xx_Low, [0000020A9B1C9B00][0000020A98977200 49] Android_Adreno5xx, [0000020A9A20C200][0000020A9897B340 49] Android_Adreno6xx, [0000020A9B1CAC00][0000020A989834C0 49] Android_Adreno6xx_Vulkan, [0000020A9A20F700][0000020A98987640 49] Android_Mali_T6xx, [0000020A9B1CB400][0000020A9898B7C0 49] Android_Mali_T7xx, [0000020A9A20C800][0000020A9898F940 49] Android_Mali_T8xx, [0000020A9B1C8100][0000020A98993AC0 49] Android_Mali_G71, [0000020A9A20C400][0000020A989960C0 49] Android_Mali_G72, [0000020A9B1CA800][0000020A98D38240 49] Android_Mali_G72_Vulkan, [0000020A9A20D300][0000020A98D3C3C0 49] Android_Mali_G76, [0000020A9B1CA900][0000020A98D40540 49] Android_Mali_G76_Vulkan, [0000020A9A20DB00][0000020A98D446C0 49] Android_Mali_G77, [0000020A9B1C8E00][0000020A98D48840 49] Android_Mali_G77_Vulkan, [0000020A9A20E900][0000020A98D4C9C0 49] Android_Mali_G78, [0000020A9B1CBB00][0000020A98D50B40 49] Android_Mali_G78_Vulkan, [0000020A9A501200][0000020A98D54CC0 49] Android_Mali_G710, [0000020A9B1CAD00][0000020A98D58E40 49] Android_Mali_G710_Vulkan, [0000020A9A500100][0000020A98D5CFC0 49] Android_Vulkan_SM5, [0000020A9B1C9E00][0000020A98D61140 49] Android_PowerVR_G6xxx, [0000020A9A500600][0000020A9897F280 49] Android_PowerVR_GT7xxx, [0000020A9B1CA700][0000020A98D653C0 49] Android_PowerVR_GE8xxx, [0000020A9A500D00][0000020A98D69500 49] Android_PowerVR_GM9xxx, [0000020A9B1C9800][0000020A98D71680 49] Android_PowerVR_GM9xxx_Vulkan, [0000020A9A20F300][0000020A98D75800 49] Android_TegraK1, [0000020A9B1C9300][0000020A98D79980 49] Android_Unknown_Vulkan, [0000020A9A20FC00][0000020A98D7DB00 49] Lumin, [0000020A9B1C9D00][0000020A98D80100 49] Lumin_Desktop, [0000020A9A20D400][0000020A98D84280 49] HoloLens, 
+[2021.10.23-16.52.49:012][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.10.23-16.52.49:012][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.10.23-16.52.49:012][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.10.23-16.52.49:012][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.10.23-16.52.49:012][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.10.23-16.52.49:026][  0]LogNetVersion: EscapeMadness 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2030387441)
+[2021.10.23-16.52.49:353][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.10.23-16.52.49:401][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.10.23-16.52.49:406][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2021.10.23-16.52.49:406][  0]LogUObjectAllocator: 4301856 out of 0 bytes used by permanent object pool.
+[2021.10.23-16.52.49:406][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.10.23-16.52.49:640][  0]LogPython: Using Python 3.7.7
+[2021.10.23-16.52.50:074][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 16163D1A4C6E3E513A45B1A7FE6CDCAC | Instance: 821C7F2346EE2957B04D65904901F30A (DESKTOP-5J514UK-1408).
+[2021.10.23-16.52.50:194][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.10.23-16.52.50:194][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.10.23-16.52.50:194][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.10.23-16.52.50:194][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.10.23-16.52.50:194][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.10.23-16.52.50:194][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.10.23-16.52.50:194][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.10.23-16.52.50:194][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.10.23-16.52.50:194][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.10.23-16.52.50:194][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.10.23-16.52.50:194][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.10.23-16.52.50:194][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.10.23-16.52.50:194][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.10.23-16.52.50:194][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.10.23-16.52.50:194][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.10.23-16.52.50:194][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.10.23-16.52.50:194][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.10.23-16.52.50:194][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.10.23-16.52.50:194][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.10.23-16.52.50:201][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.10.23-16.52.50:469][  0]SourceControl: Source control is disabled
+[2021.10.23-16.52.50:775][  0]LogUProjectInfo: Found projects:
+[2021.10.23-16.52.50:783][  0]LogOpenImageDenoise: OIDN starting up
+[2021.10.23-16.52.50:838][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.10.23-16.52.50:859][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.10.23-16.52.50:859][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.10.23-16.52.50:971][  0]LogCollectionManager: Loaded 0 collections in 0.000771 seconds
+[2021.10.23-16.52.50:995][  0]LogFileCache: Scanning file cache for directory 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Collections/' took 0.00s
+[2021.10.23-16.52.50:995][  0]LogFileCache: Scanning file cache for directory 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Developers/isach/Collections/' took 0.00s
+[2021.10.23-16.52.50:995][  0]LogFileCache: Scanning file cache for directory 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Collections/' took 0.00s
+[2021.10.23-16.52.50:995][  0]LogOcInput: OculusInput pre-init called
+[2021.10.23-16.52.51:119][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.10.23-16.52.51:119][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.10.23-16.52.51:119][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.10.23-16.52.51:119][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.10.23-16.52.51:119][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.10.23-16.52.51:119][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.10.23-16.52.51:119][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.10.23-16.52.51:119][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.10.23-16.52.51:197][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.10.23-16.52.51:197][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.10.23-16.52.51:197][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.10.23-16.52.51:197][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.10.23-16.52.51:197][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.10.23-16.52.51:197][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.10.23-16.52.51:197][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.10.23-16.52.51:197][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.10.23-16.52.51:197][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.10.23-16.52.51:197][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.10.23-16.52.51:197][  0]LogEngine: Initializing Engine...
+[2021.10.23-16.52.51:203][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2021.10.23-16.52.51:203][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.10.23-16.52.51:203][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.10.23-16.52.51:204][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.10.23-16.52.51:309][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.10.23-16.52.51:317][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.10.23-16.52.51:320][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.10.23-16.52.51:322][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2021.10.23-16.52.51:323][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2021.10.23-16.52.51:323][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.10.23-16.52.51:323][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.10.23-16.52.51:323][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.23-16.52.51:323][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.23-16.52.51:323][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.23-16.52.51:323][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.23-16.52.51:323][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.23-16.52.51:323][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.23-16.52.51:323][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.23-16.52.51:323][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.23-16.52.51:324][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.23-16.52.51:324][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.23-16.52.51:324][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.23-16.52.51:324][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.23-16.52.51:394][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.23-16.52.51:395][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.10.23-16.52.51:395][  0]LogAudioMixer: Display: 2: FrontCenter
+[2021.10.23-16.52.51:395][  0]LogAudioMixer: Display: 3: LowFrequency
+[2021.10.23-16.52.51:395][  0]LogAudioMixer: Display: 4: BackLeft
+[2021.10.23-16.52.51:395][  0]LogAudioMixer: Display: 5: BackRight
+[2021.10.23-16.52.51:395][  0]LogAudioMixer: Display: 6: SideLeft
+[2021.10.23-16.52.51:395][  0]LogAudioMixer: Display: 7: SideRight
+[2021.10.23-16.52.51:541][  0]LogAudioMixer: Display: Using Audio Device Headphones (Alienware 510H)
+[2021.10.23-16.52.51:542][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.23-16.52.51:545][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.23-16.52.51:545][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.23-16.52.51:545][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.23-16.52.51:546][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.23-16.52.51:546][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.10.23-16.52.51:546][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.23-16.52.51:546][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.23-16.52.51:546][  0]LogInit: FAudioDevice initialized.
+[2021.10.23-16.52.51:547][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.10.23-16.52.51:547][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.10.23-16.52.51:587][  0]LogDerivedDataCache: Saved boot cache 0.04s 95MB C:/Users/isach/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.10.23-16.52.51:587][  0]LogInit: Texture streaming: Enabled
+[2021.10.23-16.52.51:597][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.0-17155196+++UE4+Release-4.27
+[2021.10.23-16.52.51:601][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.10.23-16.52.51:601][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.10.23-16.52.51:604][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.10.23-16.52.51:628][  0]LogInit: Transaction tracking system initialized
+[2021.10.23-16.52.51:646][  0]BlueprintLog: New page: Editor Load
+[2021.10.23-16.52.51:695][  0]LocalizationService: Localization service is disabled
+[2021.10.23-16.52.51:715][  0]TimingProfiler: Initialize
+[2021.10.23-16.52.51:715][  0]TimingProfiler: OnSessionChanged
+[2021.10.23-16.52.51:715][  0]LoadingProfiler: Initialize
+[2021.10.23-16.52.51:715][  0]LoadingProfiler: OnSessionChanged
+[2021.10.23-16.52.51:715][  0]NetworkingProfiler: Initialize
+[2021.10.23-16.52.51:715][  0]NetworkingProfiler: OnSessionChanged
+[2021.10.23-16.52.51:715][  0]MemoryProfiler: Initialize
+[2021.10.23-16.52.51:715][  0]MemoryProfiler: OnSessionChanged
+[2021.10.23-16.52.51:835][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.10.23-16.52.51:835][  0]LogCook: Display: Mobile HDR setting 1
+[2021.10.23-16.52.51:987][  0]LogFileCache: Scanning file cache for directory 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/' took 0.00s
+[2021.10.23-16.52.52:121][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.10.23-16.52.52:121][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.10.23-16.52.52:121][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.10.23-16.52.52:121][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.10.23-16.52.52:121][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.10.23-16.52.52:121][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.10.23-16.52.52:121][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.10.23-16.52.52:121][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.10.23-16.52.52:121][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.10.23-16.52.52:122][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.10.23-16.52.52:122][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.10.23-16.52.52:122][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.10.23-16.52.52:122][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.10.23-16.52.52:122][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.10.23-16.52.52:122][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.10.23-16.52.52:122][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.10.23-16.52.52:122][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.10.23-16.52.52:122][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.10.23-16.52.52:122][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.10.23-16.52.52:125][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.338
+[2021.10.23-16.52.52:125][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.23-16.52.52:126][  0]LightingResults: New page: Lighting Build
+[2021.10.23-16.52.52:127][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.10.23-16.52.52:127][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.23-16.52.52:127][  0]MapCheck: New page: Map Check
+[2021.10.23-16.52.52:127][  0]LightingResults: New page: Lighting Build
+[2021.10.23-16.52.52:130][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.23-16.52.52:133][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.10.23-16.52.52:177][  0]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.10.23-16.52.52:185][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2021.10.23-16.52.52:186][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2021.10.23-16.52.52:188][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.23-16.52.52:194][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.10.23-16.52.52:194][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.23-16.52.52:194][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.169ms to complete.
+[2021.10.23-16.52.52:194][  0]LogFileHelpers: Loading map 'Template_Default' took 0.069
+[2021.10.23-16.52.52:196][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.408
+[2021.10.23-16.52.52:282][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.23-16.52.52:287][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.23-16.52.52:293][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.23-16.52.52:299][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.23-16.52.52:312][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0081 seconds. Added 3828 classes and 931 folders.
+[2021.10.23-16.52.52:314][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.10.23-16.52.52:316][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.23-16.52.52:316][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.23-16.52.52:316][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.23-16.52.52:316][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.23-16.52.52:316][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2021.10.23-16.52.52:316][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.10.23-16.52.52:316][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.10.23-16.52.52:316][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.23-16.52.52:317][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.10.23-16.52.52:317][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.23-16.52.52:317][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2021.10.23-16.52.52:317][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.10.23-16.52.52:317][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.10.23-16.52.52:317][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.23-16.52.52:317][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.10.23-16.52.52:317][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.23-16.52.52:317][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2021.10.23-16.52.52:317][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.10.23-16.52.52:318][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.23-16.52.52:318][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.23-16.52.52:318][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.23-16.52.52:318][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.23-16.52.52:318][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2021.10.23-16.52.52:318][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.10.23-16.52.52:318][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.10.23-16.52.52:318][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.23-16.52.52:319][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.10.23-16.52.52:319][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.23-16.52.52:319][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2021.10.23-16.52.52:319][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.10.23-16.52.52:319][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.10.23-16.52.52:319][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.23-16.52.52:319][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.10.23-16.52.52:319][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.23-16.52.52:319][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2021.10.23-16.52.52:319][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.10.23-16.52.52:320][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.10.23-16.52.52:320][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.23-16.52.52:320][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.10.23-16.52.52:320][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.23-16.52.52:320][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2021.10.23-16.52.52:320][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.10.23-16.52.52:320][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.10.23-16.52.52:320][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.23-16.52.52:321][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.10.23-16.52.52:321][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.23-16.52.52:321][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2021.10.23-16.52.52:321][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.10.23-16.52.52:321][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.23-16.52.52:321][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.23-16.52.52:321][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.23-16.52.52:321][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.23-16.52.52:321][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2021.10.23-16.52.52:321][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.10.23-16.52.52:322][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.10.23-16.52.52:322][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.23-16.52.52:322][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.10.23-16.52.52:322][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.23-16.52.52:322][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2021.10.23-16.52.52:322][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.10.23-16.52.52:323][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.10.23-16.52.52:323][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.23-16.52.52:323][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.10.23-16.52.52:323][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.23-16.52.52:323][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2021.10.23-16.52.52:323][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.10.23-16.52.52:323][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.23-16.52.52:323][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.23-16.52.52:323][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.23-16.52.52:323][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.23-16.52.52:323][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2021.10.23-16.52.52:323][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.10.23-16.52.52:324][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.23-16.52.52:324][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.23-16.52.52:324][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.23-16.52.52:324][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.23-16.52.52:324][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2021.10.23-16.52.52:324][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.10.23-16.52.52:325][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.23-16.52.52:325][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.23-16.52.52:325][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.23-16.52.52:325][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.23-16.52.52:325][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2021.10.23-16.52.52:325][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.10.23-16.52.52:326][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.10.23-16.52.52:326][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.23-16.52.52:326][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.10.23-16.52.52:326][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.23-16.52.52:326][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2021.10.23-16.52.52:326][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.10.23-16.52.52:326][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.23-16.52.52:326][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.23-16.52.52:326][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.23-16.52.52:326][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.23-16.52.52:326][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2021.10.23-16.52.52:326][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.10.23-16.52.52:327][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.10.23-16.52.52:327][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.23-16.52.52:327][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.10.23-16.52.52:327][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.23-16.52.52:327][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2021.10.23-16.52.52:327][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.10.23-16.52.52:328][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.23-16.52.52:328][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.23-16.52.52:328][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.23-16.52.52:328][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.23-16.52.52:328][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2021.10.23-16.52.52:328][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.10.23-16.52.52:328][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.23-16.52.52:328][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.23-16.52.52:328][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.23-16.52.52:328][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.23-16.52.52:328][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2021.10.23-16.52.52:328][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.10.23-16.52.52:329][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.23-16.52.52:329][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.23-16.52.52:329][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.23-16.52.52:329][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.23-16.52.52:329][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2021.10.23-16.52.52:329][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.10.23-16.52.52:330][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.23-16.52.52:330][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.23-16.52.52:330][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.23-16.52.52:330][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.23-16.52.52:330][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2021.10.23-16.52.52:330][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.10.23-16.52.52:330][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.23-16.52.52:330][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.23-16.52.52:330][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.23-16.52.52:330][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.23-16.52.52:330][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2021.10.23-16.52.52:330][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.10.23-16.52.52:331][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.10.23-16.52.52:331][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.23-16.52.52:331][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.10.23-16.52.52:331][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.23-16.52.52:331][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2021.10.23-16.52.52:331][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.10.23-16.52.52:332][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.23-16.52.52:332][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.23-16.52.52:332][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.23-16.52.52:332][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.23-16.52.52:332][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2021.10.23-16.52.52:332][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.10.23-16.52.52:332][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.23-16.52.52:332][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.23-16.52.52:332][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.23-16.52.52:332][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.23-16.52.52:332][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2021.10.23-16.52.52:332][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.10.23-16.52.52:333][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.10.23-16.52.52:333][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.23-16.52.52:333][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.10.23-16.52.52:333][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.23-16.52.52:333][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files (x86)/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2021.10.23-16.52.52:333][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.10.23-16.52.52:392][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.10.23-16.52.52:396][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.10.23-16.52.52:464][  0]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.10.23-16.52.52:465][  0]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.10.23-16.52.52:466][  0]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.10.23-16.52.52:542][  0]LogRenderer: Reallocating scene render targets to support 1616x688 Format 10 NumSamples 1 (Frame:1).
+[2021.10.23-16.52.52:614][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.10.23-16.52.52:614][  0]LogLoad: (Engine Initialization) Total time: 6.83 seconds
+[2021.10.23-16.52.52:614][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.10.23-16.52.52:652][  0]LogAssetRegistry: Asset discovery search completed in 3.9342 seconds
+[2021.10.23-16.52.52:657][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.10.23-16.52.52:658][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.10.23-16.53.05:493][377]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.23-16.53.05:509][377]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HorrorKidsPack/HorrorBoy/Demo/Blueprints/Bp_HorrorBoy.Bp_HorrorBoy
+[2021.10.23-16.53.05:691][377]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2021.10.23-16.53.06:375][377]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.10.23-16.53.06:411][378]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.10.23-16.53.18:450][804]LogRenderer: Reallocating scene render targets to support 1616x1000 Format 10 NumSamples 1 (Frame:1).
+[2021.10.23-16.53.28:147][916]LogSlate: Window 'Bp_HorrorBoy' being destroyed
+[2021.10.23-16.53.28:152][916]LogSlate: Window 'Bp_HorrorBoy' being destroyed
+[2021.10.23-16.53.28:156][916]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.10.23-16.53.28:156][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.23-16.53.36:918][954]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/HorrorKidsPack/HorrorBoy/Demo/ThirdPerson/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2021.10.23-16.53.36:940][954]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2021.10.23-16.53.36:943][954]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2021.10.23-16.53.37:005][954]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.10.23-16.53.37:063][954]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.10.23-16.53.37:064][954]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2021.10.23-16.53.45:643][859]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/HorrorKidsPack/HorrorBoy/Demo/ThirdPerson/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+[2021.10.23-16.53.45:649][859]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.10.23-16.53.46:076][859]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.10.23-16.54.02:033][749]LogSlate: Window 'ThirdPerson_IdleRun_2D' being destroyed
+[2021.10.23-16.54.02:037][749]LogSlate: Window 'ThirdPerson_IdleRun_2D' being destroyed
+[2021.10.23-16.54.02:042][749]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.10.23-16.54.02:042][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.23-16.54.02:051][749]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.10.23-16.54.02:051][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.23-16.54.02:105][749]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.10.23-16.54.02:105][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.23-16.54.02:117][749]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.10.23-16.54.02:117][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.23-16.54.02:154][749]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.10.23-16.54.02:154][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.23-16.54.23:346][212]LogMetaData: Removing '/Game/HorrorKidsPack/HorrorBoy/Animation/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C' ref from Metadata '/Game/HorrorKidsPack/HorrorBoy/Demo/ThirdPerson/ThirdPerson_AnimBP.PackageMetaData'
+[2021.10.23-16.54.23:346][212]LogMetaData: Removing '/Game/HorrorKidsPack/HorrorBoy/Animation/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/HorrorKidsPack/HorrorBoy/Demo/ThirdPerson/ThirdPerson_AnimBP.PackageMetaData'
+[2021.10.23-16.54.23:346][212]LogMetaData: Removing '/Game/HorrorKidsPack/HorrorBoy/Animation/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:AnimGraph' ref from Metadata '/Game/HorrorKidsPack/HorrorBoy/Demo/ThirdPerson/ThirdPerson_AnimBP.PackageMetaData'
+[2021.10.23-16.54.23:346][212]LogMetaData: Removing '/Game/HorrorKidsPack/HorrorBoy/Animation/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C' ref from Metadata '/Game/HorrorKidsPack/HorrorBoy/Demo/ThirdPerson/ThirdPerson_AnimBP.PackageMetaData'
+[2021.10.23-16.54.23:346][212]LogMetaData: Removing '/Game/HorrorKidsPack/HorrorBoy/Animation/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/HorrorKidsPack/HorrorBoy/Demo/ThirdPerson/ThirdPerson_AnimBP.PackageMetaData'
+[2021.10.23-16.54.23:346][212]LogMetaData: Removing '/Game/HorrorKidsPack/HorrorBoy/Animation/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:AnimGraph' ref from Metadata '/Game/HorrorKidsPack/HorrorBoy/Demo/ThirdPerson/ThirdPerson_AnimBP.PackageMetaData'
+[2021.10.23-16.54.23:383][212]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/ThirdPersonWalk7CBCC408444B415C85D491A9535D441D.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/HorrorKidsPack/HorrorBoy/Animation/ThirdPersonWalk.uasset'
+[2021.10.23-16.54.23:477][212]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/ThirdPersonWalk1A058BE6421AB11F8A54429D4C41544C.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/HorrorKidsPack/HorrorBoy/Demo/ThirdPerson/ThirdPersonWalk.uasset'
+[2021.10.23-16.54.23:507][212]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/ThirdPerson_AnimBP1DF6727C4822EBB05BD13DB846AB1DE5.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/HorrorKidsPack/HorrorBoy/Animation/ThirdPerson_AnimBP.uasset'
+[2021.10.23-16.54.23:626][212]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/ThirdPerson_IdleRun_2D3BF740E64F54FCECCEFDDFB9E9B7D9DD.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/HorrorKidsPack/HorrorBoy/Animation/ThirdPerson_IdleRun_2D.uasset'
+[2021.10.23-16.54.23:730][212]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/ThirdPerson_Jump0F5ED1F74EF7DF34D4A07F86A20626CB.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/HorrorKidsPack/HorrorBoy/Animation/ThirdPerson_Jump.uasset'
+[2021.10.23-16.54.23:836][212]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/ThirdPerson_Jump03A0BABA460865267F94F3AF0D1DD236.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/HorrorKidsPack/HorrorBoy/Demo/ThirdPerson/ThirdPerson_Jump.uasset'
+[2021.10.23-16.54.23:850][212]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/ThirdPersonIdleB8B0583842ABF7F5B863369876FC7424.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/HorrorKidsPack/HorrorBoy/Animation/ThirdPersonIdle.uasset'
+[2021.10.23-16.54.23:953][212]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/ThirdPersonIdle3EA579C64A545BD12660C58E32829627.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/HorrorKidsPack/HorrorBoy/Demo/ThirdPerson/ThirdPersonIdle.uasset'
+[2021.10.23-16.54.23:967][212]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/ThirdPersonJump_Loop58FA24334E1809F8922C798D8BE22423.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/HorrorKidsPack/HorrorBoy/Animation/ThirdPersonJump_Loop.uasset'
+[2021.10.23-16.54.24:060][212]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/ThirdPersonJump_LoopD929ABDE4E430C5FAFA5D4BE7230ACF2.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/HorrorKidsPack/HorrorBoy/Demo/ThirdPerson/ThirdPersonJump_Loop.uasset'
+[2021.10.23-16.54.24:074][212]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/ThirdPersonJump_Start08ACBA3E4C50DD3C2C8E51BF951FE5B8.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/HorrorKidsPack/HorrorBoy/Animation/ThirdPersonJump_Start.uasset'
+[2021.10.23-16.54.24:165][212]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/ThirdPersonJump_StartB05FD5384F1BC4A5BF73C3B67AF967B3.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/HorrorKidsPack/HorrorBoy/Demo/ThirdPerson/ThirdPersonJump_Start.uasset'
+[2021.10.23-16.54.24:179][212]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/ThirdPersonRunDFCF44BD4F9383AE6517D3938E0D7557.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/HorrorKidsPack/HorrorBoy/Animation/ThirdPersonRun.uasset'
+[2021.10.23-16.54.24:268][212]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/ThirdPersonRun71D185414FED140063F832841C0B0693.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/HorrorKidsPack/HorrorBoy/Demo/ThirdPerson/ThirdPersonRun.uasset'
+[2021.10.23-16.54.24:533][212]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.10.23-16.54.24:583][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.10.23-16.54.24:602][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.10.23-16.54.24:613][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.10.23-16.54.24:643][212]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.23-16.54.24:643][212]LogContentValidation: Display: Validating AnimSequence /Game/HorrorKidsPack/HorrorBoy/Animation/ThirdPerson_Jump.ThirdPerson_Jump
+[2021.10.23-16.54.24:643][212]LogContentValidation: Display: Validating AnimSequence /Game/HorrorKidsPack/HorrorBoy/Animation/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2021.10.23-16.54.24:643][212]LogContentValidation: Display: Validating AnimSequence /Game/HorrorKidsPack/HorrorBoy/Animation/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2021.10.23-16.54.24:643][212]LogContentValidation: Display: Validating AnimSequence /Game/HorrorKidsPack/HorrorBoy/Animation/ThirdPersonIdle.ThirdPersonIdle
+[2021.10.23-16.54.24:643][212]LogContentValidation: Display: Validating AnimSequence /Game/HorrorKidsPack/HorrorBoy/Animation/ThirdPersonRun.ThirdPersonRun
+[2021.10.23-16.54.24:643][212]LogContentValidation: Display: Validating AnimSequence /Game/HorrorKidsPack/HorrorBoy/Animation/ThirdPersonWalk.ThirdPersonWalk
+[2021.10.23-16.54.24:643][212]LogContentValidation: Display: Validating BlendSpace1D /Game/HorrorKidsPack/HorrorBoy/Animation/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+[2021.10.23-16.54.24:643][212]LogContentValidation: Display: Validating AnimBlueprint /Game/HorrorKidsPack/HorrorBoy/Animation/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2021.10.23-16.54.24:643][212]LogContentValidation: Display: Validating ObjectRedirector /Game/HorrorKidsPack/HorrorBoy/Demo/ThirdPerson/ThirdPersonWalk.ThirdPersonWalk
+[2021.10.23-16.54.24:643][212]LogContentValidation: Display: Validating ObjectRedirector /Game/HorrorKidsPack/HorrorBoy/Demo/ThirdPerson/ThirdPerson_Jump.ThirdPerson_Jump
+[2021.10.23-16.54.24:643][212]LogContentValidation: Display: Validating ObjectRedirector /Game/HorrorKidsPack/HorrorBoy/Demo/ThirdPerson/ThirdPersonIdle.ThirdPersonIdle
+[2021.10.23-16.54.24:643][212]LogContentValidation: Display: Validating ObjectRedirector /Game/HorrorKidsPack/HorrorBoy/Demo/ThirdPerson/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2021.10.23-16.54.24:643][212]LogContentValidation: Display: Validating ObjectRedirector /Game/HorrorKidsPack/HorrorBoy/Demo/ThirdPerson/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2021.10.23-16.54.24:643][212]LogContentValidation: Display: Validating ObjectRedirector /Game/HorrorKidsPack/HorrorBoy/Demo/ThirdPerson/ThirdPersonRun.ThirdPersonRun
+[2021.10.23-16.54.41:666][249]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.10.23-16.54.41:689][249]LogObjectTools: Deleting 1 worlds: /Game/HorrorKidsPack/HorrorBoy/Maps/HorrorBoy.HorrorBoy
+[2021.10.23-16.54.41:689][249]LogObjectTools: Currently 8 active worlds: /Temp/Untitled_1.Untitled_1, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10
+[2021.10.23-16.54.41:702][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.10.23-16.54.42:699][249]LogSlate: Window 'Delete Assets' being destroyed
+[2021.10.23-16.54.42:710][249]LogWorld: UWorld::CleanupWorld for HorrorBoy, bSessionEnded=true, bCleanupResources=true
+[2021.10.23-16.54.42:710][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.23-16.54.42:818][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.10.23-16.54.42:831][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.10.23-16.54.42:850][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.10.23-16.54.42:862][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.10.23-16.54.46:514][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.10.23-16.54.47:470][684]LogSlate: Window 'Delete Assets' being destroyed
+[2021.10.23-16.54.47:509][684]LogUObjectGlobals: Force Deleting 7 Package(s):
+	Asset Name: /Game/HorrorKidsPack/HorrorBoy/Demo/Blueprints/Bp_HorrorBoy.Bp_HorrorBoy
+	Asset Name: /Game/HorrorKidsPack/HorrorBoy/Demo/ThirdPerson/ThirdPersonWalk.ThirdPersonWalk
+	Asset Name: /Game/HorrorKidsPack/HorrorBoy/Demo/ThirdPerson/ThirdPerson_Jump.ThirdPerson_Jump
+	Asset Name: /Game/HorrorKidsPack/HorrorBoy/Demo/ThirdPerson/ThirdPersonIdle.ThirdPersonIdle
+	Asset Name: /Game/HorrorKidsPack/HorrorBoy/Demo/ThirdPerson/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+	Asset Name: /Game/HorrorKidsPack/HorrorBoy/Demo/ThirdPerson/ThirdPersonJump_Start.ThirdPersonJump_Start
+	Asset Name: /Game/HorrorKidsPack/HorrorBoy/Demo/ThirdPerson/ThirdPersonRun.ThirdPersonRun
+[2021.10.23-16.54.48:197][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.10.23-16.54.48:374][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.10.23-16.54.48:386][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.10.23-16.54.48:397][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.10.23-16.54.48:408][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.10.23-16.54.48:419][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.10.23-16.54.48:431][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.10.23-16.54.48:442][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.10.23-16.54.48:455][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2021.10.23-16.54.48:467][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.10.23-16.54.55:424][515]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.10.23-16.54.55:595][515]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HorrorKidsPack/HorrorGirl/Demo/ThirdPerson/ThirdPersonIdle.ThirdPersonIdle
+[2021.10.23-16.54.55:595][515]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HorrorKidsPack/HorrorGirl/Demo/ThirdPerson/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2021.10.23-16.54.55:595][515]LogBlueprint: Error: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Demo\ThirdPerson\ThirdPerson_AnimBP.uasset: [Compiler] Play (None)  references an unknown sequence
+[2021.10.23-16.54.55:596][515]LogBlueprint: Error: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Demo\ThirdPerson\ThirdPerson_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_40 while searching for node links - likely due to the node having outstanding errors.
+[2021.10.23-16.54.55:711][515]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_BearHorror in PCD3D_SM5, Default, SM5 (DDC key hash: 4D60B947B840C33707B8F4774C31252CB18CD350), compiling. 
+[2021.10.23-16.54.55:764][515]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Low' priority
+[2021.10.23-16.54.55:766][515]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_DressHorror in PCD3D_SM5, Default, SM5 (DDC key hash: 655AE5B66B1E005080D8824071688108715AF4BE), compiling. 
+[2021.10.23-16.54.55:809][515]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 41
+[2021.10.23-16.54.55:809][515]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 37
+[2021.10.23-16.54.55:809][515]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 33
+[2021.10.23-16.54.55:809][515]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 29
+[2021.10.23-16.54.55:809][515]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 25
+[2021.10.23-16.54.55:809][515]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 21
+[2021.10.23-16.54.55:809][515]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 17
+[2021.10.23-16.54.55:809][515]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 13
+[2021.10.23-16.54.55:809][515]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2021.10.23-16.54.55:809][515]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2021.10.23-16.54.55:809][515]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2021.10.23-16.54.55:809][515]LogShaderCompilers: Display: Started 41 'Local' shader compile jobs with 'Low' priority
+[2021.10.23-16.54.55:809][515]LogShaderCompilers: Display: Submitted 84 shader compile jobs with 'Low' priority
+[2021.10.23-16.54.55:811][515]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_GirlHorror in PCD3D_SM5, Default, SM5 (DDC key hash: C15E71C89A86716DC115E9CD8924D164532C7754), compiling. 
+[2021.10.23-16.54.55:838][515]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 84
+[2021.10.23-16.54.55:838][515]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2021.10.23-16.54.55:838][515]LogShaderCompilers: Display: Submitted 42 shader compile jobs with 'Low' priority
+[2021.10.23-16.54.55:867][515]LogObjectTools: Deleting 1 worlds: /Game/HorrorKidsPack/HorrorGirl/Maps/HorrorGirl.HorrorGirl
+[2021.10.23-16.54.55:867][515]LogObjectTools: Currently 8 active worlds: /Temp/Untitled_1.Untitled_1, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10
+[2021.10.23-16.54.55:884][515]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.10.23-16.54.56:616][515]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 118
+[2021.10.23-16.54.56:616][515]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.10.23-16.54.57:493][515]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 108
+[2021.10.23-16.54.57:493][515]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.10.23-16.54.57:511][515]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 98
+[2021.10.23-16.54.57:511][515]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2021.10.23-16.54.57:647][515]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 89
+[2021.10.23-16.54.57:647][515]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2021.10.23-16.54.57:720][515]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 81
+[2021.10.23-16.54.57:720][515]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2021.10.23-16.54.57:739][515]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 74
+[2021.10.23-16.54.57:739][515]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2021.10.23-16.54.57:828][515]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 67
+[2021.10.23-16.54.57:828][515]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2021.10.23-16.54.57:919][515]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 61
+[2021.10.23-16.54.57:919][515]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2021.10.23-16.54.58:154][515]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 55
+[2021.10.23-16.54.58:154][515]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2021.10.23-16.54.58:280][515]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 50
+[2021.10.23-16.54.58:280][515]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2021.10.23-16.54.58:298][515]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 45
+[2021.10.23-16.54.58:298][515]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2021.10.23-16.54.59:212][515]LogSlate: Window 'Delete Assets' being destroyed
+[2021.10.23-16.54.59:612][557]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 41
+[2021.10.23-16.54.59:612][557]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2021.10.23-16.54.59:741][572]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 37
+[2021.10.23-16.54.59:741][572]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2021.10.23-16.54.59:775][575]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 33
+[2021.10.23-16.54.59:775][575]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2021.10.23-16.55.00:085][609]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 30
+[2021.10.23-16.55.00:085][609]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2021.10.23-16.55.00:102][611]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 27
+[2021.10.23-16.55.00:102][611]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2021.10.23-16.55.00:291][627]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 24
+[2021.10.23-16.55.00:291][627]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2021.10.23-16.55.00:317][628]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 21
+[2021.10.23-16.55.00:317][628]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.10.23-16.55.00:673][643]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 19
+[2021.10.23-16.55.00:673][643]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.10.23-16.55.00:895][663]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 17
+[2021.10.23-16.55.00:895][663]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.10.23-16.55.00:981][672]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 15
+[2021.10.23-16.55.00:981][672]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.10.23-16.55.01:012][675]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 13
+[2021.10.23-16.55.01:012][675]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.10.23-16.55.01:093][684]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 11
+[2021.10.23-16.55.01:093][684]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.10.23-16.55.01:344][711]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2021.10.23-16.55.01:344][711]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.10.23-16.55.01:596][739]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 9
+[2021.10.23-16.55.01:596][739]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.10.23-16.55.01:643][744]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2021.10.23-16.55.01:643][744]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.10.23-16.55.01:689][748]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 7
+[2021.10.23-16.55.01:689][748]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.10.23-16.55.01:724][752]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.10.23-16.55.01:724][752]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.10.23-16.55.01:753][755]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 5
+[2021.10.23-16.55.01:753][755]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.10.23-16.55.01:792][760]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2021.10.23-16.55.01:792][760]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.10.23-16.55.01:895][772]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 3
+[2021.10.23-16.55.01:895][772]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.10.23-16.55.01:931][775]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2021.10.23-16.55.01:931][775]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.10.23-16.55.01:999][782]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2021.10.23-16.55.01:999][782]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.10.23-16.55.05:003][125]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/HorrorKidsPack/HorrorGirl/Animation/Horror_Girl/Anim_HorrorGirl_Walk.Anim_HorrorGirl_Walk
+[2021.10.23-16.55.05:024][125]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.10.23-16.55.05:424][125]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Sk_Horror_Girl_Skeleton, removing AnimBP from actor.
+[2021.10.23-16.55.05:504][125]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2021.10.23-16.55.05:510][125]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.10.23-16.55.09:039][479]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.10.23-16.55.09:039][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.23-16.55.18:118][540]LogSlate: Window 'ThirdPerson_IdleRun_2D' being destroyed
+[2021.10.23-16.55.18:123][540]LogSlate: Window 'ThirdPerson_IdleRun_2D' being destroyed
+[2021.10.23-16.55.18:123][540]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.10.23-16.55.18:123][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.23-16.55.18:156][540]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.10.23-16.55.18:156][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.23-16.55.39:053][977]LogMetaData: Removing '/Game/HorrorKidsPack/HorrorGirl/Animation/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C' ref from Metadata '/Game/HorrorKidsPack/HorrorGirl/Demo/ThirdPerson/ThirdPerson_AnimBP.PackageMetaData'
+[2021.10.23-16.55.39:053][977]LogMetaData: Removing '/Game/HorrorKidsPack/HorrorGirl/Animation/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/HorrorKidsPack/HorrorGirl/Demo/ThirdPerson/ThirdPerson_AnimBP.PackageMetaData'
+[2021.10.23-16.55.39:053][977]LogMetaData: Removing '/Game/HorrorKidsPack/HorrorGirl/Animation/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:AnimGraph' ref from Metadata '/Game/HorrorKidsPack/HorrorGirl/Demo/ThirdPerson/ThirdPerson_AnimBP.PackageMetaData'
+[2021.10.23-16.55.39:053][977]LogMetaData: Removing '/Game/HorrorKidsPack/HorrorGirl/Animation/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C' ref from Metadata '/Game/HorrorKidsPack/HorrorGirl/Demo/ThirdPerson/ThirdPerson_AnimBP.PackageMetaData'
+[2021.10.23-16.55.39:053][977]LogMetaData: Removing '/Game/HorrorKidsPack/HorrorGirl/Animation/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/HorrorKidsPack/HorrorGirl/Demo/ThirdPerson/ThirdPerson_AnimBP.PackageMetaData'
+[2021.10.23-16.55.39:053][977]LogMetaData: Removing '/Game/HorrorKidsPack/HorrorGirl/Animation/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:AnimGraph' ref from Metadata '/Game/HorrorKidsPack/HorrorGirl/Demo/ThirdPerson/ThirdPerson_AnimBP.PackageMetaData'
+[2021.10.23-16.55.39:084][977]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/ThirdPersonWalk63DF4D94469A04ADE6B215ACD510D94C.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/HorrorKidsPack/HorrorGirl/Animation/ThirdPersonWalk.uasset'
+[2021.10.23-16.55.39:206][977]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/ThirdPerson_AnimBP6430F3F0473E1A132419FD980D6F5B8D.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/HorrorKidsPack/HorrorGirl/Animation/ThirdPerson_AnimBP.uasset'
+[2021.10.23-16.55.39:314][977]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/ThirdPerson_IdleRun_2D9FA982E742AEB2A73A5E069F7370714E.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/HorrorKidsPack/HorrorGirl/Animation/ThirdPerson_IdleRun_2D.uasset'
+[2021.10.23-16.55.39:418][977]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/ThirdPerson_JumpC60C20C14CC4EE20875EB9BEA1A178F1.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/HorrorKidsPack/HorrorGirl/Animation/ThirdPerson_Jump.uasset'
+[2021.10.23-16.55.39:536][977]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/ThirdPersonIdleB762BAE341811D8FD5BCB0B8EB2CBC20.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/HorrorKidsPack/HorrorGirl/Animation/ThirdPersonIdle.uasset'
+[2021.10.23-16.55.39:652][977]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/ThirdPersonJump_StartD569E7E545DDB14313C6B994DAC0589D.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/HorrorKidsPack/HorrorGirl/Animation/ThirdPersonJump_Start.uasset'
+[2021.10.23-16.55.39:771][977]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/ThirdPersonRunD0AC955B4100F3052FE97BA727C6471B.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/HorrorKidsPack/HorrorGirl/Animation/ThirdPersonRun.uasset'
+[2021.10.23-16.55.40:171][977]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.10.23-16.55.40:204][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.10.23-16.55.40:216][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.10.23-16.55.40:227][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.10.23-16.55.40:239][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.10.23-16.55.40:250][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.10.23-16.55.40:262][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.10.23-16.55.40:279][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.10.23-16.55.40:290][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.10.23-16.55.40:319][977]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.23-16.55.40:319][977]LogContentValidation: Display: Validating AnimBlueprint /Game/HorrorKidsPack/HorrorGirl/Animation/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2021.10.23-16.55.40:319][977]LogContentValidation: Display: Validating BlendSpace1D /Game/HorrorKidsPack/HorrorGirl/Animation/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+[2021.10.23-16.55.40:319][977]LogContentValidation: Display: Validating AnimSequence /Game/HorrorKidsPack/HorrorGirl/Animation/ThirdPerson_Jump.ThirdPerson_Jump
+[2021.10.23-16.55.40:319][977]LogContentValidation: Display: Validating AnimSequence /Game/HorrorKidsPack/HorrorGirl/Animation/ThirdPersonWalk.ThirdPersonWalk
+[2021.10.23-16.55.40:319][977]LogContentValidation: Display: Validating AnimSequence /Game/HorrorKidsPack/HorrorGirl/Animation/ThirdPersonRun.ThirdPersonRun
+[2021.10.23-16.55.40:319][977]LogContentValidation: Display: Validating AnimSequence /Game/HorrorKidsPack/HorrorGirl/Animation/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2021.10.23-16.55.40:319][977]LogContentValidation: Display: Validating AnimSequence /Game/HorrorKidsPack/HorrorGirl/Animation/ThirdPersonIdle.ThirdPersonIdle
+[2021.10.23-16.56.03:764][773]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/HorrorKidsPack/HorrorGirl/Animation/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+[2021.10.23-16.56.03:784][773]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.10.23-16.56.04:011][773]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.10.23-16.56.09:216][389]LogSlate: Window 'ThirdPerson_IdleRun_2D' being destroyed
+[2021.10.23-16.56.09:221][389]LogSlate: Window 'ThirdPerson_IdleRun_2D' being destroyed
+[2021.10.23-16.56.09:222][389]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.10.23-16.56.09:222][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.23-16.56.09:255][389]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.10.23-16.56.09:255][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.23-16.56.36:021][570]LogObjectTools: Deleting 1 worlds: /Game/HorrorKidsPack/HorrorGirl/Maps/HorrorGirl.HorrorGirl
+[2021.10.23-16.56.36:021][570]LogObjectTools: Currently 8 active worlds: /Temp/Untitled_1.Untitled_1, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10
+[2021.10.23-16.56.36:037][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.10.23-16.56.37:456][570]LogSlate: Window 'Delete Assets' being destroyed
+[2021.10.23-16.56.37:495][570]LogUObjectGlobals: Force Deleting 61 Package(s):
+	Asset Name: /Game/HorrorKidsPack/HorrorGirl/Animation/Horror_Girl/Anim_HorrorGirl_FlyAttak.Anim_HorrorGirl_FlyAttak
+	Asset Name: /Game/HorrorKidsPack/HorrorGirl/Animation/Horror_Girl_Bear/Anim_HorrorGirl_IdelHorroBear.Anim_HorrorGirl_IdelHorroBear
+	Asset Name: /Game/HorrorKidsPack/HorrorGirl/Animation/Horror_Girl_Bear/Anim_HorrorGirl_IdelBear.Anim_HorrorGirl_IdelBear
+	Asset Name: /Game/HorrorKidsPack/HorrorGirl/Mesh/HorrorGirlBear/Sk_Horror_Girl_Bear_Skeleton.Sk_Horror_Girl_Bear_Skeleton
+	Asset Name: /Game/HorrorKidsPack/HorrorGirl/Materials/Girl/Mat_HorrorGirl_Dress.Mat_HorrorGirl_Dress
+	Asset Name: /Game/HorrorKidsPack/HorrorGirl/Textures/Girl/T_HorrorGirl_Girl_Dress_OcclusionRoughnessMetallic.T_HorrorGirl_Girl_Dress_OcclusionRoughnessMetallic
+	Asset Name: /Game/HorrorKidsPack/HorrorGirl/Textures/Girl/T_HorrorGirl_Girl_Dress_Normal.T_HorrorGirl_Girl_Dress_Normal
+	Asset Name: /Game/HorrorKidsPack/HorrorGirl/Textures/Girl/T_HorrorGirl_Girl_Dress_BaseColor.T_HorrorGirl_Girl_Dress_BaseColor
+	Asset Name: /Game/HorrorKidsPack/HorrorGirl/Animation/Horror_Girl/Anim_HorrorGirl_Walk.Anim_HorrorGirl_Walk
+	Asset Name: /Game/HorrorKidsPack/HorrorGirl/Animation/Horror_Girl/Anim_HorrorGirl_StartFly.Anim_HorrorGirl_StartFly
+[2021.10.23-16.56.38:200][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_GirlHorror in PCD3D_SM5, Default, SM5 (DDC key hash: 65455E1FAA299288A9C1F2AC703961306CBCBCA1), compiling. 
+[2021.10.23-16.56.38:200][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\HorrorGirl\Mat_HorrorGirl_GirlHorror.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:200][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:201][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_GirlHorror in PCD3D_SM5, Default, SM5 (DDC key hash: 65455E1FAA299288A9C1F2AC703961306CBCBCA1), compiling. 
+[2021.10.23-16.56.38:202][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\HorrorGirl\Mat_HorrorGirl_GirlHorror.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:202][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:202][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_GirlHorror in PCD3D_SM5, Default, SM5 (DDC key hash: 65455E1FAA299288A9C1F2AC703961306CBCBCA1), compiling. 
+[2021.10.23-16.56.38:203][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\HorrorGirl\Mat_HorrorGirl_GirlHorror.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:203][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:203][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_GirlHorror in PCD3D_SM5, Default, SM5 (DDC key hash: 65455E1FAA299288A9C1F2AC703961306CBCBCA1), compiling. 
+[2021.10.23-16.56.38:204][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\HorrorGirl\Mat_HorrorGirl_GirlHorror.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:204][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:204][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_GirlHorror in PCD3D_SM5, Default, SM5 (DDC key hash: 65455E1FAA299288A9C1F2AC703961306CBCBCA1), compiling. 
+[2021.10.23-16.56.38:205][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\HorrorGirl\Mat_HorrorGirl_GirlHorror.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:205][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:205][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_GirlHorror in PCD3D_SM5, Default, SM5 (DDC key hash: 65455E1FAA299288A9C1F2AC703961306CBCBCA1), compiling. 
+[2021.10.23-16.56.38:206][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\HorrorGirl\Mat_HorrorGirl_GirlHorror.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:206][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:206][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_GirlHorror in PCD3D_SM5, Default, SM5 (DDC key hash: 65455E1FAA299288A9C1F2AC703961306CBCBCA1), compiling. 
+[2021.10.23-16.56.38:207][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\HorrorGirl\Mat_HorrorGirl_GirlHorror.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:207][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:207][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_GirlHorror in PCD3D_SM5, Default, SM5 (DDC key hash: 65455E1FAA299288A9C1F2AC703961306CBCBCA1), compiling. 
+[2021.10.23-16.56.38:208][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\HorrorGirl\Mat_HorrorGirl_GirlHorror.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:208][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:208][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_GirlHorror in PCD3D_SM5, Default, SM5 (DDC key hash: 65455E1FAA299288A9C1F2AC703961306CBCBCA1), compiling. 
+[2021.10.23-16.56.38:209][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\HorrorGirl\Mat_HorrorGirl_GirlHorror.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:209][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:210][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_Bear in PCD3D_SM5, Default, SM5 (DDC key hash: 781F4C0691BA4A8AC82B73DCF570DD9F233338A2), compiling. 
+[2021.10.23-16.56.38:210][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\Bear\Mat_HorrorGirl_Bear.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:210][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:211][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_Bear in PCD3D_SM5, Default, SM5 (DDC key hash: 781F4C0691BA4A8AC82B73DCF570DD9F233338A2), compiling. 
+[2021.10.23-16.56.38:212][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\Bear\Mat_HorrorGirl_Bear.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:212][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:213][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_Bear in PCD3D_SM5, Default, SM5 (DDC key hash: 781F4C0691BA4A8AC82B73DCF570DD9F233338A2), compiling. 
+[2021.10.23-16.56.38:213][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\Bear\Mat_HorrorGirl_Bear.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:213][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:214][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_Bear in PCD3D_SM5, Default, SM5 (DDC key hash: 781F4C0691BA4A8AC82B73DCF570DD9F233338A2), compiling. 
+[2021.10.23-16.56.38:214][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\Bear\Mat_HorrorGirl_Bear.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:214][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:215][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_Bear in PCD3D_SM5, Default, SM5 (DDC key hash: 781F4C0691BA4A8AC82B73DCF570DD9F233338A2), compiling. 
+[2021.10.23-16.56.38:215][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\Bear\Mat_HorrorGirl_Bear.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:215][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:216][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_Bear in PCD3D_SM5, Default, SM5 (DDC key hash: 781F4C0691BA4A8AC82B73DCF570DD9F233338A2), compiling. 
+[2021.10.23-16.56.38:216][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\Bear\Mat_HorrorGirl_Bear.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:216][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:217][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_Bear in PCD3D_SM5, Default, SM5 (DDC key hash: 781F4C0691BA4A8AC82B73DCF570DD9F233338A2), compiling. 
+[2021.10.23-16.56.38:218][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\Bear\Mat_HorrorGirl_Bear.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:218][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:218][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_Bear in PCD3D_SM5, Default, SM5 (DDC key hash: 781F4C0691BA4A8AC82B73DCF570DD9F233338A2), compiling. 
+[2021.10.23-16.56.38:219][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\Bear\Mat_HorrorGirl_Bear.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:219][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:219][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_Bear in PCD3D_SM5, Default, SM5 (DDC key hash: 781F4C0691BA4A8AC82B73DCF570DD9F233338A2), compiling. 
+[2021.10.23-16.56.38:220][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\Bear\Mat_HorrorGirl_Bear.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:220][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:275][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_Hair in PCD3D_SM5, Default, SM5 (DDC key hash: 1BCD4A34ABFFF6F7828033A2667DB13571FE8D76), compiling. 
+[2021.10.23-16.56.38:275][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\Hair\Mat_HorrorGirl_Hair.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:275][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:276][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_Hair in PCD3D_SM5, Default, SM5 (DDC key hash: 1BCD4A34ABFFF6F7828033A2667DB13571FE8D76), compiling. 
+[2021.10.23-16.56.38:277][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\Hair\Mat_HorrorGirl_Hair.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:277][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:278][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_Hair in PCD3D_SM5, Default, SM5 (DDC key hash: 1BCD4A34ABFFF6F7828033A2667DB13571FE8D76), compiling. 
+[2021.10.23-16.56.38:278][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\Hair\Mat_HorrorGirl_Hair.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:278][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:279][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_Hair in PCD3D_SM5, Default, SM5 (DDC key hash: 1BCD4A34ABFFF6F7828033A2667DB13571FE8D76), compiling. 
+[2021.10.23-16.56.38:280][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\Hair\Mat_HorrorGirl_Hair.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:280][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:280][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_Hair in PCD3D_SM5, Default, SM5 (DDC key hash: 1BCD4A34ABFFF6F7828033A2667DB13571FE8D76), compiling. 
+[2021.10.23-16.56.38:281][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\Hair\Mat_HorrorGirl_Hair.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:281][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:282][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_Hair in PCD3D_SM5, Default, SM5 (DDC key hash: 1BCD4A34ABFFF6F7828033A2667DB13571FE8D76), compiling. 
+[2021.10.23-16.56.38:282][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\Hair\Mat_HorrorGirl_Hair.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:282][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:283][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_Hair in PCD3D_SM5, Default, SM5 (DDC key hash: 1BCD4A34ABFFF6F7828033A2667DB13571FE8D76), compiling. 
+[2021.10.23-16.56.38:283][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\Hair\Mat_HorrorGirl_Hair.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:283][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:284][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_Hair in PCD3D_SM5, Default, SM5 (DDC key hash: 1BCD4A34ABFFF6F7828033A2667DB13571FE8D76), compiling. 
+[2021.10.23-16.56.38:285][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\Hair\Mat_HorrorGirl_Hair.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:285][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:286][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_Hair in PCD3D_SM5, Default, SM5 (DDC key hash: 1BCD4A34ABFFF6F7828033A2667DB13571FE8D76), compiling. 
+[2021.10.23-16.56.38:286][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\Hair\Mat_HorrorGirl_Hair.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:286][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:287][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_DressHorror in PCD3D_SM5, Default, SM5 (DDC key hash: 434419FE48322482030AFAC38C157D325FA746F2), compiling. 
+[2021.10.23-16.56.38:287][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\HorrorGirl\Mat_HorrorGirl_DressHorror.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:287][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:288][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_DressHorror in PCD3D_SM5, Default, SM5 (DDC key hash: 434419FE48322482030AFAC38C157D325FA746F2), compiling. 
+[2021.10.23-16.56.38:288][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\HorrorGirl\Mat_HorrorGirl_DressHorror.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:288][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:289][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_DressHorror in PCD3D_SM5, Default, SM5 (DDC key hash: 434419FE48322482030AFAC38C157D325FA746F2), compiling. 
+[2021.10.23-16.56.38:289][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\HorrorGirl\Mat_HorrorGirl_DressHorror.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:289][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:290][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_DressHorror in PCD3D_SM5, Default, SM5 (DDC key hash: 434419FE48322482030AFAC38C157D325FA746F2), compiling. 
+[2021.10.23-16.56.38:290][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\HorrorGirl\Mat_HorrorGirl_DressHorror.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:290][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:291][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_DressHorror in PCD3D_SM5, Default, SM5 (DDC key hash: 434419FE48322482030AFAC38C157D325FA746F2), compiling. 
+[2021.10.23-16.56.38:291][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\HorrorGirl\Mat_HorrorGirl_DressHorror.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:291][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:292][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_DressHorror in PCD3D_SM5, Default, SM5 (DDC key hash: 434419FE48322482030AFAC38C157D325FA746F2), compiling. 
+[2021.10.23-16.56.38:292][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\HorrorGirl\Mat_HorrorGirl_DressHorror.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:292][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:293][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_DressHorror in PCD3D_SM5, Default, SM5 (DDC key hash: 434419FE48322482030AFAC38C157D325FA746F2), compiling. 
+[2021.10.23-16.56.38:293][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\HorrorGirl\Mat_HorrorGirl_DressHorror.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:293][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:294][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_DressHorror in PCD3D_SM5, Default, SM5 (DDC key hash: 434419FE48322482030AFAC38C157D325FA746F2), compiling. 
+[2021.10.23-16.56.38:294][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\HorrorGirl\Mat_HorrorGirl_DressHorror.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:294][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:295][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_DressHorror in PCD3D_SM5, Default, SM5 (DDC key hash: 434419FE48322482030AFAC38C157D325FA746F2), compiling. 
+[2021.10.23-16.56.38:295][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\HorrorGirl\Mat_HorrorGirl_DressHorror.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:295][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:297][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_Girl in PCD3D_SM5, Default, SM5 (DDC key hash: 39684343CEEB46BBFA986873AA1C66990E03A8FF), compiling. 
+[2021.10.23-16.56.38:298][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\Girl\Mat_HorrorGirl_Girl.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:298][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:299][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_Girl in PCD3D_SM5, Default, SM5 (DDC key hash: 39684343CEEB46BBFA986873AA1C66990E03A8FF), compiling. 
+[2021.10.23-16.56.38:299][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\Girl\Mat_HorrorGirl_Girl.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:299][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:300][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_Girl in PCD3D_SM5, Default, SM5 (DDC key hash: 39684343CEEB46BBFA986873AA1C66990E03A8FF), compiling. 
+[2021.10.23-16.56.38:300][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\Girl\Mat_HorrorGirl_Girl.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:300][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:301][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_Girl in PCD3D_SM5, Default, SM5 (DDC key hash: 39684343CEEB46BBFA986873AA1C66990E03A8FF), compiling. 
+[2021.10.23-16.56.38:301][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\Girl\Mat_HorrorGirl_Girl.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:301][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:302][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_Girl in PCD3D_SM5, Default, SM5 (DDC key hash: 39684343CEEB46BBFA986873AA1C66990E03A8FF), compiling. 
+[2021.10.23-16.56.38:302][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\Girl\Mat_HorrorGirl_Girl.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:302][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:303][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_Girl in PCD3D_SM5, Default, SM5 (DDC key hash: 39684343CEEB46BBFA986873AA1C66990E03A8FF), compiling. 
+[2021.10.23-16.56.38:303][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\Girl\Mat_HorrorGirl_Girl.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:303][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:304][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_Girl in PCD3D_SM5, Default, SM5 (DDC key hash: 39684343CEEB46BBFA986873AA1C66990E03A8FF), compiling. 
+[2021.10.23-16.56.38:304][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\Girl\Mat_HorrorGirl_Girl.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:304][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:305][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_Girl in PCD3D_SM5, Default, SM5 (DDC key hash: 39684343CEEB46BBFA986873AA1C66990E03A8FF), compiling. 
+[2021.10.23-16.56.38:305][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\Girl\Mat_HorrorGirl_Girl.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:305][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:306][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_Girl in PCD3D_SM5, Default, SM5 (DDC key hash: 39684343CEEB46BBFA986873AA1C66990E03A8FF), compiling. 
+[2021.10.23-16.56.38:306][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\Girl\Mat_HorrorGirl_Girl.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:306][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:307][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_BearHorror in PCD3D_SM5, Default, SM5 (DDC key hash: 959C1AB1C4538BF0893466A6B283AFA068B9DA5E), compiling. 
+[2021.10.23-16.56.38:308][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\HorrorBear\Mat_HorrorGirl_BearHorror.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:308][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:309][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_BearHorror in PCD3D_SM5, Default, SM5 (DDC key hash: 959C1AB1C4538BF0893466A6B283AFA068B9DA5E), compiling. 
+[2021.10.23-16.56.38:309][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\HorrorBear\Mat_HorrorGirl_BearHorror.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:309][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:310][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_BearHorror in PCD3D_SM5, Default, SM5 (DDC key hash: 959C1AB1C4538BF0893466A6B283AFA068B9DA5E), compiling. 
+[2021.10.23-16.56.38:310][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\HorrorBear\Mat_HorrorGirl_BearHorror.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:310][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:311][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_BearHorror in PCD3D_SM5, Default, SM5 (DDC key hash: 959C1AB1C4538BF0893466A6B283AFA068B9DA5E), compiling. 
+[2021.10.23-16.56.38:311][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\HorrorBear\Mat_HorrorGirl_BearHorror.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:311][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:312][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_BearHorror in PCD3D_SM5, Default, SM5 (DDC key hash: 959C1AB1C4538BF0893466A6B283AFA068B9DA5E), compiling. 
+[2021.10.23-16.56.38:312][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\HorrorBear\Mat_HorrorGirl_BearHorror.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:312][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:313][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_BearHorror in PCD3D_SM5, Default, SM5 (DDC key hash: 959C1AB1C4538BF0893466A6B283AFA068B9DA5E), compiling. 
+[2021.10.23-16.56.38:313][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\HorrorBear\Mat_HorrorGirl_BearHorror.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:313][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:314][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_BearHorror in PCD3D_SM5, Default, SM5 (DDC key hash: 959C1AB1C4538BF0893466A6B283AFA068B9DA5E), compiling. 
+[2021.10.23-16.56.38:314][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\HorrorBear\Mat_HorrorGirl_BearHorror.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:314][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:315][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_BearHorror in PCD3D_SM5, Default, SM5 (DDC key hash: 959C1AB1C4538BF0893466A6B283AFA068B9DA5E), compiling. 
+[2021.10.23-16.56.38:315][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\HorrorBear\Mat_HorrorGirl_BearHorror.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:315][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:316][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_BearHorror in PCD3D_SM5, Default, SM5 (DDC key hash: 959C1AB1C4538BF0893466A6B283AFA068B9DA5E), compiling. 
+[2021.10.23-16.56.38:317][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\HorrorBear\Mat_HorrorGirl_BearHorror.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:317][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:319][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_Dress in PCD3D_SM5, Default, SM5 (DDC key hash: 623039095719881E30C22B434D334DFE05DEB859), compiling. 
+[2021.10.23-16.56.38:319][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\Girl\Mat_HorrorGirl_Dress.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:319][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:320][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_Dress in PCD3D_SM5, Default, SM5 (DDC key hash: 623039095719881E30C22B434D334DFE05DEB859), compiling. 
+[2021.10.23-16.56.38:320][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\Girl\Mat_HorrorGirl_Dress.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:320][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:321][570]LogMaterial: Display: Missing cached shadermap for Mat_HorrorGirl_Dress in PCD3D_SM5, Default, SM5 (DDC key hash: 623039095719881E30C22B434D334DFE05DEB859), compiling. 
+[2021.10.23-16.56.38:321][570]LogMaterial: Warning: [AssetLog] C:\Users\isach\source\repos\IsaacXB\DVJ2\ActividadIndividual\EscapeMadness\Content\HorrorKidsPack\HorrorGirl\Materials\Girl\Mat_HorrorGirl_Dress.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.23-16.56.38:321][570]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.23-16.56.38:964][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.10.23-16.56.39:016][570]LogWorld: UWorld::CleanupWorld for HorrorGirl, bSessionEnded=true, bCleanupResources=true
+[2021.10.23-16.56.39:016][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.23-16.56.39:159][570]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.10.23-16.56.39:257][570]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.099 s
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: === Handled ensure: ===
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: 
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: Ensure condition failed: CurObject != nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 3143]
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: 
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: Stack: 
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffc8ea7b6b9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffc8e342d8b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffc8da8b269 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffc8dd6eade UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffc8dd65b97 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffd1679a6fe UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffd167b280e UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffd1660421e UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffd1667e104 UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffd16667097 UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffd16659b62 UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffd5f3dc025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffd5f3c92b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffd5f3de465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffd5f3c4410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffd6f6fe7e8 USER32.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffd6f6fe229 USER32.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffd5f3dfb79 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffd1668865a UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffd16626b09 UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffc8de01b9e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffc8e336962 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffc886cc468 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffc76322d69 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffc76322f6e UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffc763123a7 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffc88e11af3 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffc88e0af42 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffc88e8b6d2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffc88e0ea17 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffd1679a6fe UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffd167b280e UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffd1660421e UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffd1667e104 UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffd16667097 UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffd16659b62 UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffd5f3dc025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffd5f3c92b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffd5f3de465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffd5f3c4410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffd6f6fe7e8 USER32.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffd6f6fe229 USER32.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffd5f3dfcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ff7d0b57621 UE4Editor.exe!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ff7d0b70fbc UE4Editor.exe!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ff7d0b710aa UE4Editor.exe!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ff7d0b740cd UE4Editor.exe!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ff7d0b85984 UE4Editor.exe!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ff7d0b8853a UE4Editor.exe!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffd6e217034 KERNEL32.DLL!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: [Callstack] 0x00007ffd70022651 ntdll.dll!UnknownFunction []
+[2021.10.23-16.56.39:257][570]LogOutputDevice: Error: 

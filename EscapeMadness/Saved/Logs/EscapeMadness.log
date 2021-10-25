@@ -10120,3 +10120,1710 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.24-21.39.18:464][299]LogContentValidation: Display: Validating BlendSpace1D /Game/Personaje/Animaciones/BlendSpace/BS1D_Personaje_Inactivo_Correr2.BS1D_Personaje_Inactivo_Correr2
 [2021.10.24-21.39.18:464][299]LogContentValidation: Display: Validating AnimSequence /Game/Personaje/Animaciones/Acciones/Anim_Personaje_Saltar3.Anim_Personaje_Saltar3
 [2021.10.24-21.39.18:464][299]LogContentValidation: Display: Validating World /Game/Mapas/Mapa_04.Mapa_04
+[2021.10.24-21.39.37:872][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_04" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.24-21.39.37:904][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.10.24-21.39.37:925][711]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_0444368A9F4D2692D50704A9AE90785FDF.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04.umap'
+[2021.10.24-21.39.37:981][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_04_BuiltData" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04_BuiltData.uasset" SILENT=true
+[2021.10.24-21.39.37:997][711]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_04_BuiltData4D2BF4F84D28ABD5163107B30BE850EE.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04_BuiltData.uasset'
+[2021.10.24-21.39.38:005][711]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.24-21.39.38:005][711]LogContentValidation: Display: Validating World /Game/Mapas/Mapa_04.Mapa_04
+[2021.10.24-21.39.38:005][711]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/Mapa_04_BuiltData.Mapa_04_BuiltData
+[2021.10.24-21.39.46:781][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.10.24-21.39.46:809][607]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Mapas/Mapa_Pruebas.Mapa_Pruebas
+[2021.10.24-21.39.46:809][607]Cmd: MAP LOAD FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_Pruebas.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.24-21.39.46:809][607]LightingResults: New page: Lighting Build
+[2021.10.24-21.39.46:809][607]LoadErrors: New page: Loading map: Mapa_Pruebas.umap
+[2021.10.24-21.39.46:839][607]LogWorld: UWorld::CleanupWorld for Mapa_04, bSessionEnded=true, bCleanupResources=true
+[2021.10.24-21.39.46:839][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.24-21.39.46:840][607]MapCheck: New page: Map Check
+[2021.10.24-21.39.46:840][607]LightingResults: New page: Lighting Build
+[2021.10.24-21.39.46:869][607]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.24-21.39.46:874][607]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.10.24-21.39.46:874][607]LogAudio: Display: Audio Device (ID: 1) registered with world 'Mapa_Pruebas'.
+[2021.10.24-21.39.46:941][607]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.24-21.39.46:941][607]LogAIModule: Creating AISystem for world Mapa_Pruebas
+[2021.10.24-21.39.46:976][607]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.10.24-21.39.46:980][607]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.24-21.39.46:980][607]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.122ms to complete.
+[2021.10.24-21.39.46:980][607]LogFileHelpers: Loading map 'Mapa_Pruebas' took 0.171
+[2021.10.24-21.40.06:749][619]LogEditorViewport: Clicking on Actor (LMB): BP_Puerta_Salida_C (BP_Puerta_Salida)
+[2021.10.24-21.40.15:258][435]LogEditorViewport: Clicking on Actor (LMB): BP_Objetivo_C (BP_Objetivo)
+[2021.10.24-21.40.18:947][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.10.24-21.40.18:965][765]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_Pruebas4F8E74CB4680FF5B4044CA92300A66E3.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_Pruebas.umap'
+[2021.10.24-21.40.19:017][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_Pruebas_BuiltData" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_Pruebas_BuiltData.uasset" SILENT=true
+[2021.10.24-21.40.19:029][765]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_Pruebas_BuiltData1C974918427E3F556BF75180A2B043FB.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_Pruebas_BuiltData.uasset'
+[2021.10.24-21.40.19:038][765]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.24-21.40.19:038][765]LogContentValidation: Display: Validating World /Game/Mapas/Mapa_Pruebas.Mapa_Pruebas
+[2021.10.24-21.40.19:038][765]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/Mapa_Pruebas_BuiltData.Mapa_Pruebas_BuiltData
+[2021.10.24-21.40.23:226][157]MapCheck: New page: Map Check
+[2021.10.24-21.40.23:238][157]Cmd: MAP REBUILD ALLVISIBLE
+[2021.10.24-21.40.23:238][157]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.10.24-21.40.23:301][157]LogWorld: UWorld::CleanupWorld for Mapa_Pruebas, bSessionEnded=true, bCleanupResources=false
+[2021.10.24-21.40.23:314][157]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.10.24-21.40.23:314][157]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.10.24-21.40.23:314][157]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.10.24-21.40.23:347][157]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.10.24-21.40.23:351][157]LogLevel: Display: Export Material TexCoord Scales took 0.003 seconds.
+[2021.10.24-21.40.23:355][157]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2021.10.24-21.40.23:384][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.10.24-21.40.23:386][157]LightingResults: New page: Lighting Build - Oct 24, 2021, 9:40:23 AM
+[2021.10.24-21.40.23:388][157]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.10.24-21.40.23:393][157]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.10.24-21.40.23:393][157]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.10.24-21.40.23:394][157]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.10.24-21.40.23:394][157]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20708
+[2021.10.24-21.40.27:950][157]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.10.24-21.40.27:950][157]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.10.24-21.40.27:950][157]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.10.24-21.40.27:950][157]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.10.24-21.40.27:950][157]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.10.24-21.40.27:950][157]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.10.24-21.40.28:038][157]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.10.24-21.40.28:038][157]MapCheck: New page: Mapa_Pruebas - Oct 24, 2021, 9:40:28 AM
+[2021.10.24-21.40.28:038][157]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.269ms to complete.
+[2021.10.24-21.40.28:040][157]LogEditorBuildUtils: Build time 0:04
+[2021.10.24-21.40.28:058][157]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.10.24-21.40.28:058][157]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2021.10.24-21.40.28:058][157]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2021.10.24-21.40.28:058][157]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.00%
+[2021.10.24-21.40.28:058][157]LogShaderCompilers: Display: ================================================
+[2021.10.24-21.40.28:195][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.10.24-21.40.30:122][272]Job is a success!
+[2021.10.24-21.40.30:221][273]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2021.10.24-21.40.30:221][273]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.10.24-21.40.30:221][273]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb
+[2021.10.24-21.40.30:221][273]LogVolumetricLightmapImport:      Bricks at depth
+[2021.10.24-21.40.30:221][273]LogVolumetricLightmapImport:          0: 3.0% covering 100.0% of volume
+[2021.10.24-21.40.30:221][273]LogVolumetricLightmapImport:          1: 3.0% covering 1.6% of volume
+[2021.10.24-21.40.30:221][273]LogVolumetricLightmapImport:          2: 93.9% covering 0.8% of volume
+[2021.10.24-21.40.30:221][273]LogVolumetricLightmapImport:      Bricks in each level
+[2021.10.24-21.40.30:221][273]LogVolumetricLightmapImport:          Mapa_Pruebas 			 33 bricks 	 100.0% (Persistent Level)
+[2021.10.24-21.40.30:263][273]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 512X512)
+[2021.10.24-21.40.30:263][273]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 512X512)
+[2021.10.24-21.40.30:263][273]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 64X64)
+[2021.10.24-21.40.30:263][273]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 64X64)
+[2021.10.24-21.40.30:263][273]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2021.10.24-21.40.30:263][273]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X256)
+[2021.10.24-21.40.30:264][273]LogStaticLightingSystem: Mapa_Pruebas_BuiltData storing lightmap data for 9 meshes in 2 LightmapResourceClusters (4.5 Meshes per cluster).
+[2021.10.24-21.40.30:297][273]Lightmass on DESKTOP-5J514UK: 903 ms total, 74 ms importing, 25 ms setup, 58 ms photons, 700 ms processing, 0 ms extra exporting [50/50 mappings]. Threads: 10.5 sec total, 724 ms processing.
+[2021.10.24-21.40.30:300][273]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.10.24-21.40.30:334][273]LogStaticLightingSystem: Illumination: 6.89 sec (13 ms encoding lightmaps, 9 ms encoding shadowmaps)
+[2021.10.24-21.40.30:334][273]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.0 MB streaming, 0.5 MB non-streaming), 4 textures
+[2021.10.24-21.40.30:334][273]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.0 MB streaming, 0.1 MB non-streaming), 2 textures
+[2021.10.24-21.40.30:958][273]DumpUnbuiltLightIteractions
+[2021.10.24-21.40.30:958][273]Lights with unbuilt interactions: 0
+[2021.10.24-21.40.30:958][273]
+[2021.10.24-21.40.30:958][273]Primitives with unbuilt interactions: 0
+[2021.10.24-21.40.31:000][274]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.10.24-21.40.31:000][274]MapCheck: New page: Mapa_Pruebas - Oct 24, 2021, 9:40:31 AM
+[2021.10.24-21.40.31:001][274]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.264ms to complete.
+[2021.10.24-21.40.57:506][863]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.24-21.40.57:512][863]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.24-21.40.57:512][863]PIE: New page: PIE session: Mapa_Pruebas (Oct 24, 2021, 9:40:57 AM)
+[2021.10.24-21.40.57:539][863]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Mapa_Pruebas
+[2021.10.24-21.40.57:544][863]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004573s)
+[2021.10.24-21.40.57:544][863]LogAIModule: Creating AISystem for world Mapa_Pruebas
+[2021.10.24-21.40.57:544][863]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2021.10.24-21.40.57:544][863]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Mapa_Pruebas.Mapa_Pruebas to /Game/Mapas/UEDPIE_0_Mapa_Pruebas.Mapa_Pruebas (0.005459s)
+[2021.10.24-21.40.57:576][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.10.24-21.40.57:580][863]LogAudio: Display: Creating Audio Device:                 Id: 112, Scope: Unique, Realtime: True
+[2021.10.24-21.40.57:580][863]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.24-21.40.57:580][863]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.24-21.40.57:580][863]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.24-21.40.57:580][863]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.24-21.40.57:580][863]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.24-21.40.57:580][863]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.24-21.40.57:581][863]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.24-21.40.57:581][863]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.24-21.40.57:581][863]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.24-21.40.57:581][863]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.24-21.40.57:581][863]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.24-21.40.57:581][863]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.24-21.40.57:584][863]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.24-21.40.57:584][863]LogAudioMixer: Display: 1: FrontRight
+[2021.10.24-21.40.57:584][863]LogAudioMixer: Display: 2: FrontCenter
+[2021.10.24-21.40.57:584][863]LogAudioMixer: Display: 3: LowFrequency
+[2021.10.24-21.40.57:584][863]LogAudioMixer: Display: 4: BackLeft
+[2021.10.24-21.40.57:584][863]LogAudioMixer: Display: 5: BackRight
+[2021.10.24-21.40.57:584][863]LogAudioMixer: Display: 6: SideLeft
+[2021.10.24-21.40.57:584][863]LogAudioMixer: Display: 7: SideRight
+[2021.10.24-21.40.57:594][863]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G560 Gaming Speaker)
+[2021.10.24-21.40.57:595][863]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.24-21.40.57:595][863]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.24-21.40.57:595][863]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.24-21.40.57:595][863]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.24-21.40.57:595][863]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.24-21.40.57:595][863]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.10.24-21.40.57:596][863]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.24-21.40.57:596][863]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.24-21.40.57:596][863]LogInit: FAudioDevice initialized.
+[2021.10.24-21.40.57:596][863]LogAudio: Display: Audio Device (ID: 112) registered with world 'Mapa_Pruebas'.
+[2021.10.24-21.40.57:608][863]LogLoad: Game class is 'BP_ModoDeJuego_C'
+[2021.10.24-21.40.57:609][863]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Mapa_Pruebas.Mapa_Pruebas up for play (max tick rate 0) at 2021.10.24-15.40.57
+[2021.10.24-21.40.57:609][863]LogWorld: Bringing up level for play took: 0.000749
+[2021.10.24-21.40.57:609][863]LogOnline: OSS: Creating online subsystem instance for: :Context_155
+[2021.10.24-21.40.57:612][863]PIE: Server logged in
+[2021.10.24-21.40.57:612][863]PIE: Play in editor total start time 0.103 seconds.
+[2021.10.24-21.41.15:723][846]LogNet: Browse: /Game/Mapas/Mapa_Pruebas
+[2021.10.24-21.41.15:724][846]LogLoad: LoadMap: /Game/Mapas/Mapa_Pruebas
+[2021.10.24-21.41.15:724][846]LogWorld: BeginTearingDown for /Game/Mapas/UEDPIE_0_Mapa_Pruebas
+[2021.10.24-21.41.15:724][846]LogWorld: UWorld::CleanupWorld for Mapa_Pruebas, bSessionEnded=true, bCleanupResources=true
+[2021.10.24-21.41.15:724][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.24-21.41.15:780][846]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.24-21.41.15:783][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.10.24-21.41.15:785][846]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Mapa_Pruebas
+[2021.10.24-21.41.15:790][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004659s)
+[2021.10.24-21.41.15:790][846]LogAIModule: Creating AISystem for world Mapa_Pruebas
+[2021.10.24-21.41.15:791][846]LogPlayLevel: PIE: World Init took: (0.000982s)
+[2021.10.24-21.41.15:791][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Mapa_Pruebas.Mapa_Pruebas to /Game/Mapas/UEDPIE_0_Mapa_Pruebas.Mapa_Pruebas (0.005766s)
+[2021.10.24-21.41.15:791][846]LogAudio: Display: Audio Device (ID: 112) registered with world 'Mapa_Pruebas'.
+[2021.10.24-21.41.15:791][846]LogLoad: Game class is 'BP_ModoDeJuego_C'
+[2021.10.24-21.41.15:792][846]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Mapa_Pruebas.Mapa_Pruebas up for play (max tick rate 0) at 2021.10.24-15.41.15
+[2021.10.24-21.41.15:792][846]LogWorld: Bringing up level for play took: 0.000584
+[2021.10.24-21.41.15:793][846]LogLoad: Took 0.069800 seconds to LoadMap(/Game/Mapas/UEDPIE_0_Mapa_Pruebas)
+[2021.10.24-21.41.16:842][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.24-21.41.16:842][957]LogWorld: BeginTearingDown for /Game/Mapas/UEDPIE_0_Mapa_Pruebas
+[2021.10.24-21.41.16:842][957]LogWorld: UWorld::CleanupWorld for Mapa_Pruebas, bSessionEnded=true, bCleanupResources=true
+[2021.10.24-21.41.16:842][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.24-21.41.16:853][957]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.24-21.41.16:863][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.24-21.41.16:892][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.24-21.41.16:893][957]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.24-21.41.16:894][957]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.24-21.41.16:899][957]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.10.24-21.41.16:936][958]LogPlayLevel: Display: Destroying online subsystem :Context_155
+[2021.10.24-21.41.18:451][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.10.24-21.41.18:465][ 90]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_Pruebas11AFC87E4E245C998114DC8776A84348.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_Pruebas.umap'
+[2021.10.24-21.41.18:520][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_Pruebas_BuiltData" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_Pruebas_BuiltData.uasset" SILENT=true
+[2021.10.24-21.41.18:529][ 90]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_Pruebas_BuiltDataE243C3DE47870B6D960E18A5E756F450.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_Pruebas_BuiltData.uasset'
+[2021.10.24-21.41.18:538][ 90]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.24-21.41.18:538][ 90]LogContentValidation: Display: Validating World /Game/Mapas/Mapa_Pruebas.Mapa_Pruebas
+[2021.10.24-21.41.18:538][ 90]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/Mapa_Pruebas_BuiltData.Mapa_Pruebas_BuiltData
+[2021.10.24-21.41.47:351][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.10.24-21.41.48:032][841]LogSlate: Window 'Delete Assets' being destroyed
+[2021.10.24-21.41.48:156][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.10.24-21.41.48:193][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.10.24-21.41.48:225][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.10.24-21.41.48:351][841]SourceControl: Error: Updated 0 paths from the index
+[2021.10.24-21.41.48:433][841]SourceControl: rm 'EscapeMadness/Content/Meshes/Box_Brush7_StaticMesh.uasset'
+[2021.10.24-21.56.00:495][ 91]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.24-21.56.00:501][ 91]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.24-21.56.00:501][ 91]PIE: New page: PIE session: Mapa_Pruebas (Oct 24, 2021, 9:56:00 AM)
+[2021.10.24-21.56.00:529][ 91]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Mapa_Pruebas
+[2021.10.24-21.56.00:534][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005277s)
+[2021.10.24-21.56.00:535][ 91]LogAIModule: Creating AISystem for world Mapa_Pruebas
+[2021.10.24-21.56.00:535][ 91]LogPlayLevel: PIE: World Init took: (0.000988s)
+[2021.10.24-21.56.00:535][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Mapa_Pruebas.Mapa_Pruebas to /Game/Mapas/UEDPIE_0_Mapa_Pruebas.Mapa_Pruebas (0.006415s)
+[2021.10.24-21.56.00:572][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.10.24-21.56.00:579][ 91]LogAudio: Display: Creating Audio Device:                 Id: 113, Scope: Unique, Realtime: True
+[2021.10.24-21.56.00:579][ 91]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.24-21.56.00:579][ 91]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.24-21.56.00:579][ 91]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.24-21.56.00:579][ 91]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.24-21.56.00:579][ 91]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.24-21.56.00:579][ 91]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.24-21.56.00:579][ 91]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.24-21.56.00:579][ 91]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.24-21.56.00:580][ 91]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.24-21.56.00:580][ 91]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.24-21.56.00:580][ 91]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.24-21.56.00:580][ 91]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.24-21.56.00:583][ 91]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.24-21.56.00:583][ 91]LogAudioMixer: Display: 1: FrontRight
+[2021.10.24-21.56.00:583][ 91]LogAudioMixer: Display: 2: FrontCenter
+[2021.10.24-21.56.00:583][ 91]LogAudioMixer: Display: 3: LowFrequency
+[2021.10.24-21.56.00:583][ 91]LogAudioMixer: Display: 4: BackLeft
+[2021.10.24-21.56.00:583][ 91]LogAudioMixer: Display: 5: BackRight
+[2021.10.24-21.56.00:583][ 91]LogAudioMixer: Display: 6: SideLeft
+[2021.10.24-21.56.00:583][ 91]LogAudioMixer: Display: 7: SideRight
+[2021.10.24-21.56.00:593][ 91]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G560 Gaming Speaker)
+[2021.10.24-21.56.00:594][ 91]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.24-21.56.00:594][ 91]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.24-21.56.00:594][ 91]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.24-21.56.00:594][ 91]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.24-21.56.00:594][ 91]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.24-21.56.00:594][ 91]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.10.24-21.56.00:595][ 91]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.24-21.56.00:595][ 91]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.24-21.56.00:595][ 91]LogInit: FAudioDevice initialized.
+[2021.10.24-21.56.00:595][ 91]LogAudio: Display: Audio Device (ID: 113) registered with world 'Mapa_Pruebas'.
+[2021.10.24-21.56.00:602][ 91]LogLoad: Game class is 'BP_ModoDeJuego_C'
+[2021.10.24-21.56.00:604][ 91]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Mapa_Pruebas.Mapa_Pruebas up for play (max tick rate 0) at 2021.10.24-15.56.00
+[2021.10.24-21.56.00:604][ 91]LogWorld: Bringing up level for play took: 0.000841
+[2021.10.24-21.56.00:604][ 91]LogOnline: OSS: Creating online subsystem instance for: :Context_156
+[2021.10.24-21.56.00:607][ 91]PIE: Server logged in
+[2021.10.24-21.56.00:608][ 91]PIE: Play in editor total start time 0.108 seconds.
+[2021.10.24-21.56.03:331][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.24-21.56.03:331][384]LogWorld: BeginTearingDown for /Game/Mapas/UEDPIE_0_Mapa_Pruebas
+[2021.10.24-21.56.03:331][384]LogWorld: UWorld::CleanupWorld for Mapa_Pruebas, bSessionEnded=true, bCleanupResources=true
+[2021.10.24-21.56.03:331][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.24-21.56.03:338][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.24-21.56.03:348][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.24-21.56.03:378][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.24-21.56.03:378][384]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.24-21.56.03:379][384]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.24-21.56.03:385][384]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.10.24-21.56.03:424][385]LogPlayLevel: Display: Destroying online subsystem :Context_156
+[2021.10.24-21.56.08:152][788]LogSlate: Window 'SW_Plataforma_Activar' being destroyed
+[2021.10.24-21.56.08:153][788]LogSlate: Window 'SW_Plataforma_Activar' being destroyed
+[2021.10.24-21.56.08:157][788]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2021.10.24-21.56.08:157][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.24-21.56.08:208][788]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.10.24-21.56.08:208][788]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2021.10.24-21.56.08:208][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.24-21.56.08:252][788]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2021.10.24-21.56.08:252][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.24-21.56.08:260][788]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2021.10.24-21.56.08:260][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.24-21.56.08:317][788]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2021.10.24-21.56.08:317][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.24-21.56.08:334][788]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2021.10.24-21.56.08:334][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.24-21.56.08:374][788]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2021.10.24-21.56.08:374][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.24-21.56.08:392][788]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.10.24-21.56.08:393][788]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2021.10.24-21.56.08:393][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.24-21.56.08:441][788]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.10.24-21.56.08:441][788]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2021.10.24-21.56.08:441][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.24-21.56.08:487][788]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.10.24-21.56.08:488][788]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2021.10.24-21.56.08:488][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.24-21.56.09:649][881]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.10.24-21.56.09:666][881]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_PruebasD3DB84DA48C9888931DF088AD097C903.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_Pruebas.umap'
+[2021.10.24-21.56.09:722][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_Pruebas_BuiltData" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_Pruebas_BuiltData.uasset" SILENT=true
+[2021.10.24-21.56.09:730][881]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_Pruebas_BuiltData26334B8246E179B66AA2E1BCD912BA42.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_Pruebas_BuiltData.uasset'
+[2021.10.24-21.56.09:737][881]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.24-21.56.09:737][881]LogContentValidation: Display: Validating World /Game/Mapas/Mapa_Pruebas.Mapa_Pruebas
+[2021.10.24-21.56.09:737][881]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/Mapa_Pruebas_BuiltData.Mapa_Pruebas_BuiltData
+[2021.10.24-22.53.38:792][367]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2021.10.24-23.14.38:739][120]LogHttp: Warning: 000001AA53380100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE3C835E8-4103-2489-462C-E0BE8DFB6317%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.0-17155196%2B%2B%2BUE4%2BRelease-4.27&UserID=1692a9e84c56e42c01a566bd686f37f5%7C9bc93f4ac86d445ca0c3f8963d13596b%7C56e04df4-9d37-427a-90d9-cb37fdee8acd&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.10.24-23.14.38:739][120]LogHttp: Warning: 000001AA53380100: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.10.24-23.14.38:739][120]LogHttp: Warning: 000001AA53380100: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1a8c5fc7eb0 [can pipeline])
+[2021.10.24-23.14.38:739][120]LogHttp: Warning: 000001AA53380100: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2021.10.24-23.14.38:739][120]LogHttp: Warning: 000001AA53380100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.85.148.225) port 443 (#0))
+[2021.10.24-23.14.38:739][120]LogHttp: Warning: 000001AA53380100: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.10.24-23.14.38:739][120]LogHttp: Warning: 000001AA53380100: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.10.24-23.14.38:739][120]LogHttp: Warning: 000001AA53380100: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.10.24-23.14.38:739][120]LogHttp: Warning: 000001AA53380100: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.10.24-23.14.38:739][120]LogHttp: Warning: 000001AA53380100: libcurl info message cache 7 (Closing connection 0)
+[2021.10.24-23.14.38:739][120]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE3C835E8-4103-2489-462C-E0BE8DFB6317%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.0-17155196%2B%2B%2BUE4%2BRelease-4.27&UserID=1692a9e84c56e42c01a566bd686f37f5%7C9bc93f4ac86d445ca0c3f8963d13596b%7C56e04df4-9d37-427a-90d9-cb37fdee8acd&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.10.25-00.23.25:464][298]LogMetaData: Removing '/Game/Enemigos/AI/BT_MovimientoEnemigo.BT_MovimientoEnemigo:Behavior Tree.BehaviorTreeGraphNode_Root_0' ref from Metadata '/Game/Enemigos/Asesino/AI/BT_MovimientoEnemigo.PackageMetaData'
+[2021.10.25-00.23.25:465][298]LogMetaData: Removing '/Game/Enemigos/AI/BP_Task_Patrullar.BP_Task_Patrullar_C' ref from Metadata '/Game/Enemigos/Asesino/AI/BP_Task_Patrullar.PackageMetaData'
+[2021.10.25-00.23.25:465][298]LogMetaData: Removing '/Game/Enemigos/AI/BP_Task_Patrullar.SKEL_BP_Task_Patrullar_C:ReceiveExecuteAI' ref from Metadata '/Game/Enemigos/Asesino/AI/BP_Task_Patrullar.PackageMetaData'
+[2021.10.25-00.23.25:465][298]LogMetaData: Removing '/Game/Enemigos/AI/BP_Task_Patrullar.SKEL_BP_Task_Patrullar_C' ref from Metadata '/Game/Enemigos/Asesino/AI/BP_Task_Patrullar.PackageMetaData'
+[2021.10.25-00.23.25:465][298]LogMetaData: Removing '/Game/Enemigos/AI/BP_Task_Patrullar.BP_Task_Patrullar_C:ReceiveExecuteAI' ref from Metadata '/Game/Enemigos/Asesino/AI/BP_Task_Patrullar.PackageMetaData'
+[2021.10.25-00.23.25:466][298]LogMetaData: Removing '/Game/Enemigos/AI/BP_Task_Patrullar.BP_Task_Patrullar_C:OnSuccess_3A126B344C182EE5536064AFAA937E52' ref from Metadata '/Game/Enemigos/Asesino/AI/BP_Task_Patrullar.PackageMetaData'
+[2021.10.25-00.23.25:466][298]LogMetaData: Removing '/Game/Enemigos/AI/BP_Task_Patrullar.BP_Task_Patrullar_C:OnFail_3A126B344C182EE5536064AFAA937E52' ref from Metadata '/Game/Enemigos/Asesino/AI/BP_Task_Patrullar.PackageMetaData'
+[2021.10.25-00.23.25:483][298]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/BT_MovimientoEnemigo9B11E70F46BB80285ED57DAE853C0564.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Enemigos/AI/BT_MovimientoEnemigo.uasset'
+[2021.10.25-00.23.25:579][298]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/BP_Task_Patrullar7282BBCA4D6695B2762515A710C4C5D5.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Enemigos/AI/BP_Task_Patrullar.uasset'
+[2021.10.25-00.23.25:840][298]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.10.25-00.23.25:864][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.10.25-00.23.25:881][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.10.25-00.23.25:894][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.10.25-00.23.25:970][298]SourceControl: rm 'EscapeMadness/Content/Enemigos/Asesino/AI/BP_Task_Patrullar.uasset'
+[2021.10.25-00.23.25:970][298]SourceControl: rm 'EscapeMadness/Content/Enemigos/Asesino/AI/BT_MovimientoEnemigo.uasset'
+[2021.10.25-00.23.26:083][298]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/BP_Frenetico_01330D73AB4A2858DB62DF1F9B85F4E8AA.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Frenetico_01.uasset'
+[2021.10.25-00.23.26:128][298]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.25-00.23.26:128][298]LogContentValidation: Display: Validating Blueprint /Game/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Frenetico_01.BP_Frenetico_01
+[2021.10.25-00.23.26:129][298]LogContentValidation: Display: Validating BehaviorTree /Game/Enemigos/AI/BT_MovimientoEnemigo.BT_MovimientoEnemigo
+[2021.10.25-00.23.26:129][298]LogContentValidation: Display: Validating Blueprint /Game/Enemigos/AI/BP_Task_Patrullar.BP_Task_Patrullar
+[2021.10.25-00.24.40:287][ 24]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.25-00.24.40:293][ 24]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.10.25-00.24.40:294][ 24]LogPlayLevel: [PlayLevel] Compiling BP_Frenetico_01 before play...
+[2021.10.25-00.24.40:325][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.10.25-00.24.40:342][ 24]LogPlayLevel: PlayLevel: Blueprint regeneration took 49 ms (1 blueprints)
+[2021.10.25-00.24.40:342][ 24]PIE: New page: PIE session: Mapa_Pruebas (Oct 24, 2021, 12:24:40 PM)
+[2021.10.25-00.24.40:380][ 24]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Mapa_Pruebas
+[2021.10.25-00.24.40:385][ 24]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005402s)
+[2021.10.25-00.24.40:386][ 24]LogAIModule: Creating AISystem for world Mapa_Pruebas
+[2021.10.25-00.24.40:386][ 24]LogPlayLevel: PIE: World Init took: (0.001009s)
+[2021.10.25-00.24.40:386][ 24]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Mapa_Pruebas.Mapa_Pruebas to /Game/Mapas/UEDPIE_0_Mapa_Pruebas.Mapa_Pruebas (0.006541s)
+[2021.10.25-00.24.40:399][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.10.25-00.24.40:400][ 24]LogAudio: Display: Creating Audio Device:                 Id: 114, Scope: Unique, Realtime: True
+[2021.10.25-00.24.40:400][ 24]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.25-00.24.40:400][ 24]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.25-00.24.40:400][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.25-00.24.40:400][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.25-00.24.40:400][ 24]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.25-00.24.40:400][ 24]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.25-00.24.40:400][ 24]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.25-00.24.40:400][ 24]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.25-00.24.40:400][ 24]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.25-00.24.40:400][ 24]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.25-00.24.40:400][ 24]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.25-00.24.40:400][ 24]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.25-00.24.40:403][ 24]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.25-00.24.40:403][ 24]LogAudioMixer: Display: 1: FrontRight
+[2021.10.25-00.24.40:403][ 24]LogAudioMixer: Display: 2: FrontCenter
+[2021.10.25-00.24.40:403][ 24]LogAudioMixer: Display: 3: LowFrequency
+[2021.10.25-00.24.40:403][ 24]LogAudioMixer: Display: 4: BackLeft
+[2021.10.25-00.24.40:404][ 24]LogAudioMixer: Display: 5: BackRight
+[2021.10.25-00.24.40:404][ 24]LogAudioMixer: Display: 6: SideLeft
+[2021.10.25-00.24.40:404][ 24]LogAudioMixer: Display: 7: SideRight
+[2021.10.25-00.24.40:414][ 24]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G560 Gaming Speaker)
+[2021.10.25-00.24.40:414][ 24]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.25-00.24.40:414][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.25-00.24.40:414][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.25-00.24.40:414][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.25-00.24.40:414][ 24]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.25-00.24.40:414][ 24]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.10.25-00.24.40:415][ 24]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.25-00.24.40:415][ 24]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.25-00.24.40:415][ 24]LogInit: FAudioDevice initialized.
+[2021.10.25-00.24.40:415][ 24]LogAudio: Display: Audio Device (ID: 114) registered with world 'Mapa_Pruebas'.
+[2021.10.25-00.24.40:425][ 24]LogLoad: Game class is 'BP_ModoDeJuego_C'
+[2021.10.25-00.24.40:427][ 24]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Mapa_Pruebas.Mapa_Pruebas up for play (max tick rate 0) at 2021.10.24-18.24.40
+[2021.10.25-00.24.40:427][ 24]LogWorld: Bringing up level for play took: 0.001296
+[2021.10.25-00.24.40:427][ 24]LogOnline: OSS: Creating online subsystem instance for: :Context_160
+[2021.10.25-00.24.40:430][ 24]PIE: Server logged in
+[2021.10.25-00.24.40:430][ 24]PIE: Play in editor total start time 0.139 seconds.
+[2021.10.25-00.24.58:651][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.25-00.24.58:651][205]LogWorld: BeginTearingDown for /Game/Mapas/UEDPIE_0_Mapa_Pruebas
+[2021.10.25-00.24.58:651][205]LogWorld: UWorld::CleanupWorld for Mapa_Pruebas, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-00.24.58:651][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-00.24.58:663][205]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.25-00.24.58:678][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-00.24.58:690][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.25-00.24.58:690][205]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-00.24.58:691][205]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-00.24.58:696][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.10.25-00.24.58:730][206]LogPlayLevel: Display: Destroying online subsystem :Context_160
+[2021.10.25-00.25.15:841][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.10.25-00.25.15:863][209]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_Pruebas26C52F5147DD851124B98FBFAF5D0C51.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_Pruebas.umap'
+[2021.10.25-00.25.15:918][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_Pruebas_BuiltData" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_Pruebas_BuiltData.uasset" SILENT=true
+[2021.10.25-00.25.15:924][209]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_Pruebas_BuiltDataD438F9E941C50E2F211994B6EF1D8110.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_Pruebas_BuiltData.uasset'
+[2021.10.25-00.25.15:934][209]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.25-00.25.15:934][209]LogContentValidation: Display: Validating World /Game/Mapas/Mapa_Pruebas.Mapa_Pruebas
+[2021.10.25-00.25.15:934][209]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/Mapa_Pruebas_BuiltData.Mapa_Pruebas_BuiltData
+[2021.10.25-00.25.31:615][ 85]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemigos/AI/BP_Task_Patrullar.BP_Task_Patrullar
+[2021.10.25-00.25.44:459][503]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Anim_Frenetico.BP_Anim_Frenetico
+[2021.10.25-00.25.44:464][503]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.10.25-00.25.56:988][696]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Frenetico_01.BP_Frenetico_01
+[2021.10.25-00.26.12:858][160]BlueprintLog: New page: Compile BP_Frenetico_01
+[2021.10.25-00.26.12:907][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.10.25-00.26.14:454][285]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/BP_Frenetico_0126C7232248926DCC000627882949F2BA.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Frenetico_01.uasset'
+[2021.10.25-00.26.14:464][285]AssetCheck: New page: Asset Save: BP_Frenetico_01
+[2021.10.25-00.26.14:464][285]LogContentValidation: Display: Validating Blueprint /Game/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Frenetico_01.BP_Frenetico_01
+[2021.10.25-00.26.15:227][349]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.25-00.26.15:232][349]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.25-00.26.15:232][349]PIE: New page: PIE session: Mapa_Pruebas (Oct 24, 2021, 12:26:15 PM)
+[2021.10.25-00.26.15:269][349]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Mapa_Pruebas
+[2021.10.25-00.26.15:274][349]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005094s)
+[2021.10.25-00.26.15:275][349]LogAIModule: Creating AISystem for world Mapa_Pruebas
+[2021.10.25-00.26.15:275][349]LogPlayLevel: PIE: World Init took: (0.000950s)
+[2021.10.25-00.26.15:275][349]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Mapa_Pruebas.Mapa_Pruebas to /Game/Mapas/UEDPIE_0_Mapa_Pruebas.Mapa_Pruebas (0.006175s)
+[2021.10.25-00.26.15:296][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.10.25-00.26.15:297][349]LogAudio: Display: Creating Audio Device:                 Id: 115, Scope: Unique, Realtime: True
+[2021.10.25-00.26.15:298][349]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.25-00.26.15:298][349]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.25-00.26.15:298][349]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.25-00.26.15:298][349]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.25-00.26.15:298][349]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.25-00.26.15:298][349]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.25-00.26.15:298][349]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.25-00.26.15:298][349]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.25-00.26.15:298][349]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.25-00.26.15:298][349]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.25-00.26.15:298][349]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.25-00.26.15:298][349]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.25-00.26.15:301][349]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.25-00.26.15:301][349]LogAudioMixer: Display: 1: FrontRight
+[2021.10.25-00.26.15:301][349]LogAudioMixer: Display: 2: FrontCenter
+[2021.10.25-00.26.15:301][349]LogAudioMixer: Display: 3: LowFrequency
+[2021.10.25-00.26.15:301][349]LogAudioMixer: Display: 4: BackLeft
+[2021.10.25-00.26.15:301][349]LogAudioMixer: Display: 5: BackRight
+[2021.10.25-00.26.15:301][349]LogAudioMixer: Display: 6: SideLeft
+[2021.10.25-00.26.15:301][349]LogAudioMixer: Display: 7: SideRight
+[2021.10.25-00.26.15:310][349]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G560 Gaming Speaker)
+[2021.10.25-00.26.15:311][349]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.25-00.26.15:311][349]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.25-00.26.15:311][349]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.25-00.26.15:311][349]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.25-00.26.15:311][349]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.25-00.26.15:311][349]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.10.25-00.26.15:312][349]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.25-00.26.15:312][349]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.25-00.26.15:312][349]LogInit: FAudioDevice initialized.
+[2021.10.25-00.26.15:312][349]LogAudio: Display: Audio Device (ID: 115) registered with world 'Mapa_Pruebas'.
+[2021.10.25-00.26.15:318][349]LogLoad: Game class is 'BP_ModoDeJuego_C'
+[2021.10.25-00.26.15:320][349]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Mapa_Pruebas.Mapa_Pruebas up for play (max tick rate 0) at 2021.10.24-18.26.15
+[2021.10.25-00.26.15:320][349]LogWorld: Bringing up level for play took: 0.001357
+[2021.10.25-00.26.15:320][349]LogOnline: OSS: Creating online subsystem instance for: :Context_166
+[2021.10.25-00.26.15:323][349]PIE: Server logged in
+[2021.10.25-00.26.15:324][349]PIE: Play in editor total start time 0.092 seconds.
+[2021.10.25-00.26.30:421][909]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.25-00.26.30:421][909]LogWorld: BeginTearingDown for /Game/Mapas/UEDPIE_0_Mapa_Pruebas
+[2021.10.25-00.26.30:421][909]LogWorld: UWorld::CleanupWorld for Mapa_Pruebas, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-00.26.30:421][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-00.26.30:430][909]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.25-00.26.30:444][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-00.26.30:463][909]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.25-00.26.30:463][909]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-00.26.30:464][909]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-00.26.30:469][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.10.25-00.26.30:507][910]LogPlayLevel: Display: Destroying online subsystem :Context_166
+[2021.10.25-00.27.49:437][ 83]BlueprintLog: New page: Compile BP_Frenetico_01
+[2021.10.25-00.27.49:488][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.10.25-00.27.50:068][121]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/BP_Frenetico_01A86B0501497032D98CE684965E391DC7.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Frenetico_01.uasset'
+[2021.10.25-00.27.50:077][121]AssetCheck: New page: Asset Save: BP_Frenetico_01
+[2021.10.25-00.27.50:077][121]LogContentValidation: Display: Validating Blueprint /Game/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Frenetico_01.BP_Frenetico_01
+[2021.10.25-00.27.51:976][286]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.25-00.27.51:982][286]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.25-00.27.51:982][286]PIE: New page: PIE session: Mapa_Pruebas (Oct 24, 2021, 12:27:51 PM)
+[2021.10.25-00.27.52:019][286]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Mapa_Pruebas
+[2021.10.25-00.27.52:024][286]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005145s)
+[2021.10.25-00.27.52:025][286]LogAIModule: Creating AISystem for world Mapa_Pruebas
+[2021.10.25-00.27.52:025][286]LogPlayLevel: PIE: World Init took: (0.000953s)
+[2021.10.25-00.27.52:025][286]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Mapa_Pruebas.Mapa_Pruebas to /Game/Mapas/UEDPIE_0_Mapa_Pruebas.Mapa_Pruebas (0.006227s)
+[2021.10.25-00.27.52:047][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.10.25-00.27.52:048][286]LogAudio: Display: Creating Audio Device:                 Id: 116, Scope: Unique, Realtime: True
+[2021.10.25-00.27.52:048][286]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.25-00.27.52:048][286]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.25-00.27.52:048][286]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.25-00.27.52:048][286]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.25-00.27.52:048][286]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.25-00.27.52:048][286]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.25-00.27.52:048][286]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.25-00.27.52:048][286]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.25-00.27.52:049][286]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.25-00.27.52:049][286]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.25-00.27.52:049][286]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.25-00.27.52:049][286]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.25-00.27.52:052][286]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.25-00.27.52:052][286]LogAudioMixer: Display: 1: FrontRight
+[2021.10.25-00.27.52:052][286]LogAudioMixer: Display: 2: FrontCenter
+[2021.10.25-00.27.52:052][286]LogAudioMixer: Display: 3: LowFrequency
+[2021.10.25-00.27.52:052][286]LogAudioMixer: Display: 4: BackLeft
+[2021.10.25-00.27.52:052][286]LogAudioMixer: Display: 5: BackRight
+[2021.10.25-00.27.52:052][286]LogAudioMixer: Display: 6: SideLeft
+[2021.10.25-00.27.52:052][286]LogAudioMixer: Display: 7: SideRight
+[2021.10.25-00.27.52:062][286]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G560 Gaming Speaker)
+[2021.10.25-00.27.52:062][286]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.25-00.27.52:062][286]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.25-00.27.52:062][286]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.25-00.27.52:062][286]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.25-00.27.52:062][286]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.25-00.27.52:062][286]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.10.25-00.27.52:063][286]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.25-00.27.52:063][286]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.25-00.27.52:063][286]LogInit: FAudioDevice initialized.
+[2021.10.25-00.27.52:063][286]LogAudio: Display: Audio Device (ID: 116) registered with world 'Mapa_Pruebas'.
+[2021.10.25-00.27.52:072][286]LogLoad: Game class is 'BP_ModoDeJuego_C'
+[2021.10.25-00.27.52:073][286]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Mapa_Pruebas.Mapa_Pruebas up for play (max tick rate 0) at 2021.10.24-18.27.52
+[2021.10.25-00.27.52:073][286]LogWorld: Bringing up level for play took: 0.001209
+[2021.10.25-00.27.52:073][286]LogOnline: OSS: Creating online subsystem instance for: :Context_167
+[2021.10.25-00.27.52:076][286]PIE: Server logged in
+[2021.10.25-00.27.52:076][286]PIE: Play in editor total start time 0.097 seconds.
+[2021.10.25-00.28.10:301][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.25-00.28.10:301][134]LogWorld: BeginTearingDown for /Game/Mapas/UEDPIE_0_Mapa_Pruebas
+[2021.10.25-00.28.10:301][134]LogWorld: UWorld::CleanupWorld for Mapa_Pruebas, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-00.28.10:301][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-00.28.10:308][134]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.25-00.28.10:322][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-00.28.10:341][134]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.25-00.28.10:341][134]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-00.28.10:342][134]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-00.28.10:344][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.25-00.28.10:347][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.10.25-00.28.10:386][135]LogPlayLevel: Display: Destroying online subsystem :Context_167
+[2021.10.25-00.28.14:159][468]LogEditorTransaction: Undo Create Pin Link
+[2021.10.25-00.28.14:228][468]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.10.25-00.28.16:016][614]BlueprintLog: New page: Compile BP_Frenetico_01
+[2021.10.25-00.28.16:056][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.10.25-00.28.16:629][659]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/BP_Frenetico_011E7B452642F472A40111F49292B8AB68.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Frenetico_01.uasset'
+[2021.10.25-00.28.16:638][659]AssetCheck: New page: Asset Save: BP_Frenetico_01
+[2021.10.25-00.28.16:638][659]LogContentValidation: Display: Validating Blueprint /Game/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Frenetico_01.BP_Frenetico_01
+[2021.10.25-00.28.58:384][185]LogEditorTransaction: Undo Move Node
+[2021.10.25-00.28.58:463][185]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.10.25-00.28.58:745][196]LogEditorTransaction: Undo Add Node
+[2021.10.25-00.28.58:822][196]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.10.25-00.28.59:434][255]LogEditorTransaction: Undo Delete current selection
+[2021.10.25-00.28.59:511][255]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.10.25-00.29.26:514][ 56]BlueprintLog: New page: Compile BP_Frenetico_01
+[2021.10.25-00.29.26:555][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.10.25-00.29.27:245][114]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/BP_Frenetico_017AD05DD24624207A3047EFA6D47AAE95.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Frenetico_01.uasset'
+[2021.10.25-00.29.27:254][114]AssetCheck: New page: Asset Save: BP_Frenetico_01
+[2021.10.25-00.29.27:254][114]LogContentValidation: Display: Validating Blueprint /Game/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Frenetico_01.BP_Frenetico_01
+[2021.10.25-00.29.29:264][312]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.25-00.29.29:269][312]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.25-00.29.29:269][312]PIE: New page: PIE session: Mapa_Pruebas (Oct 24, 2021, 12:29:29 PM)
+[2021.10.25-00.29.29:269][312]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Mapa_Pruebas
+[2021.10.25-00.29.29:275][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005190s)
+[2021.10.25-00.29.29:275][312]LogAIModule: Creating AISystem for world Mapa_Pruebas
+[2021.10.25-00.29.29:276][312]LogPlayLevel: PIE: World Init took: (0.000863s)
+[2021.10.25-00.29.29:276][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Mapa_Pruebas.Mapa_Pruebas to /Game/Mapas/UEDPIE_0_Mapa_Pruebas.Mapa_Pruebas (0.006166s)
+[2021.10.25-00.29.29:297][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.10.25-00.29.29:298][312]LogAudio: Display: Creating Audio Device:                 Id: 117, Scope: Unique, Realtime: True
+[2021.10.25-00.29.29:298][312]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.25-00.29.29:298][312]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.25-00.29.29:298][312]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.25-00.29.29:298][312]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.25-00.29.29:298][312]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.25-00.29.29:298][312]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.25-00.29.29:298][312]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.25-00.29.29:298][312]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.25-00.29.29:298][312]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.25-00.29.29:298][312]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.25-00.29.29:298][312]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.25-00.29.29:298][312]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.25-00.29.29:301][312]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.25-00.29.29:301][312]LogAudioMixer: Display: 1: FrontRight
+[2021.10.25-00.29.29:301][312]LogAudioMixer: Display: 2: FrontCenter
+[2021.10.25-00.29.29:301][312]LogAudioMixer: Display: 3: LowFrequency
+[2021.10.25-00.29.29:301][312]LogAudioMixer: Display: 4: BackLeft
+[2021.10.25-00.29.29:301][312]LogAudioMixer: Display: 5: BackRight
+[2021.10.25-00.29.29:301][312]LogAudioMixer: Display: 6: SideLeft
+[2021.10.25-00.29.29:301][312]LogAudioMixer: Display: 7: SideRight
+[2021.10.25-00.29.29:311][312]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G560 Gaming Speaker)
+[2021.10.25-00.29.29:312][312]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.25-00.29.29:312][312]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.25-00.29.29:312][312]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.25-00.29.29:312][312]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.25-00.29.29:312][312]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.25-00.29.29:312][312]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.10.25-00.29.29:313][312]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.25-00.29.29:313][312]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.25-00.29.29:313][312]LogInit: FAudioDevice initialized.
+[2021.10.25-00.29.29:313][312]LogAudio: Display: Audio Device (ID: 117) registered with world 'Mapa_Pruebas'.
+[2021.10.25-00.29.29:324][312]LogLoad: Game class is 'BP_ModoDeJuego_C'
+[2021.10.25-00.29.29:326][312]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Mapa_Pruebas.Mapa_Pruebas up for play (max tick rate 0) at 2021.10.24-18.29.29
+[2021.10.25-00.29.29:326][312]LogWorld: Bringing up level for play took: 0.001183
+[2021.10.25-00.29.29:326][312]LogOnline: OSS: Creating online subsystem instance for: :Context_168
+[2021.10.25-00.29.29:329][312]PIE: Server logged in
+[2021.10.25-00.29.29:329][312]PIE: Play in editor total start time 0.061 seconds.
+[2021.10.25-00.29.55:261][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.25-00.29.55:261][406]LogWorld: BeginTearingDown for /Game/Mapas/UEDPIE_0_Mapa_Pruebas
+[2021.10.25-00.29.55:261][406]LogWorld: UWorld::CleanupWorld for Mapa_Pruebas, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-00.29.55:261][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-00.29.55:268][406]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.25-00.29.55:282][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-00.29.55:301][406]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.25-00.29.55:302][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-00.29.55:303][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-00.29.55:305][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.25-00.29.55:307][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.10.25-00.29.55:346][407]LogPlayLevel: Display: Destroying online subsystem :Context_168
+[2021.10.25-00.29.58:008][691]Cmd: TRANSACTION UNDO
+[2021.10.25-00.29.58:008][691]LogEditorTransaction: Undo Delete current selection
+[2021.10.25-00.29.58:075][691]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.10.25-00.29.58:341][702]Cmd: TRANSACTION UNDO
+[2021.10.25-00.29.58:341][702]LogEditorTransaction: Undo Create Pin Link
+[2021.10.25-00.29.58:421][702]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.10.25-00.29.58:791][733]Cmd: TRANSACTION UNDO
+[2021.10.25-00.29.58:791][733]LogEditorTransaction: Undo Create Pin Link
+[2021.10.25-00.29.58:868][733]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.10.25-00.29.59:196][763]Cmd: TRANSACTION UNDO
+[2021.10.25-00.29.59:196][763]LogEditorTransaction: Undo Create Pin Link
+[2021.10.25-00.29.59:273][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.10.25-00.29.59:568][789]Cmd: TRANSACTION UNDO
+[2021.10.25-00.29.59:569][789]LogEditorTransaction: Undo Move Node
+[2021.10.25-00.29.59:648][789]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.10.25-00.29.59:921][812]Cmd: TRANSACTION UNDO
+[2021.10.25-00.29.59:921][812]LogEditorTransaction: Undo Move Node
+[2021.10.25-00.29.59:998][812]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.10.25-00.30.00:649][875]Cmd: TRANSACTION UNDO
+[2021.10.25-00.30.00:649][875]LogEditorTransaction: Undo Create Pin Link
+[2021.10.25-00.30.00:726][875]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.10.25-00.30.01:296][930]Cmd: TRANSACTION UNDO
+[2021.10.25-00.30.01:296][930]LogEditorTransaction: Undo Create Pin Link
+[2021.10.25-00.30.01:373][930]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.10.25-00.30.01:917][982]Cmd: TRANSACTION UNDO
+[2021.10.25-00.30.01:917][982]LogEditorTransaction: Undo Move Node
+[2021.10.25-00.30.01:994][982]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.10.25-00.30.03:081][ 94]Cmd: TRANSACTION UNDO
+[2021.10.25-00.30.03:081][ 94]LogEditorTransaction: Undo Paste clipboard contents
+[2021.10.25-00.30.03:159][ 94]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.10.25-00.30.05:219][291]BlueprintLog: New page: Compile BP_Frenetico_01
+[2021.10.25-00.30.05:262][291]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.10.25-00.30.05:822][336]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/BP_Frenetico_018E99CC894205E4CF0EFEF5AFA9294AFB.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Frenetico_01.uasset'
+[2021.10.25-00.30.05:833][336]AssetCheck: New page: Asset Save: BP_Frenetico_01
+[2021.10.25-00.30.05:833][336]LogContentValidation: Display: Validating Blueprint /Game/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Frenetico_01.BP_Frenetico_01
+[2021.10.25-00.32.04:701][781]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/BP_Task_PatrullarDA50DAF34C8640DA17FB7CAE5422BF4C.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Enemigos/AI/BP_Task_Patrullar.uasset'
+[2021.10.25-00.32.04:710][781]AssetCheck: New page: Asset Save: BP_Task_Patrullar
+[2021.10.25-00.32.04:710][781]LogContentValidation: Display: Validating Blueprint /Game/Enemigos/AI/BP_Task_Patrullar.BP_Task_Patrullar
+[2021.10.25-00.32.35:879][190]BlueprintLog: New page: Compile BP_Frenetico_01
+[2021.10.25-00.32.35:924][190]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.10.25-00.32.36:726][259]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/BP_Frenetico_01EA3C4881450202019FBD65BFEA770FD8.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Frenetico_01.uasset'
+[2021.10.25-00.32.36:736][259]AssetCheck: New page: Asset Save: BP_Frenetico_01
+[2021.10.25-00.32.36:736][259]LogContentValidation: Display: Validating Blueprint /Game/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Frenetico_01.BP_Frenetico_01
+[2021.10.25-00.32.38:267][413]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.25-00.32.38:272][413]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.25-00.32.38:272][413]PIE: New page: PIE session: Mapa_Pruebas (Oct 24, 2021, 12:32:38 PM)
+[2021.10.25-00.32.38:309][413]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Mapa_Pruebas
+[2021.10.25-00.32.38:314][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005176s)
+[2021.10.25-00.32.38:315][413]LogAIModule: Creating AISystem for world Mapa_Pruebas
+[2021.10.25-00.32.38:315][413]LogPlayLevel: PIE: World Init took: (0.000857s)
+[2021.10.25-00.32.38:315][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Mapa_Pruebas.Mapa_Pruebas to /Game/Mapas/UEDPIE_0_Mapa_Pruebas.Mapa_Pruebas (0.006167s)
+[2021.10.25-00.32.38:337][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.10.25-00.32.38:339][413]LogAudio: Display: Creating Audio Device:                 Id: 118, Scope: Unique, Realtime: True
+[2021.10.25-00.32.38:339][413]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.25-00.32.38:339][413]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.25-00.32.38:339][413]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.25-00.32.38:339][413]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.25-00.32.38:339][413]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.25-00.32.38:339][413]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.25-00.32.38:339][413]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.25-00.32.38:339][413]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.25-00.32.38:339][413]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.25-00.32.38:339][413]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.25-00.32.38:339][413]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.25-00.32.38:339][413]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.25-00.32.38:342][413]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.25-00.32.38:342][413]LogAudioMixer: Display: 1: FrontRight
+[2021.10.25-00.32.38:342][413]LogAudioMixer: Display: 2: FrontCenter
+[2021.10.25-00.32.38:342][413]LogAudioMixer: Display: 3: LowFrequency
+[2021.10.25-00.32.38:342][413]LogAudioMixer: Display: 4: BackLeft
+[2021.10.25-00.32.38:342][413]LogAudioMixer: Display: 5: BackRight
+[2021.10.25-00.32.38:342][413]LogAudioMixer: Display: 6: SideLeft
+[2021.10.25-00.32.38:342][413]LogAudioMixer: Display: 7: SideRight
+[2021.10.25-00.32.38:352][413]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G560 Gaming Speaker)
+[2021.10.25-00.32.38:352][413]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.25-00.32.38:352][413]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.25-00.32.38:352][413]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.25-00.32.38:352][413]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.25-00.32.38:352][413]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.25-00.32.38:352][413]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.10.25-00.32.38:353][413]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.25-00.32.38:353][413]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.25-00.32.38:353][413]LogInit: FAudioDevice initialized.
+[2021.10.25-00.32.38:353][413]LogAudio: Display: Audio Device (ID: 118) registered with world 'Mapa_Pruebas'.
+[2021.10.25-00.32.38:359][413]LogLoad: Game class is 'BP_ModoDeJuego_C'
+[2021.10.25-00.32.38:361][413]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Mapa_Pruebas.Mapa_Pruebas up for play (max tick rate 0) at 2021.10.24-18.32.38
+[2021.10.25-00.32.38:361][413]LogWorld: Bringing up level for play took: 0.001276
+[2021.10.25-00.32.38:361][413]LogOnline: OSS: Creating online subsystem instance for: :Context_169
+[2021.10.25-00.32.38:364][413]PIE: Server logged in
+[2021.10.25-00.32.38:365][413]PIE: Play in editor total start time 0.094 seconds.
+[2021.10.25-00.32.49:641][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.25-00.32.49:642][754]LogWorld: BeginTearingDown for /Game/Mapas/UEDPIE_0_Mapa_Pruebas
+[2021.10.25-00.32.49:642][754]LogWorld: UWorld::CleanupWorld for Mapa_Pruebas, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-00.32.49:642][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-00.32.49:655][754]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.25-00.32.49:669][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-00.32.49:688][754]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.25-00.32.49:688][754]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-00.32.49:689][754]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-00.32.49:692][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.25-00.32.49:694][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.10.25-00.32.49:731][755]LogPlayLevel: Display: Destroying online subsystem :Context_169
+[2021.10.25-00.32.58:612][677]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.25-00.32.58:617][677]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.25-00.32.58:618][677]PIE: New page: PIE session: Mapa_Pruebas (Oct 24, 2021, 12:32:58 PM)
+[2021.10.25-00.32.58:639][677]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Mapa_Pruebas
+[2021.10.25-00.32.58:644][677]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005195s)
+[2021.10.25-00.32.58:645][677]LogAIModule: Creating AISystem for world Mapa_Pruebas
+[2021.10.25-00.32.58:645][677]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2021.10.25-00.32.58:645][677]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Mapa_Pruebas.Mapa_Pruebas to /Game/Mapas/UEDPIE_0_Mapa_Pruebas.Mapa_Pruebas (0.006239s)
+[2021.10.25-00.32.58:666][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.10.25-00.32.58:668][677]LogAudio: Display: Creating Audio Device:                 Id: 119, Scope: Unique, Realtime: True
+[2021.10.25-00.32.58:668][677]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.25-00.32.58:668][677]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.25-00.32.58:668][677]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.25-00.32.58:668][677]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.25-00.32.58:668][677]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.25-00.32.58:668][677]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.25-00.32.58:668][677]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.25-00.32.58:668][677]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.25-00.32.58:669][677]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.25-00.32.58:669][677]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.25-00.32.58:669][677]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.25-00.32.58:669][677]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.25-00.32.58:672][677]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.25-00.32.58:672][677]LogAudioMixer: Display: 1: FrontRight
+[2021.10.25-00.32.58:672][677]LogAudioMixer: Display: 2: FrontCenter
+[2021.10.25-00.32.58:672][677]LogAudioMixer: Display: 3: LowFrequency
+[2021.10.25-00.32.58:672][677]LogAudioMixer: Display: 4: BackLeft
+[2021.10.25-00.32.58:672][677]LogAudioMixer: Display: 5: BackRight
+[2021.10.25-00.32.58:672][677]LogAudioMixer: Display: 6: SideLeft
+[2021.10.25-00.32.58:672][677]LogAudioMixer: Display: 7: SideRight
+[2021.10.25-00.32.58:681][677]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G560 Gaming Speaker)
+[2021.10.25-00.32.58:681][677]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.25-00.32.58:681][677]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.25-00.32.58:681][677]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.25-00.32.58:682][677]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.25-00.32.58:682][677]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.25-00.32.58:682][677]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.10.25-00.32.58:682][677]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.25-00.32.58:683][677]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.25-00.32.58:683][677]LogInit: FAudioDevice initialized.
+[2021.10.25-00.32.58:683][677]LogAudio: Display: Audio Device (ID: 119) registered with world 'Mapa_Pruebas'.
+[2021.10.25-00.32.58:691][677]LogLoad: Game class is 'BP_ModoDeJuego_C'
+[2021.10.25-00.32.58:692][677]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Mapa_Pruebas.Mapa_Pruebas up for play (max tick rate 0) at 2021.10.24-18.32.58
+[2021.10.25-00.32.58:692][677]LogWorld: Bringing up level for play took: 0.001219
+[2021.10.25-00.32.58:693][677]LogOnline: OSS: Creating online subsystem instance for: :Context_170
+[2021.10.25-00.32.58:695][677]PIE: Server logged in
+[2021.10.25-00.32.58:696][677]PIE: Play in editor total start time 0.08 seconds.
+[2021.10.25-00.33.01:914][ 61]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_DynamicCast', from offset 727
+[2021.10.25-00.33.01:914][ 61]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Frenetico_01.BP_Frenetico_01_C:BndEvt__BP_Asesino_01_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Frenetico_01.BP_Frenetico_01_C:ExecuteUbergraph_BP_Frenetico_01
+
+[2021.10.25-00.33.06:866][133]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_DynamicCast', from offset 727
+[2021.10.25-00.33.06:866][133]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Frenetico_01.BP_Frenetico_01_C:BndEvt__BP_Asesino_01_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Frenetico_01.BP_Frenetico_01_C:ExecuteUbergraph_BP_Frenetico_01
+
+[2021.10.25-00.33.18:701][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.25-00.33.18:701][133]LogWorld: BeginTearingDown for /Game/Mapas/UEDPIE_0_Mapa_Pruebas
+[2021.10.25-00.33.18:701][133]LogWorld: UWorld::CleanupWorld for Mapa_Pruebas, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-00.33.18:701][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-00.33.18:709][133]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.25-00.33.18:723][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-00.33.18:743][133]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.25-00.33.18:743][133]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-00.33.18:744][133]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-00.33.18:746][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.25-00.33.18:749][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.10.25-00.33.18:780][134]LogPlayLevel: Display: Destroying online subsystem :Context_170
+[2021.10.25-00.33.40:032][416]BlueprintLog: New page: Compile BP_Frenetico_01
+[2021.10.25-00.33.40:073][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.10.25-00.33.40:932][496]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/BP_Frenetico_0137F111554523ECAE191B038AFCCA0B16.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Frenetico_01.uasset'
+[2021.10.25-00.33.40:942][496]AssetCheck: New page: Asset Save: BP_Frenetico_01
+[2021.10.25-00.33.40:942][496]LogContentValidation: Display: Validating Blueprint /Game/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Frenetico_01.BP_Frenetico_01
+[2021.10.25-00.33.42:708][684]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.25-00.33.42:714][684]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.25-00.33.42:714][684]PIE: New page: PIE session: Mapa_Pruebas (Oct 24, 2021, 12:33:42 PM)
+[2021.10.25-00.33.42:714][684]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Mapa_Pruebas
+[2021.10.25-00.33.42:719][684]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005102s)
+[2021.10.25-00.33.42:720][684]LogAIModule: Creating AISystem for world Mapa_Pruebas
+[2021.10.25-00.33.42:720][684]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2021.10.25-00.33.42:720][684]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Mapa_Pruebas.Mapa_Pruebas to /Game/Mapas/UEDPIE_0_Mapa_Pruebas.Mapa_Pruebas (0.006053s)
+[2021.10.25-00.33.42:741][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.10.25-00.33.42:743][684]LogAudio: Display: Creating Audio Device:                 Id: 120, Scope: Unique, Realtime: True
+[2021.10.25-00.33.42:743][684]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.25-00.33.42:743][684]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.25-00.33.42:743][684]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.25-00.33.42:743][684]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.25-00.33.42:743][684]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.25-00.33.42:743][684]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.25-00.33.42:743][684]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.25-00.33.42:743][684]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.25-00.33.42:744][684]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.25-00.33.42:744][684]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.25-00.33.42:744][684]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.25-00.33.42:744][684]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.25-00.33.42:747][684]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.25-00.33.42:747][684]LogAudioMixer: Display: 1: FrontRight
+[2021.10.25-00.33.42:747][684]LogAudioMixer: Display: 2: FrontCenter
+[2021.10.25-00.33.42:747][684]LogAudioMixer: Display: 3: LowFrequency
+[2021.10.25-00.33.42:747][684]LogAudioMixer: Display: 4: BackLeft
+[2021.10.25-00.33.42:747][684]LogAudioMixer: Display: 5: BackRight
+[2021.10.25-00.33.42:747][684]LogAudioMixer: Display: 6: SideLeft
+[2021.10.25-00.33.42:747][684]LogAudioMixer: Display: 7: SideRight
+[2021.10.25-00.33.42:756][684]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G560 Gaming Speaker)
+[2021.10.25-00.33.42:757][684]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.25-00.33.42:757][684]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.25-00.33.42:757][684]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.25-00.33.42:757][684]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.25-00.33.42:757][684]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.25-00.33.42:757][684]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.10.25-00.33.42:758][684]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.25-00.33.42:758][684]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.25-00.33.42:758][684]LogInit: FAudioDevice initialized.
+[2021.10.25-00.33.42:758][684]LogAudio: Display: Audio Device (ID: 120) registered with world 'Mapa_Pruebas'.
+[2021.10.25-00.33.42:770][684]LogLoad: Game class is 'BP_ModoDeJuego_C'
+[2021.10.25-00.33.42:771][684]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Mapa_Pruebas.Mapa_Pruebas up for play (max tick rate 0) at 2021.10.24-18.33.42
+[2021.10.25-00.33.42:771][684]LogWorld: Bringing up level for play took: 0.001212
+[2021.10.25-00.33.42:772][684]LogOnline: OSS: Creating online subsystem instance for: :Context_171
+[2021.10.25-00.33.42:774][684]PIE: Server logged in
+[2021.10.25-00.33.42:775][684]PIE: Play in editor total start time 0.062 seconds.
+[2021.10.25-00.33.46:824][167]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_DynamicCast', from offset 727
+[2021.10.25-00.33.46:824][167]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Frenetico_01.BP_Frenetico_01_C:BndEvt__BP_Asesino_01_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Frenetico_01.BP_Frenetico_01_C:ExecuteUbergraph_BP_Frenetico_01
+
+[2021.10.25-00.34.11:411][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.25-00.34.11:411][739]LogWorld: BeginTearingDown for /Game/Mapas/UEDPIE_0_Mapa_Pruebas
+[2021.10.25-00.34.11:411][739]LogWorld: UWorld::CleanupWorld for Mapa_Pruebas, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-00.34.11:411][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-00.34.11:419][739]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.25-00.34.11:433][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-00.34.11:453][739]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.25-00.34.11:453][739]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-00.34.11:454][739]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-00.34.11:456][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.25-00.34.11:459][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.10.25-00.34.11:491][740]LogPlayLevel: Display: Destroying online subsystem :Context_171
+[2021.10.25-00.34.38:936][714]BlueprintLog: New page: Compile BP_Frenetico_01
+[2021.10.25-00.34.38:978][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.10.25-00.34.40:233][834]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/BP_Frenetico_01826A759E4A4051A82D4D1C918B321589.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Frenetico_01.uasset'
+[2021.10.25-00.34.40:244][834]AssetCheck: New page: Asset Save: BP_Frenetico_01
+[2021.10.25-00.34.40:244][834]LogContentValidation: Display: Validating Blueprint /Game/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Frenetico_01.BP_Frenetico_01
+[2021.10.25-00.34.41:759][989]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.25-00.34.41:765][989]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.25-00.34.41:765][989]PIE: New page: PIE session: Mapa_Pruebas (Oct 24, 2021, 12:34:41 PM)
+[2021.10.25-00.34.41:765][989]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Mapa_Pruebas
+[2021.10.25-00.34.41:770][989]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005041s)
+[2021.10.25-00.34.41:770][989]LogAIModule: Creating AISystem for world Mapa_Pruebas
+[2021.10.25-00.34.41:771][989]LogPlayLevel: PIE: World Init took: (0.000805s)
+[2021.10.25-00.34.41:771][989]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Mapa_Pruebas.Mapa_Pruebas to /Game/Mapas/UEDPIE_0_Mapa_Pruebas.Mapa_Pruebas (0.005952s)
+[2021.10.25-00.34.41:791][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.10.25-00.34.41:792][989]LogAudio: Display: Creating Audio Device:                 Id: 121, Scope: Unique, Realtime: True
+[2021.10.25-00.34.41:792][989]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.25-00.34.41:793][989]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.25-00.34.41:793][989]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.25-00.34.41:793][989]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.25-00.34.41:793][989]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.25-00.34.41:793][989]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.25-00.34.41:793][989]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.25-00.34.41:793][989]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.25-00.34.41:793][989]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.25-00.34.41:793][989]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.25-00.34.41:793][989]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.25-00.34.41:793][989]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.25-00.34.41:796][989]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.25-00.34.41:796][989]LogAudioMixer: Display: 1: FrontRight
+[2021.10.25-00.34.41:796][989]LogAudioMixer: Display: 2: FrontCenter
+[2021.10.25-00.34.41:796][989]LogAudioMixer: Display: 3: LowFrequency
+[2021.10.25-00.34.41:796][989]LogAudioMixer: Display: 4: BackLeft
+[2021.10.25-00.34.41:796][989]LogAudioMixer: Display: 5: BackRight
+[2021.10.25-00.34.41:796][989]LogAudioMixer: Display: 6: SideLeft
+[2021.10.25-00.34.41:796][989]LogAudioMixer: Display: 7: SideRight
+[2021.10.25-00.34.41:805][989]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G560 Gaming Speaker)
+[2021.10.25-00.34.41:806][989]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.25-00.34.41:806][989]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.25-00.34.41:806][989]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.25-00.34.41:806][989]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.25-00.34.41:806][989]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.25-00.34.41:806][989]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.10.25-00.34.41:807][989]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.25-00.34.41:807][989]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.25-00.34.41:807][989]LogInit: FAudioDevice initialized.
+[2021.10.25-00.34.41:807][989]LogAudio: Display: Audio Device (ID: 121) registered with world 'Mapa_Pruebas'.
+[2021.10.25-00.34.41:818][989]LogLoad: Game class is 'BP_ModoDeJuego_C'
+[2021.10.25-00.34.41:819][989]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Mapa_Pruebas.Mapa_Pruebas up for play (max tick rate 0) at 2021.10.24-18.34.41
+[2021.10.25-00.34.41:819][989]LogWorld: Bringing up level for play took: 0.001187
+[2021.10.25-00.34.41:820][989]LogOnline: OSS: Creating online subsystem instance for: :Context_172
+[2021.10.25-00.34.41:822][989]PIE: Server logged in
+[2021.10.25-00.34.41:823][989]PIE: Play in editor total start time 0.061 seconds.
+[2021.10.25-00.34.53:791][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.25-00.34.53:791][418]LogWorld: BeginTearingDown for /Game/Mapas/UEDPIE_0_Mapa_Pruebas
+[2021.10.25-00.34.53:791][418]LogWorld: UWorld::CleanupWorld for Mapa_Pruebas, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-00.34.53:791][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-00.34.53:800][418]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.25-00.34.53:815][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-00.34.53:835][418]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.25-00.34.53:835][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-00.34.53:836][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-00.34.53:839][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.25-00.34.53:841][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.10.25-00.34.53:877][419]LogPlayLevel: Display: Destroying online subsystem :Context_172
+[2021.10.25-00.35.35:572][561]BlueprintLog: New page: Compile BP_Frenetico_01
+[2021.10.25-00.35.35:614][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.10.25-00.35.36:197][608]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/BP_Frenetico_018C60C13F41D8532E02663BA23A035E05.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Frenetico_01.uasset'
+[2021.10.25-00.35.36:208][608]AssetCheck: New page: Asset Save: BP_Frenetico_01
+[2021.10.25-00.35.36:208][608]LogContentValidation: Display: Validating Blueprint /Game/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Frenetico_01.BP_Frenetico_01
+[2021.10.25-00.35.37:442][738]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.25-00.35.37:448][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.25-00.35.37:448][738]PIE: New page: PIE session: Mapa_Pruebas (Oct 24, 2021, 12:35:37 PM)
+[2021.10.25-00.35.37:489][738]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Mapa_Pruebas
+[2021.10.25-00.35.37:494][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005207s)
+[2021.10.25-00.35.37:495][738]LogAIModule: Creating AISystem for world Mapa_Pruebas
+[2021.10.25-00.35.37:495][738]LogPlayLevel: PIE: World Init took: (0.000931s)
+[2021.10.25-00.35.37:495][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Mapa_Pruebas.Mapa_Pruebas to /Game/Mapas/UEDPIE_0_Mapa_Pruebas.Mapa_Pruebas (0.006281s)
+[2021.10.25-00.35.37:517][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.10.25-00.35.37:518][738]LogAudio: Display: Creating Audio Device:                 Id: 122, Scope: Unique, Realtime: True
+[2021.10.25-00.35.37:518][738]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.25-00.35.37:518][738]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.25-00.35.37:518][738]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.25-00.35.37:518][738]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.25-00.35.37:518][738]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.25-00.35.37:518][738]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.25-00.35.37:518][738]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.25-00.35.37:518][738]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.25-00.35.37:518][738]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.25-00.35.37:518][738]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.25-00.35.37:518][738]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.25-00.35.37:518][738]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.25-00.35.37:521][738]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.25-00.35.37:521][738]LogAudioMixer: Display: 1: FrontRight
+[2021.10.25-00.35.37:521][738]LogAudioMixer: Display: 2: FrontCenter
+[2021.10.25-00.35.37:521][738]LogAudioMixer: Display: 3: LowFrequency
+[2021.10.25-00.35.37:521][738]LogAudioMixer: Display: 4: BackLeft
+[2021.10.25-00.35.37:521][738]LogAudioMixer: Display: 5: BackRight
+[2021.10.25-00.35.37:521][738]LogAudioMixer: Display: 6: SideLeft
+[2021.10.25-00.35.37:521][738]LogAudioMixer: Display: 7: SideRight
+[2021.10.25-00.35.37:531][738]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G560 Gaming Speaker)
+[2021.10.25-00.35.37:532][738]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.25-00.35.37:532][738]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.25-00.35.37:532][738]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.25-00.35.37:532][738]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.25-00.35.37:532][738]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.25-00.35.37:532][738]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.10.25-00.35.37:533][738]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.25-00.35.37:533][738]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.25-00.35.37:533][738]LogInit: FAudioDevice initialized.
+[2021.10.25-00.35.37:533][738]LogAudio: Display: Audio Device (ID: 122) registered with world 'Mapa_Pruebas'.
+[2021.10.25-00.35.37:541][738]LogLoad: Game class is 'BP_ModoDeJuego_C'
+[2021.10.25-00.35.37:543][738]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Mapa_Pruebas.Mapa_Pruebas up for play (max tick rate 0) at 2021.10.24-18.35.37
+[2021.10.25-00.35.37:543][738]LogWorld: Bringing up level for play took: 0.001222
+[2021.10.25-00.35.37:543][738]LogOnline: OSS: Creating online subsystem instance for: :Context_173
+[2021.10.25-00.35.37:546][738]PIE: Server logged in
+[2021.10.25-00.35.37:547][738]PIE: Play in editor total start time 0.1 seconds.
+[2021.10.25-00.35.55:391][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.25-00.35.55:391][866]LogWorld: BeginTearingDown for /Game/Mapas/UEDPIE_0_Mapa_Pruebas
+[2021.10.25-00.35.55:391][866]LogWorld: UWorld::CleanupWorld for Mapa_Pruebas, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-00.35.55:391][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-00.35.55:403][866]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.25-00.35.55:418][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-00.35.55:437][866]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.25-00.35.55:437][866]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-00.35.55:438][866]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-00.35.55:441][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.25-00.35.55:443][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.10.25-00.35.55:479][867]LogPlayLevel: Display: Destroying online subsystem :Context_173
+[2021.10.25-00.36.08:259][225]BlueprintLog: New page: Compile BP_Frenetico_01
+[2021.10.25-00.36.08:300][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.10.25-00.36.08:746][260]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/BP_Frenetico_01ABD4ECA949DFD99D82C63FA08D3CB328.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Frenetico_01.uasset'
+[2021.10.25-00.36.08:756][260]AssetCheck: New page: Asset Save: BP_Frenetico_01
+[2021.10.25-00.36.08:756][260]LogContentValidation: Display: Validating Blueprint /Game/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Frenetico_01.BP_Frenetico_01
+[2021.10.25-00.36.10:062][389]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.25-00.36.10:067][389]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.25-00.36.10:067][389]PIE: New page: PIE session: Mapa_Pruebas (Oct 24, 2021, 12:36:10 PM)
+[2021.10.25-00.36.10:110][389]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Mapa_Pruebas
+[2021.10.25-00.36.10:114][389]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005060s)
+[2021.10.25-00.36.10:115][389]LogAIModule: Creating AISystem for world Mapa_Pruebas
+[2021.10.25-00.36.10:115][389]LogPlayLevel: PIE: World Init took: (0.000794s)
+[2021.10.25-00.36.10:115][389]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Mapa_Pruebas.Mapa_Pruebas to /Game/Mapas/UEDPIE_0_Mapa_Pruebas.Mapa_Pruebas (0.005986s)
+[2021.10.25-00.36.10:137][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.10.25-00.36.10:138][389]LogAudio: Display: Creating Audio Device:                 Id: 123, Scope: Unique, Realtime: True
+[2021.10.25-00.36.10:138][389]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.25-00.36.10:138][389]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.25-00.36.10:138][389]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.25-00.36.10:138][389]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.25-00.36.10:138][389]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.25-00.36.10:138][389]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.25-00.36.10:138][389]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.25-00.36.10:138][389]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.25-00.36.10:138][389]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.25-00.36.10:138][389]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.25-00.36.10:138][389]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.25-00.36.10:138][389]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.25-00.36.10:141][389]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.25-00.36.10:141][389]LogAudioMixer: Display: 1: FrontRight
+[2021.10.25-00.36.10:141][389]LogAudioMixer: Display: 2: FrontCenter
+[2021.10.25-00.36.10:141][389]LogAudioMixer: Display: 3: LowFrequency
+[2021.10.25-00.36.10:141][389]LogAudioMixer: Display: 4: BackLeft
+[2021.10.25-00.36.10:141][389]LogAudioMixer: Display: 5: BackRight
+[2021.10.25-00.36.10:141][389]LogAudioMixer: Display: 6: SideLeft
+[2021.10.25-00.36.10:141][389]LogAudioMixer: Display: 7: SideRight
+[2021.10.25-00.36.10:150][389]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G560 Gaming Speaker)
+[2021.10.25-00.36.10:151][389]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.25-00.36.10:151][389]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.25-00.36.10:151][389]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.25-00.36.10:151][389]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.25-00.36.10:151][389]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.25-00.36.10:151][389]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.10.25-00.36.10:152][389]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.25-00.36.10:152][389]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.25-00.36.10:152][389]LogInit: FAudioDevice initialized.
+[2021.10.25-00.36.10:152][389]LogAudio: Display: Audio Device (ID: 123) registered with world 'Mapa_Pruebas'.
+[2021.10.25-00.36.10:162][389]LogLoad: Game class is 'BP_ModoDeJuego_C'
+[2021.10.25-00.36.10:164][389]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Mapa_Pruebas.Mapa_Pruebas up for play (max tick rate 0) at 2021.10.24-18.36.10
+[2021.10.25-00.36.10:164][389]LogWorld: Bringing up level for play took: 0.001186
+[2021.10.25-00.36.10:164][389]LogOnline: OSS: Creating online subsystem instance for: :Context_174
+[2021.10.25-00.36.10:167][389]PIE: Server logged in
+[2021.10.25-00.36.10:168][389]PIE: Play in editor total start time 0.103 seconds.
+[2021.10.25-00.36.25:771][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.25-00.36.25:771][253]LogWorld: BeginTearingDown for /Game/Mapas/UEDPIE_0_Mapa_Pruebas
+[2021.10.25-00.36.25:771][253]LogWorld: UWorld::CleanupWorld for Mapa_Pruebas, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-00.36.25:771][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-00.36.25:777][253]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.25-00.36.25:792][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-00.36.25:811][253]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.25-00.36.25:811][253]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-00.36.25:812][253]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-00.36.25:814][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.25-00.36.25:817][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.10.25-00.36.25:854][254]LogPlayLevel: Display: Destroying online subsystem :Context_174
+[2021.10.25-00.36.42:341][ 89]BlueprintLog: New page: Compile BP_Frenetico_01
+[2021.10.25-00.36.42:382][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.10.25-00.36.43:168][159]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/BP_Frenetico_01F85DE57B4DECFD336833468D35B66EA4.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Frenetico_01.uasset'
+[2021.10.25-00.36.43:177][159]AssetCheck: New page: Asset Save: BP_Frenetico_01
+[2021.10.25-00.36.43:177][159]LogContentValidation: Display: Validating Blueprint /Game/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Frenetico_01.BP_Frenetico_01
+[2021.10.25-00.37.49:264][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.10.25-00.37.49:283][627]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_Pruebas_Auto17AA4245A4C79DAB73D5354A8CE990C97.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Autosaves/Game/Mapas/Mapa_Pruebas_Auto1.umap'
+[2021.10.25-00.37.49:284][627]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Mapas/Mapa_Pruebas' took 0.042
+[2021.10.25-00.37.49:284][627]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
+[2021.10.25-00.38.22:505][ 97]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.25-00.38.22:510][ 97]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.25-00.38.22:510][ 97]PIE: New page: PIE session: Mapa_Pruebas (Oct 24, 2021, 12:38:22 PM)
+[2021.10.25-00.38.22:539][ 97]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Mapa_Pruebas
+[2021.10.25-00.38.22:544][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005200s)
+[2021.10.25-00.38.22:545][ 97]LogAIModule: Creating AISystem for world Mapa_Pruebas
+[2021.10.25-00.38.22:545][ 97]LogPlayLevel: PIE: World Init took: (0.001037s)
+[2021.10.25-00.38.22:545][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Mapa_Pruebas.Mapa_Pruebas to /Game/Mapas/UEDPIE_0_Mapa_Pruebas.Mapa_Pruebas (0.006374s)
+[2021.10.25-00.38.22:566][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.10.25-00.38.22:569][ 97]LogAudio: Display: Creating Audio Device:                 Id: 124, Scope: Unique, Realtime: True
+[2021.10.25-00.38.22:569][ 97]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.25-00.38.22:569][ 97]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.25-00.38.22:569][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.25-00.38.22:569][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.25-00.38.22:569][ 97]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.25-00.38.22:569][ 97]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.25-00.38.22:569][ 97]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.25-00.38.22:569][ 97]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.25-00.38.22:570][ 97]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.25-00.38.22:570][ 97]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.25-00.38.22:570][ 97]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.25-00.38.22:570][ 97]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.25-00.38.22:572][ 97]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.25-00.38.22:573][ 97]LogAudioMixer: Display: 1: FrontRight
+[2021.10.25-00.38.22:573][ 97]LogAudioMixer: Display: 2: FrontCenter
+[2021.10.25-00.38.22:573][ 97]LogAudioMixer: Display: 3: LowFrequency
+[2021.10.25-00.38.22:573][ 97]LogAudioMixer: Display: 4: BackLeft
+[2021.10.25-00.38.22:573][ 97]LogAudioMixer: Display: 5: BackRight
+[2021.10.25-00.38.22:573][ 97]LogAudioMixer: Display: 6: SideLeft
+[2021.10.25-00.38.22:573][ 97]LogAudioMixer: Display: 7: SideRight
+[2021.10.25-00.38.22:582][ 97]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G560 Gaming Speaker)
+[2021.10.25-00.38.22:583][ 97]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.25-00.38.22:583][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.25-00.38.22:583][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.25-00.38.22:583][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.25-00.38.22:583][ 97]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.25-00.38.22:583][ 97]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.10.25-00.38.22:584][ 97]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.25-00.38.22:584][ 97]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.25-00.38.22:584][ 97]LogInit: FAudioDevice initialized.
+[2021.10.25-00.38.22:584][ 97]LogAudio: Display: Audio Device (ID: 124) registered with world 'Mapa_Pruebas'.
+[2021.10.25-00.38.22:592][ 97]LogLoad: Game class is 'BP_ModoDeJuego_C'
+[2021.10.25-00.38.22:594][ 97]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Mapa_Pruebas.Mapa_Pruebas up for play (max tick rate 0) at 2021.10.24-18.38.22
+[2021.10.25-00.38.22:594][ 97]LogWorld: Bringing up level for play took: 0.001233
+[2021.10.25-00.38.22:594][ 97]LogOnline: OSS: Creating online subsystem instance for: :Context_175
+[2021.10.25-00.38.22:597][ 97]PIE: Server logged in
+[2021.10.25-00.38.22:598][ 97]PIE: Play in editor total start time 0.089 seconds.
+[2021.10.25-00.38.31:081][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.25-00.38.31:081][ 96]LogWorld: BeginTearingDown for /Game/Mapas/UEDPIE_0_Mapa_Pruebas
+[2021.10.25-00.38.31:081][ 96]LogWorld: UWorld::CleanupWorld for Mapa_Pruebas, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-00.38.31:081][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-00.38.31:092][ 96]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.25-00.38.31:106][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-00.38.31:125][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.25-00.38.31:126][ 96]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-00.38.31:127][ 96]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-00.38.31:132][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.10.25-00.38.31:169][ 97]LogPlayLevel: Display: Destroying online subsystem :Context_175
+[2021.10.25-00.38.32:770][266]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Enemigos/AI/BT_MovimientoEnemigo.BT_MovimientoEnemigo
+[2021.10.25-00.41.32:474][999]BlueprintLog: New page: Compile BP_Frenetico_01
+[2021.10.25-00.41.32:517][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.10.25-00.41.34:199][167]LogSlate: Window 'BT_MovimientoEnemigo' being destroyed
+[2021.10.25-00.41.34:205][167]LogSlate: Window 'BT_MovimientoEnemigo' being destroyed
+[2021.10.25-00.41.34:240][167]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-00.41.34:240][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-00.41.34:273][167]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-00.41.34:273][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-00.41.34:279][167]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-00.41.34:279][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-00.41.34:336][167]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-00.41.34:336][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-00.41.34:348][167]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-00.41.34:348][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-00.41.36:608][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.10.25-00.41.36:627][422]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_Pruebas1F4635904DCA909E8509348D70861DBA.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_Pruebas.umap'
+[2021.10.25-00.41.36:677][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_Pruebas_BuiltData" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_Pruebas_BuiltData.uasset" SILENT=true
+[2021.10.25-00.41.36:685][422]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_Pruebas_BuiltDataA4F0978F46443DE9E59E05B57B10131F.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_Pruebas_BuiltData.uasset'
+[2021.10.25-00.41.36:692][422]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.25-00.41.36:693][422]LogContentValidation: Display: Validating World /Game/Mapas/Mapa_Pruebas.Mapa_Pruebas
+[2021.10.25-00.41.36:693][422]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/Mapa_Pruebas_BuiltData.Mapa_Pruebas_BuiltData
+[2021.10.25-00.41.38:365][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.10.25-00.41.38:382][612]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_Pruebas74B9B0484B910911F7C1188AC103A4E7.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_Pruebas.umap'
+[2021.10.25-00.41.38:435][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_Pruebas_BuiltData" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_Pruebas_BuiltData.uasset" SILENT=true
+[2021.10.25-00.41.38:444][612]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_Pruebas_BuiltData287F49DE4D4ECD8C066D889F7040F2EA.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_Pruebas_BuiltData.uasset'
+[2021.10.25-00.41.38:452][612]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.25-00.41.38:452][612]LogContentValidation: Display: Validating World /Game/Mapas/Mapa_Pruebas.Mapa_Pruebas
+[2021.10.25-00.41.38:452][612]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/Mapa_Pruebas_BuiltData.Mapa_Pruebas_BuiltData
+[2021.10.25-00.41.40:544][830]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content' is outside repository
+[2021.10.25-00.41.40:544][830]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository
+[2021.10.25-00.41.40:544][830]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository
+[2021.10.25-00.41.40:544][830]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository
+[2021.10.25-00.41.40:544][830]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository
+[2021.10.25-00.41.40:544][830]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository
+[2021.10.25-00.41.40:544][830]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository
+[2021.10.25-00.41.40:544][830]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository
+[2021.10.25-00.41.40:544][830]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository
+[2021.10.25-00.41.40:544][830]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository
+[2021.10.25-00.41.40:544][830]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository
+[2021.10.25-00.41.40:544][830]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository
+[2021.10.25-00.41.40:544][830]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository
+[2021.10.25-00.41.40:544][830]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository
+[2021.10.25-00.41.40:544][830]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository
+[2021.10.25-00.41.40:544][830]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository
+[2021.10.25-00.41.40:544][830]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository
+[2021.10.25-00.41.40:544][830]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository
+[2021.10.25-00.41.40:544][830]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository
+[2021.10.25-00.41.40:544][830]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository
+[2021.10.25-00.41.40:544][830]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository
+[2021.10.25-00.41.40:544][830]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository
+[2021.10.25-00.41.40:544][830]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository
+[2021.10.25-00.41.40:544][830]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository
+[2021.10.25-00.41.40:544][830]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository
+[2021.10.25-00.41.40:544][830]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository
+[2021.10.25-00.41.40:983][830]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/BP_Task_Patrullar3CFB81504FE5DCDA0E2F08965D4AE8A2.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Enemigos/AI/BP_Task_Patrullar.uasset'
+[2021.10.25-00.41.40:985][830]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/BT_MovimientoEnemigoDAC49D0A47167A0B3125B0AED1F48C3F.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Enemigos/AI/BT_MovimientoEnemigo.uasset'
+[2021.10.25-00.41.41:001][830]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Anim_Frenetico_Caminar9C634AE742E1E53AB9C79395DF227CC7.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Animaciones/Anim_Frenetico_Caminar.uasset'
+[2021.10.25-00.41.41:014][830]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Anim_Frenetico_Inactivo_0104FA37D14F30DC0EECA7F0A25B762D62.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Animaciones/Anim_Frenetico_Inactivo_01.uasset'
+[2021.10.25-00.41.41:035][830]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/BP_Anim_Frenetico457496FC4BA5848B54F05ABDBC57285B.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Anim_Frenetico.uasset'
+[2021.10.25-00.41.41:066][830]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/BP_Frenetico_011C3819CD4462934E34EBAFBA48515A2D.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Frenetico_01.uasset'
+[2021.10.25-00.41.41:079][830]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/BS1D_Frenetico_Inactivo_Correr686E970D44104F36C532D1A56F693535.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Blueprints/BS1D_Frenetico_Inactivo_Correr.uasset'
+[2021.10.25-00.41.41:092][830]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/M_StitchBerserkerDE41114349207BB161B847BC825CACB9.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Materiales/M_StitchBerserker.uasset'
+[2021.10.25-00.41.41:139][830]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/SK_StitchBerserker22607D274CD257689A61708C434CF100.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Meshes/SK_StitchBerserker.uasset'
+[2021.10.25-00.41.41:154][830]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/SK_StitchBerserker_PhysicsAsset3295323645ADF7650351CEB10B52261F.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Meshes/SK_StitchBerserker_PhysicsAsset.uasset'
+[2021.10.25-00.41.41:156][830]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/SK_StitchBerserker_Skeleton4F186D3D44BC268DDB677BAD1D0B5A71.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Meshes/SK_StitchBerserker_Skeleton.uasset'
+[2021.10.25-00.41.41:207][830]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/T_StitchBerserker_AlbedoAB90378947072419F612AB9BBCEF1253.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Texturas/T_StitchBerserker_Albedo.uasset'
+[2021.10.25-00.41.41:217][830]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/T_StitchBerserker_Emission329EB89B4CDE51B288D87C901F1DAAC9.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Texturas/T_StitchBerserker_Emission.uasset'
+[2021.10.25-00.41.41:256][830]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/T_StitchBerserker_Metallic0711C1DA444FDEDB9588EA8C48062AC5.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Texturas/T_StitchBerserker_Metallic.uasset'
+[2021.10.25-00.41.41:308][830]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/T_StitchBerserker_NormalDA773A0F46D79ECF1C49168441C97658.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Texturas/T_StitchBerserker_Normal.uasset'
+[2021.10.25-00.41.41:340][830]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/T_StitchBerserker_OcclusionF9BA2FF6432BDD6F6F77C988A4ED9467.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Texturas/T_StitchBerserker_Occlusion.uasset'
+[2021.10.25-00.41.41:370][830]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/T_StitchBerserker_Roughness9F281E66423F833D3786ABA75C53D30E.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Texturas/T_StitchBerserker_Roughness.uasset'
+[2021.10.25-00.41.41:384][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.10.25-00.41.41:401][830]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_PruebasDAF556214F0A8E5093C6818AC88A551B.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_Pruebas.umap'
+[2021.10.25-00.41.41:407][830]LogFileHelpers: Saving map 'Mapa_Pruebas' took 0.036
+[2021.10.25-00.41.50:641][830]LogSlate: Window 'Submit Files' being destroyed
+[2021.10.25-00.41.52:405][830]LogSourceControl: commit successful: [main ff2fbba] Se agrega enemigo
+[2021.10.25-00.41.52:668][830]SourceControl: [main ff2fbba] Se agrega enemigo
+[2021.10.25-00.41.52:668][830]SourceControl:  20 files changed, 0 insertions(+), 0 deletions(-)
+[2021.10.25-00.41.52:668][830]SourceControl:  create mode 100644 EscapeMadness/Content/Enemigos/AI/BP_Task_Patrullar.uasset
+[2021.10.25-00.41.52:668][830]SourceControl:  create mode 100644 EscapeMadness/Content/Enemigos/AI/BT_MovimientoEnemigo.uasset
+[2021.10.25-00.41.52:668][830]SourceControl:  create mode 100644 EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Animaciones/Anim_Frenetico_Caminar.uasset
+[2021.10.25-00.41.52:668][830]SourceControl:  create mode 100644 EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Animaciones/Anim_Frenetico_Inactivo_01.uasset
+[2021.10.25-00.41.52:668][830]SourceControl:  create mode 100644 EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Anim_Frenetico.uasset
+[2021.10.25-00.41.52:668][830]SourceControl:  create mode 100644 EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Frenetico_01.uasset
+[2021.10.25-00.41.52:668][830]SourceControl:  create mode 100644 EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Blueprints/BS1D_Frenetico_Inactivo_Correr.uasset
+[2021.10.25-00.41.52:668][830]SourceControl:  create mode 100644 EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Materiales/M_StitchBerserker.uasset
+[2021.10.25-00.41.52:668][830]SourceControl:  create mode 100644 EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Meshes/SK_StitchBerserker.uasset
+[2021.10.25-00.41.52:668][830]SourceControl:  create mode 100644 EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Meshes/SK_StitchBerserker_PhysicsAsset.uasset
+[2021.10.25-00.41.52:668][830]SourceControl:  create mode 100644 EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Meshes/SK_StitchBerserker_Skeleton.uasset
+[2021.10.25-00.41.52:668][830]SourceControl:  create mode 100644 EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Texturas/T_StitchBerserker_Albedo.uasset
+[2021.10.25-00.41.52:668][830]SourceControl:  create mode 100644 EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Texturas/T_StitchBerserker_Emission.uasset
+[2021.10.25-00.41.52:668][830]SourceControl:  create mode 100644 EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Texturas/T_StitchBerserker_Metallic.uasset
+[2021.10.25-00.41.52:668][830]SourceControl:  create mode 100644 EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Texturas/T_StitchBerserker_Normal.uasset
+[2021.10.25-00.41.52:668][830]SourceControl:  create mode 100644 EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Texturas/T_StitchBerserker_Occlusion.uasset
+[2021.10.25-00.41.52:668][830]SourceControl:  create mode 100644 EscapeMadness/Content/Enemigos/Pesadillas/Frenetico/Texturas/T_StitchBerserker_Roughness.uasset
+[2021.10.25-00.41.52:668][830]SourceControl:  delete mode 100644 EscapeMadness/Content/Meshes/Box_Brush7_StaticMesh.uasset
+[2021.10.25-00.41.52:673][830]SourceControl: Commited [main ff2fbba] Se agrega enemigo.
+[2021.10.25-00.41.52:698][831]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.25-00.41.52:698][831]LogContentValidation: Display: Validating SkeletalMesh /Game/Enemigos/Pesadillas/Frenetico/Meshes/SK_StitchBerserker.SK_StitchBerserker
+[2021.10.25-00.41.52:698][831]LogContentValidation: Display: Validating PhysicsAsset /Game/Enemigos/Pesadillas/Frenetico/Meshes/SK_StitchBerserker_PhysicsAsset.SK_StitchBerserker_PhysicsAsset
+[2021.10.25-00.41.52:698][831]LogContentValidation: Display: Validating Material /Game/Enemigos/Pesadillas/Frenetico/Materiales/M_StitchBerserker.M_StitchBerserker
+[2021.10.25-00.41.52:698][831]LogContentValidation: Display: Validating Texture2D /Game/Enemigos/Pesadillas/Frenetico/Texturas/T_StitchBerserker_Roughness.T_StitchBerserker_Roughness
+[2021.10.25-00.41.52:698][831]LogContentValidation: Display: Validating Texture2D /Game/Enemigos/Pesadillas/Frenetico/Texturas/T_StitchBerserker_Occlusion.T_StitchBerserker_Occlusion
+[2021.10.25-00.41.52:698][831]LogContentValidation: Display: Validating Texture2D /Game/Enemigos/Pesadillas/Frenetico/Texturas/T_StitchBerserker_Normal.T_StitchBerserker_Normal
+[2021.10.25-00.41.52:698][831]LogContentValidation: Display: Validating Texture2D /Game/Enemigos/Pesadillas/Frenetico/Texturas/T_StitchBerserker_Metallic.T_StitchBerserker_Metallic
+[2021.10.25-00.41.52:698][831]LogContentValidation: Display: Validating Texture2D /Game/Enemigos/Pesadillas/Frenetico/Texturas/T_StitchBerserker_Emission.T_StitchBerserker_Emission
+[2021.10.25-00.41.52:698][831]LogContentValidation: Display: Validating Texture2D /Game/Enemigos/Pesadillas/Frenetico/Texturas/T_StitchBerserker_Albedo.T_StitchBerserker_Albedo
+[2021.10.25-00.41.52:698][831]LogContentValidation: Display: Validating AnimBlueprint /Game/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Anim_Frenetico.BP_Anim_Frenetico
+[2021.10.25-00.41.52:698][831]LogContentValidation: Display: Validating Blueprint /Game/Enemigos/Pesadillas/Frenetico/Blueprints/BP_Frenetico_01.BP_Frenetico_01
+[2021.10.25-00.41.52:698][831]LogContentValidation: Display: Validating BlendSpace1D /Game/Enemigos/Pesadillas/Frenetico/Blueprints/BS1D_Frenetico_Inactivo_Correr.BS1D_Frenetico_Inactivo_Correr
+[2021.10.25-00.41.52:698][831]LogContentValidation: Display: Validating AnimSequence /Game/Enemigos/Pesadillas/Frenetico/Animaciones/Anim_Frenetico_Inactivo_01.Anim_Frenetico_Inactivo_01
+[2021.10.25-00.41.52:698][831]LogContentValidation: Display: Validating AnimSequence /Game/Enemigos/Pesadillas/Frenetico/Animaciones/Anim_Frenetico_Caminar.Anim_Frenetico_Caminar
+[2021.10.25-00.41.52:698][831]LogContentValidation: Display: Validating Skeleton /Game/Enemigos/Pesadillas/Frenetico/Meshes/SK_StitchBerserker_Skeleton.SK_StitchBerserker_Skeleton
+[2021.10.25-00.41.52:698][831]LogContentValidation: Display: Validating BehaviorTree /Game/Enemigos/AI/BT_MovimientoEnemigo.BT_MovimientoEnemigo
+[2021.10.25-00.41.52:698][831]LogContentValidation: Display: Validating Blueprint /Game/Enemigos/AI/BP_Task_Patrullar.BP_Task_Patrullar
+[2021.10.25-00.41.52:698][831]LogContentValidation: Display: Validating World /Game/Mapas/Mapa_Pruebas.Mapa_Pruebas
+[2021.10.25-00.41.53:473][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.10.25-00.41.53:489][882]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_Pruebas485E0D294599DC887F296EA29706EDCD.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_Pruebas.umap'
+[2021.10.25-00.41.53:542][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_Pruebas_BuiltData" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_Pruebas_BuiltData.uasset" SILENT=true
+[2021.10.25-00.41.53:549][882]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_Pruebas_BuiltData54F804B849B194EA3058D39D16E1B214.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_Pruebas_BuiltData.uasset'
+[2021.10.25-00.41.53:556][882]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.25-00.41.53:556][882]LogContentValidation: Display: Validating World /Game/Mapas/Mapa_Pruebas.Mapa_Pruebas
+[2021.10.25-00.41.53:556][882]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/Mapa_Pruebas_BuiltData.Mapa_Pruebas_BuiltData
+[2021.10.25-00.41.57:754][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.10.25-00.41.57:773][377]LogSlate: Window 'EscapeMadness - Unreal Editor' being destroyed
+[2021.10.25-00.41.57:872][378]Cmd: QUIT_EDITOR
+[2021.10.25-00.41.57:872][378]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.10.25-00.41.57:876][378]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.10.25-00.41.58:089][378]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.10.25-00.41.58:089][378]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.10.25-00.41.58:089][378]LogAudio: Display: Audio Device unregistered from world 'Mapa_Pruebas'.
+[2021.10.25-00.41.58:089][378]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-00.41.58:090][378]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-00.41.58:093][378]LogAudio: Display: Audio Device Manager Shutdown
+[2021.10.25-00.41.58:094][378]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.10.25-00.41.58:097][378]LogExit: Preparing to exit.
+[2021.10.25-00.41.58:641][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.10.25-00.41.58:828][378]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-00.41.58:830][378]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-00.41.58:832][378]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-00.41.58:835][378]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-00.41.58:837][378]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-00.41.58:839][378]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-00.41.58:841][378]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-00.41.58:843][378]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-00.41.58:846][378]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-00.41.58:848][378]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-00.41.58:851][378]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-00.41.58:853][378]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-00.41.58:856][378]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-00.41.58:859][378]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-00.41.58:861][378]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-00.41.58:863][378]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-00.41.58:911][378]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.10.25-00.41.58:917][378]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-00.41.58:917][378]LogExit: Editor shut down
+[2021.10.25-00.41.58:917][378]LogExit: Transaction tracking system shut down
+[2021.10.25-00.41.59:087][378]LogExit: Object subsystem successfully closed.
+[2021.10.25-00.41.59:106][378]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.10.25-00.41.59:106][378]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2021.10.25-00.41.59:106][378]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2021.10.25-00.41.59:106][378]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.00%
+[2021.10.25-00.41.59:106][378]LogShaderCompilers: Display: ================================================
+[2021.10.25-00.41.59:116][378]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.10.25-00.41.59:127][378]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (890)
+[2021.10.25-00.41.59:127][378]LogModuleManager: Shutting down and abandoning module SequencerWidgets (888)
+[2021.10.25-00.41.59:127][378]LogModuleManager: Shutting down and abandoning module AnimationEditor (886)
+[2021.10.25-00.41.59:127][378]LogModuleManager: Shutting down and abandoning module BlueprintGraph (884)
+[2021.10.25-00.41.59:127][378]LogModuleManager: Shutting down and abandoning module PinnedCommandList (882)
+[2021.10.25-00.41.59:127][378]LogModuleManager: Shutting down and abandoning module SkeletonEditor (880)
+[2021.10.25-00.41.59:127][378]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (878)
+[2021.10.25-00.41.59:127][378]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (876)
+[2021.10.25-00.41.59:127][378]LogModuleManager: Shutting down and abandoning module Voice (874)
+[2021.10.25-00.41.59:127][378]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (872)
+[2021.10.25-00.41.59:127][378]LogModuleManager: Shutting down and abandoning module SceneOutliner (870)
+[2021.10.25-00.41.59:127][378]LogModuleManager: Shutting down and abandoning module AddContentDialog (868)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module WidgetCarousel (867)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module EditorWidgets (864)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module StatsViewer (862)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (860)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (858)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module AutomationWorker (856)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module SteamVREditor (854)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module OculusMR (852)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (850)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module TakeRecorder (849)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (846)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module TakesCore (844)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (842)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module OpenXRInput (840)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module GooglePADEditor (838)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (836)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (834)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (832)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (830)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (828)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (826)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (824)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (822)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (820)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module WebMMedia (818)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (816)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (814)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module SequenceRecorder (813)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (810)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (808)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (806)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (804)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (802)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (800)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (798)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (796)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (794)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (792)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module PlanarCut (790)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module CharacterAI (788)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module SmartSnapping (780)
+[2021.10.25-00.41.59:128][378]LogModuleManager: Shutting down and abandoning module SessionServices (778)
+[2021.10.25-00.41.59:129][378]LogModuleManager: Shutting down and abandoning module MeshPaint (776)
+[2021.10.25-00.41.59:129][378]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (774)
+[2021.10.25-00.41.59:129][378]LogModuleManager: Shutting down and abandoning module FoliageEdit (772)
+[2021.10.25-00.41.59:129][378]LogModuleManager: Shutting down and abandoning module LandscapeEditor (770)
+[2021.10.25-00.41.59:129][378]LogModuleManager: Shutting down and abandoning module MeshPaintMode (768)
+[2021.10.25-00.41.59:129][378]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (766)
+[2021.10.25-00.41.59:129][378]LogModuleManager: Shutting down and abandoning module ActorPickerMode (764)
+[2021.10.25-00.41.59:129][378]LogModuleManager: Shutting down and abandoning module PlacementMode (762)
+[2021.10.25-00.41.59:129][378]LogModuleManager: Shutting down and abandoning module ViewportSnapping (760)
+[2021.10.25-00.41.59:129][378]LogModuleManager: Shutting down and abandoning module ViewportInteraction (758)
+[2021.10.25-00.41.59:129][378]LogModuleManager: Shutting down and abandoning module ClothPainter (756)
+[2021.10.25-00.41.59:129][378]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (755)
+[2021.10.25-00.41.59:129][378]LogModuleManager: Shutting down and abandoning module LogVisualizer (752)
+[2021.10.25-00.41.59:129][378]LogModuleManager: Shutting down and abandoning module IntroTutorials (750)
+[2021.10.25-00.41.59:129][378]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (749)
+[2021.10.25-00.41.59:129][378]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (746)
+[2021.10.25-00.41.59:129][378]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (744)
+[2021.10.25-00.41.59:129][378]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (742)
+[2021.10.25-00.41.59:129][378]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (741)
+[2021.10.25-00.42.00:120][378]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (738)
+[2021.10.25-00.42.00:120][378]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (736)
+[2021.10.25-00.42.00:120][378]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (734)
+[2021.10.25-00.42.00:121][378]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (732)
+[2021.10.25-00.42.00:121][378]LogModuleManager: Shutting down and abandoning module TraceInsights (730)
+[2021.10.25-00.42.00:121][378]MemoryProfiler: Shutdown
+[2021.10.25-00.42.00:121][378]NetworkingProfiler: Shutdown
+[2021.10.25-00.42.00:121][378]LoadingProfiler: Shutdown
+[2021.10.25-00.42.00:121][378]TimingProfiler: Shutdown
+[2021.10.25-00.42.00:121][378]LogModuleManager: Shutting down and abandoning module TraceServices (729)
+[2021.10.25-00.42.00:121][378]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (726)
+[2021.10.25-00.42.00:121][378]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (724)
+[2021.10.25-00.42.00:121][378]LogModuleManager: Shutting down and abandoning module InputBindingEditor (722)
+[2021.10.25-00.42.00:121][378]LogModuleManager: Shutting down and abandoning module MergeActors (720)
+[2021.10.25-00.42.00:121][378]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (718)
+[2021.10.25-00.42.00:121][378]LogModuleManager: Shutting down and abandoning module LocalizationService (717)
+[2021.10.25-00.42.00:121][378]LogModuleManager: Shutting down and abandoning module HardwareTargeting (714)
+[2021.10.25-00.42.00:121][378]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (712)
+[2021.10.25-00.42.00:121][378]LogModuleManager: Shutting down and abandoning module UndoHistory (710)
+[2021.10.25-00.42.00:121][378]LogModuleManager: Shutting down and abandoning module XmlParser (708)
+[2021.10.25-00.42.00:121][378]LogModuleManager: Shutting down and abandoning module Blutility (706)
+[2021.10.25-00.42.00:121][378]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (704)
+[2021.10.25-00.42.00:121][378]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (703)
+[2021.10.25-00.42.00:121][378]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (700)
+[2021.10.25-00.42.00:121][378]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (699)
+[2021.10.25-00.42.00:121][378]LogModuleManager: Shutting down and abandoning module SettingsEditor (696)
+[2021.10.25-00.42.00:121][378]LogModuleManager: Shutting down and abandoning module ProjectLauncher (694)
+[2021.10.25-00.42.00:121][378]LogModuleManager: Shutting down and abandoning module SessionFrontend (692)
+[2021.10.25-00.42.00:121][378]LogModuleManager: Shutting down and abandoning module ProfilerClient (690)
+[2021.10.25-00.42.00:121][378]LogModuleManager: Shutting down and abandoning module DeviceManager (688)
+[2021.10.25-00.42.00:121][378]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (687)
+[2021.10.25-00.42.00:154][378]LogModuleManager: Shutting down and abandoning module AutomationController (684)
+[2021.10.25-00.42.00:154][378]LogModuleManager: Shutting down and abandoning module AutomationWindow (682)
+[2021.10.25-00.42.00:154][378]LogModuleManager: Shutting down and abandoning module Layers (680)
+[2021.10.25-00.42.00:154][378]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (678)
+[2021.10.25-00.42.00:154][378]LogModuleManager: Shutting down and abandoning module DetailCustomizations (676)
+[2021.10.25-00.42.00:154][378]LogModuleManager: Shutting down and abandoning module PackagesDialog (674)
+[2021.10.25-00.42.00:154][378]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (672)
+[2021.10.25-00.42.00:154][378]LogModuleManager: Shutting down and abandoning module Persona (670)
+[2021.10.25-00.42.00:154][378]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (669)
+[2021.10.25-00.42.00:154][378]LogModuleManager: Shutting down and abandoning module AnimGraph (667)
+[2021.10.25-00.42.00:154][378]LogModuleManager: Shutting down and abandoning module Kismet (664)
+[2021.10.25-00.42.00:160][378]LogModuleManager: Shutting down and abandoning module KismetWidgets (663)
+[2021.10.25-00.42.00:160][378]LogModuleManager: Shutting down and abandoning module GraphEditor (660)
+[2021.10.25-00.42.00:160][378]LogModuleManager: Shutting down and abandoning module StructViewer (658)
+[2021.10.25-00.42.00:160][378]LogModuleManager: Shutting down and abandoning module ClassViewer (656)
+[2021.10.25-00.42.00:161][378]LogModuleManager: Shutting down and abandoning module Toolbox (654)
+[2021.10.25-00.42.00:161][378]LogModuleManager: Shutting down and abandoning module ModuleUI (652)
+[2021.10.25-00.42.00:161][378]LogModuleManager: Shutting down and abandoning module OutputLog (650)
+[2021.10.25-00.42.00:164][378]LogModuleManager: Shutting down and abandoning module GammaUI (648)
+[2021.10.25-00.42.00:164][378]LogModuleManager: Shutting down and abandoning module Documentation (646)
+[2021.10.25-00.42.00:165][378]LogModuleManager: Shutting down and abandoning module LiveCoding (644)
+[2021.10.25-00.42.00:165][378]LogModuleManager: Shutting down and abandoning module LevelSequence (642)
+[2021.10.25-00.42.00:165][378]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (640)
+[2021.10.25-00.42.00:165][378]LogModuleManager: Shutting down and abandoning module MovieScene (638)
+[2021.10.25-00.42.00:165][378]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (636)
+[2021.10.25-00.42.00:165][378]LogModuleManager: Shutting down and abandoning module LauncherPlatform (634)
+[2021.10.25-00.42.00:165][378]LogModuleManager: Shutting down and abandoning module AnalyticsET (632)
+[2021.10.25-00.42.00:165][378]LogModuleManager: Shutting down and abandoning module PortalServices (630)
+[2021.10.25-00.42.00:165][378]LogModuleManager: Shutting down and abandoning module PortalRpc (628)
+[2021.10.25-00.42.00:165][378]LogModuleManager: Shutting down and abandoning module MessagingRpc (626)
+[2021.10.25-00.42.00:165][378]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (624)
+[2021.10.25-00.42.00:165][378]LogModuleManager: Shutting down and abandoning module AudioMixerCore (623)
+[2021.10.25-00.42.00:165][378]LogModuleManager: Shutting down and abandoning module AIModule (620)
+[2021.10.25-00.42.00:165][378]LogModuleManager: Shutting down and abandoning module GameplayDebugger (619)
+[2021.10.25-00.42.00:165][378]LogModuleManager: Shutting down and abandoning module AITestSuite (617)
+[2021.10.25-00.42.00:165][378]LogModuleManager: Shutting down and abandoning module NavigationSystem (615)
+[2021.10.25-00.42.00:165][378]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (612)
+[2021.10.25-00.42.00:170][378]LogModuleManager: Shutting down and abandoning module ProfilerService (610)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module TaskGraph (608)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (606)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module OculusEditor (604)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module OculusInput (602)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (600)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (598)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (596)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module CollectionManager (595)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module GameplayCameras (592)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module TakeSequencer (590)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module TakeMovieScene (588)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module ScreenshotTools (586)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module SynthesisEditor (584)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module Synthesis (582)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (580)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (578)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module OpenXREditor (576)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (574)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module GooglePAD (572)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module EditableMesh (570)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (568)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module CableComponent (566)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module AudioCapture (564)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (563)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module AssetTags (560)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (558)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (556)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module AppleImageUtils (554)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module AndroidPermission (552)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (550)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (548)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module TemplateSequence (546)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module MediaCompositing (544)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module ImgMedia (542)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (540)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (538)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (536)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (534)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (532)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (530)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (528)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (526)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (524)
+[2021.10.25-00.42.00:310][378]LogOpenImageDenoise: OIDN shutting down
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (522)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module MotoSynth (520)
+[2021.10.25-00.42.00:310][378]LogModuleManager: Shutting down and abandoning module MeshConversion (518)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module DynamicMesh (516)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (514)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module GeometricObjects (512)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (510)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (509)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (506)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (504)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (502)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (500)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (498)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module ChaosNiagara (496)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module FractureEditor (494)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (493)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (490)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module BackChannel (488)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (486)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module AutomationUtils (484)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module AlembicImporter (482)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module AlembicLibrary (481)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module GeometryCache (480)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (479)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (474)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module PluginBrowser (472)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (470)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (468)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (466)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (464)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module UObjectPlugin (462)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (460)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (458)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (456)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module CurveEditorTools (454)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module PluginUtils (452)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (450)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (448)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (446)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module CryptoKeys (444)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module GitSourceControl (442)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module SourceControl (441)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (438)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (436)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (434)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (432)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (430)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (428)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (426)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (424)
+[2021.10.25-00.42.00:311][378]LogModuleManager: Shutting down and abandoning module LiveLink (422)
+[2021.10.25-00.42.00:391][378]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (420)
+[2021.10.25-00.42.00:391][378]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (418)
+[2021.10.25-00.42.00:391][378]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (416)
+[2021.10.25-00.42.00:391][378]LogModuleManager: Shutting down and abandoning module Paper2DEditor (414)
+[2021.10.25-00.42.00:391][378]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (412)
+[2021.10.25-00.42.00:391][378]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (410)
+[2021.10.25-00.42.00:391][378]LogModuleManager: Shutting down and abandoning module SoundFields (408)
+[2021.10.25-00.42.00:391][378]LogModuleManager: Shutting down and abandoning module SignificanceManager (406)
+[2021.10.25-00.42.00:391][378]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (404)
+[2021.10.25-00.42.00:391][378]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (402)
+[2021.10.25-00.42.00:391][378]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (400)
+[2021.10.25-00.42.00:391][378]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (396)
+[2021.10.25-00.42.00:391][378]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (394)
+[2021.10.25-00.42.00:391][378]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (392)
+[2021.10.25-00.42.00:391][378]LogModuleManager: Shutting down and abandoning module TcpMessaging (390)
+[2021.10.25-00.42.00:492][378]LogModuleManager: Shutting down and abandoning module UdpMessaging (388)
+[2021.10.25-00.42.00:593][378]LogModuleManager: Shutting down and abandoning module ActorSequence (386)
+[2021.10.25-00.42.00:593][378]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (384)
+[2021.10.25-00.42.00:593][378]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (382)
+[2021.10.25-00.42.00:593][378]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (380)
+[2021.10.25-00.42.00:593][378]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (378)
+[2021.10.25-00.42.00:593][378]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (376)
+[2021.10.25-00.42.00:593][378]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (374)
+[2021.10.25-00.42.00:593][378]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.10.25-00.42.00:593][378]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (372)
+[2021.10.25-00.42.00:593][378]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (370)
+[2021.10.25-00.42.00:593][378]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (368)
+[2021.10.25-00.42.00:593][378]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (366)
+[2021.10.25-00.42.00:593][378]LogModuleManager: Shutting down and abandoning module MagicLeapController (364)
+[2021.10.25-00.42.00:593][378]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (362)
+[2021.10.25-00.42.00:593][378]LogModuleManager: Shutting down and abandoning module MagicLeapAR (360)
+[2021.10.25-00.42.00:593][378]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (358)
+[2021.10.25-00.42.00:593][378]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2021.10.25-00.42.00:593][378]LogModuleManager: Shutting down and abandoning module SignalProcessing (355)
+[2021.10.25-00.42.00:593][378]LogModuleManager: Shutting down and abandoning module NiagaraEditor (353)
+[2021.10.25-00.42.00:593][378]LogModuleManager: Shutting down and abandoning module NiagaraCore (350)
+[2021.10.25-00.42.00:593][378]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (348)
+[2021.10.25-00.42.00:595][378]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (346)
+[2021.10.25-00.42.00:595][378]LogModuleManager: Shutting down and abandoning module FacialAnimation (344)
+[2021.10.25-00.42.00:595][378]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (342)
+[2021.10.25-00.42.00:595][378]LogModuleManager: Shutting down and abandoning module DataValidation (340)
+[2021.10.25-00.42.00:595][378]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (338)
+[2021.10.25-00.42.00:595][378]LogModuleManager: Shutting down and abandoning module AnimationSharing (336)
+[2021.10.25-00.42.00:595][378]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (334)
+[2021.10.25-00.42.00:595][378]LogModuleManager: Shutting down and abandoning module LevelEditor (333)
+[2021.10.25-00.42.00:595][378]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (332)
+[2021.10.25-00.42.00:595][378]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (330)
+[2021.10.25-00.42.00:596][378]LogModuleManager: Shutting down and abandoning module MainFrame (328)
+[2021.10.25-00.42.00:596][378]LogModuleManager: Shutting down and abandoning module HotReload (327)
+[2021.10.25-00.42.00:596][378]LogModuleManager: Shutting down and abandoning module ToolMenus (323)
+[2021.10.25-00.42.00:596][378]LogModuleManager: Shutting down and abandoning module ContentBrowser (321)
+[2021.10.25-00.42.00:596][378]LogModuleManager: Shutting down and abandoning module ContentBrowserData (320)
+[2021.10.25-00.42.00:596][378]LogModuleManager: Shutting down and abandoning module TreeMap (317)
+[2021.10.25-00.42.00:596][378]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (314)
+[2021.10.25-00.42.00:596][378]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (312)
+[2021.10.25-00.42.00:596][378]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2021.10.25-00.42.00:596][378]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2021.10.25-00.42.00:597][378]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2021.10.25-00.42.00:597][378]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2021.10.25-00.42.00:597][378]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2021.10.25-00.42.00:597][378]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2021.10.25-00.42.00:597][378]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2021.10.25-00.42.00:597][378]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2021.10.25-00.42.00:597][378]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2021.10.25-00.42.00:597][378]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2021.10.25-00.42.00:597][378]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2021.10.25-00.42.00:597][378]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2021.10.25-00.42.00:597][378]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2021.10.25-00.42.00:597][378]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2021.10.25-00.42.00:597][378]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2021.10.25-00.42.00:597][378]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2021.10.25-00.42.00:597][378]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2021.10.25-00.42.00:597][378]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2021.10.25-00.42.00:597][378]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2021.10.25-00.42.00:597][378]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2021.10.25-00.42.00:597][378]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2021.10.25-00.42.00:597][378]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2021.10.25-00.42.00:597][378]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2021.10.25-00.42.00:598][378]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2021.10.25-00.42.00:598][378]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2021.10.25-00.42.00:598][378]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2021.10.25-00.42.00:598][378]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2021.10.25-00.42.00:598][378]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2021.10.25-00.42.00:598][378]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2021.10.25-00.42.00:598][378]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2021.10.25-00.42.00:598][378]LogModuleManager: Shutting down and abandoning module Core (248)
+[2021.10.25-00.42.00:598][378]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2021.10.25-00.42.00:598][378]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2021.10.25-00.42.00:598][378]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2021.10.25-00.42.00:598][378]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2021.10.25-00.42.00:598][378]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2021.10.25-00.42.00:599][378]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2021.10.25-00.42.00:599][378]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2021.10.25-00.42.00:599][378]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2021.10.25-00.42.00:599][378]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2021.10.25-00.42.00:599][378]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2021.10.25-00.42.00:599][378]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2021.10.25-00.42.00:599][378]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2021.10.25-00.42.00:599][378]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2021.10.25-00.42.00:599][378]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2021.10.25-00.42.00:599][378]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2021.10.25-00.42.00:599][378]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2021.10.25-00.42.00:599][378]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2021.10.25-00.42.00:599][378]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2021.10.25-00.42.00:599][378]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2021.10.25-00.42.00:599][378]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2021.10.25-00.42.00:599][378]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2021.10.25-00.42.00:599][378]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2021.10.25-00.42.00:599][378]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2021.10.25-00.42.00:599][378]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2021.10.25-00.42.00:599][378]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2021.10.25-00.42.00:599][378]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2021.10.25-00.42.00:599][378]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2021.10.25-00.42.00:599][378]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2021.10.25-00.42.00:599][378]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2021.10.25-00.42.00:599][378]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2021.10.25-00.42.00:599][378]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2021.10.25-00.42.00:599][378]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2021.10.25-00.42.00:599][378]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2021.10.25-00.42.00:599][378]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2021.10.25-00.42.00:599][378]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2021.10.25-00.42.00:599][378]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2021.10.25-00.42.00:599][378]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2021.10.25-00.42.00:599][378]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2021.10.25-00.42.00:600][378]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2021.10.25-00.42.00:600][378]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2021.10.25-00.42.00:600][378]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2021.10.25-00.42.00:600][378]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2021.10.25-00.42.00:600][378]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2021.10.25-00.42.00:600][378]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2021.10.25-00.42.00:601][378]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2021.10.25-00.42.00:601][378]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2021.10.25-00.42.00:601][378]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2021.10.25-00.42.00:601][378]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2021.10.25-00.42.00:601][378]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2021.10.25-00.42.00:601][378]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2021.10.25-00.42.00:601][378]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2021.10.25-00.42.00:601][378]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2021.10.25-00.42.00:601][378]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2021.10.25-00.42.00:601][378]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2021.10.25-00.42.00:604][378]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2021.10.25-00.42.00:604][378]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2021.10.25-00.42.00:604][378]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2021.10.25-00.42.00:604][378]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2021.10.25-00.42.00:604][378]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2021.10.25-00.42.00:604][378]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2021.10.25-00.42.00:604][378]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2021.10.25-00.42.00:604][378]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2021.10.25-00.42.00:604][378]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2021.10.25-00.42.00:604][378]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2021.10.25-00.42.00:604][378]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2021.10.25-00.42.00:604][378]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2021.10.25-00.42.00:604][378]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2021.10.25-00.42.00:604][378]LogHMD: Freeing OpenVRDLLHandle.
+[2021.10.25-00.42.00:604][378]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2021.10.25-00.42.00:604][378]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2021.10.25-00.42.00:604][378]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.10.25-00.42.00:605][378]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2021.10.25-00.42.00:605][378]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2021.10.25-00.42.00:605][378]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2021.10.25-00.42.00:605][378]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2021.10.25-00.42.00:605][378]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2021.10.25-00.42.00:605][378]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2021.10.25-00.42.00:605][378]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2021.10.25-00.42.00:605][378]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (90)
+[2021.10.25-00.42.00:605][378]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2021.10.25-00.42.00:606][378]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2021.10.25-00.42.00:606][378]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2021.10.25-00.42.00:639][378]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2021.10.25-00.42.00:640][378]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.10.25-00.42.00:640][378]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE3C835E8-4103-2489-462C-E0BE8DFB6317%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.0-17155196%2B%2B%2BUE4%2BRelease-4.27&UserID=1692a9e84c56e42c01a566bd686f37f5%7C9bc93f4ac86d445ca0c3f8963d13596b%7C56e04df4-9d37-427a-90d9-cb37fdee8acd&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2021.10.25-00.42.00:640][378]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2021.10.25-00.42.00:647][378]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2021.10.25-00.42.00:647][378]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2021.10.25-00.42.00:649][378]LogModuleManager: Shutting down and abandoning module Media (73)
+[2021.10.25-00.42.00:650][378]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2021.10.25-00.42.00:650][378]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2021.10.25-00.42.00:650][378]LogModuleManager: Shutting down and abandoning module MLSDK (66)
+[2021.10.25-00.42.00:650][378]LogModuleManager: Shutting down and abandoning module MagicLeap (64)
+[2021.10.25-00.42.00:650][378]LogModuleManager: Shutting down and abandoning module VariantManagerContent (62)
+[2021.10.25-00.42.00:650][378]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2021.10.25-00.42.00:650][378]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2021.10.25-00.42.00:650][378]LogModuleManager: Shutting down and abandoning module DatasmithContent (56)
+[2021.10.25-00.42.00:650][378]LogModuleManager: Shutting down and abandoning module ChaosCloth (54)
+[2021.10.25-00.42.00:650][378]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2021.10.25-00.42.00:650][378]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2021.10.25-00.42.00:650][378]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2021.10.25-00.42.00:650][378]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2021.10.25-00.42.00:650][378]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2021.10.25-00.42.00:650][378]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2021.10.25-00.42.00:650][378]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2021.10.25-00.42.00:650][378]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2021.10.25-00.42.00:650][378]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2021.10.25-00.42.00:650][378]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2021.10.25-00.42.00:650][378]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2021.10.25-00.42.00:650][378]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2021.10.25-00.42.00:650][378]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2021.10.25-00.42.00:650][378]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2021.10.25-00.42.00:650][378]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2021.10.25-00.42.00:651][378]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2021.10.25-00.42.00:652][378]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.10.25-00.42.00:652][378]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.10.25-00.42.00:652][378]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.10.25-00.42.00:652][378]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.10.25-00.42.00:652][378]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.10.25-00.42.00:652][378]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.10.25-00.42.00:652][378]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.10.25-00.42.00:652][378]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.10.25-00.42.00:652][378]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.10.25-00.42.00:652][378]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.10.25-00.42.00:652][378]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.10.25-00.42.00:658][378]LogD3D11RHI: Shutdown
+[2021.10.25-00.42.00:658][378]LogD3D11RHI: CleanupD3DDevice
+[2021.10.25-00.42.00:677][378]LogExit: Exiting.
+[2021.10.25-00.42.00:685][378]Log file closed, 10/24/21 18:42:00

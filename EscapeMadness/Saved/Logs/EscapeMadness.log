@@ -3112,3 +3112,575 @@ Script call stack:
 [2021.10.25-19.08.01:536][614]LogContentValidation: Display: Validating BlendSpace1D /Game/Enemigos/Pesadillas/Frenetico/Blueprints/BS1D_Frenetico_Inactivo_Correr.BS1D_Frenetico_Inactivo_Correr
 [2021.10.25-19.08.01:536][614]LogContentValidation: Display: Validating World /Game/Mapas/Mapa_04.Mapa_04
 [2021.10.25-19.08.01:536][614]LogContentValidation: Display: Validating AnimSequence /Game/Enemigos/Pesadillas/Frenetico/Animaciones/Anim_Frenetico_Ataque_09.Anim_Frenetico_Ataque_09
+[2021.10.25-20.12.57:117][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_04" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.25-20.12.57:148][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.10.25-20.12.57:172][210]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_04DA7D119C465E015BDAA325B8CEAE6657.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04.umap'
+[2021.10.25-20.12.57:225][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_04_BuiltData" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04_BuiltData.uasset" SILENT=true
+[2021.10.25-20.12.57:242][210]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_04_BuiltData5B9E28524733486ADED86593A0BA7D37.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04_BuiltData.uasset'
+[2021.10.25-20.12.57:252][210]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.25-20.12.57:252][210]LogContentValidation: Display: Validating World /Game/Mapas/Mapa_04.Mapa_04
+[2021.10.25-20.12.57:252][210]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/Mapa_04_BuiltData.Mapa_04_BuiltData
+[2021.10.25-20.12.57:864][265]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.25-20.12.57:872][265]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.25-20.12.57:872][265]PIE: New page: PIE session: Mapa_04 (Oct 25, 2021, 8:12:57 AM)
+[2021.10.25-20.12.57:872][265]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Mapa_04
+[2021.10.25-20.12.57:879][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007397s)
+[2021.10.25-20.12.57:880][265]LogAIModule: Creating AISystem for world Mapa_04
+[2021.10.25-20.12.57:880][265]LogPlayLevel: PIE: World Init took: (0.000894s)
+[2021.10.25-20.12.57:880][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Mapa_04.Mapa_04 to /Game/Mapas/UEDPIE_0_Mapa_04.Mapa_04 (0.008398s)
+[2021.10.25-20.12.57:909][265]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.10.25-20.12.57:910][265]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2021.10.25-20.12.57:910][265]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.25-20.12.57:910][265]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.25-20.12.57:910][265]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.25-20.12.57:910][265]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.25-20.12.57:910][265]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.25-20.12.57:910][265]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.25-20.12.57:910][265]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.25-20.12.57:910][265]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.25-20.12.57:910][265]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.25-20.12.57:910][265]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.25-20.12.57:910][265]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.25-20.12.57:910][265]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.25-20.12.57:914][265]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.25-20.12.57:914][265]LogAudioMixer: Display: 1: FrontRight
+[2021.10.25-20.12.57:914][265]LogAudioMixer: Display: 2: FrontCenter
+[2021.10.25-20.12.57:914][265]LogAudioMixer: Display: 3: LowFrequency
+[2021.10.25-20.12.57:914][265]LogAudioMixer: Display: 4: BackLeft
+[2021.10.25-20.12.57:914][265]LogAudioMixer: Display: 5: BackRight
+[2021.10.25-20.12.57:914][265]LogAudioMixer: Display: 6: SideLeft
+[2021.10.25-20.12.57:914][265]LogAudioMixer: Display: 7: SideRight
+[2021.10.25-20.12.57:924][265]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G560 Gaming Speaker)
+[2021.10.25-20.12.57:924][265]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.25-20.12.57:924][265]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.25-20.12.57:924][265]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.25-20.12.57:925][265]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.25-20.12.57:925][265]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.25-20.12.57:925][265]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.10.25-20.12.57:926][265]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.25-20.12.57:926][265]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.25-20.12.57:926][265]LogInit: FAudioDevice initialized.
+[2021.10.25-20.12.57:926][265]LogAudio: Display: Audio Device (ID: 32) registered with world 'Mapa_04'.
+[2021.10.25-20.12.57:936][265]LogLoad: Game class is 'BP_ModoDeJuego_C'
+[2021.10.25-20.12.57:937][265]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Mapa_04.Mapa_04 up for play (max tick rate 0) at 2021.10.25-14.12.57
+[2021.10.25-20.12.57:938][265]LogWorld: Bringing up level for play took: 0.001656
+[2021.10.25-20.12.57:938][265]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2021.10.25-20.12.57:941][265]PIE: Server logged in
+[2021.10.25-20.12.57:941][265]PIE: Play in editor total start time 0.073 seconds.
+[2021.10.25-20.13.00:836][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.25-20.13.00:836][602]LogWorld: BeginTearingDown for /Game/Mapas/UEDPIE_0_Mapa_04
+[2021.10.25-20.13.00:836][602]LogWorld: UWorld::CleanupWorld for Mapa_04, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-20.13.00:836][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-20.13.00:853][602]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.25-20.13.00:883][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-20.13.00:909][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.25-20.13.00:909][602]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-20.13.00:910][602]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-20.13.00:915][602]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.10.25-20.13.00:978][603]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2021.10.25-20.13.04:956][978]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.10.25-20.13.04:987][978]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Mapas/Mapa_01.Mapa_01
+[2021.10.25-20.13.04:987][978]Cmd: MAP LOAD FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.25-20.13.04:987][978]LightingResults: New page: Lighting Build
+[2021.10.25-20.13.04:987][978]LoadErrors: New page: Loading map: Mapa_01.umap
+[2021.10.25-20.13.05:023][978]LogWorld: UWorld::CleanupWorld for Mapa_04, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-20.13.05:023][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-20.13.05:023][978]MapCheck: New page: Map Check
+[2021.10.25-20.13.05:023][978]LightingResults: New page: Lighting Build
+[2021.10.25-20.13.05:049][978]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.25-20.13.05:054][978]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.10.25-20.13.05:055][978]LogAudio: Display: Audio Device (ID: 1) registered with world 'Mapa_01'.
+[2021.10.25-20.13.05:134][978]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.25-20.13.05:134][978]LogAIModule: Creating AISystem for world Mapa_01
+[2021.10.25-20.13.05:163][978]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.10.25-20.13.05:168][978]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.25-20.13.05:168][978]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.105ms to complete.
+[2021.10.25-20.13.05:168][978]LogFileHelpers: Loading map 'Mapa_01' took 0.180
+[2021.10.25-20.13.08:917][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_01" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.25-20.13.08:944][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.10.25-20.13.08:961][412]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_016DD7A6A34E475B09B88EFD8F673D35D2.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_01.umap'
+[2021.10.25-20.13.09:014][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_01_BuiltData" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_01_BuiltData.uasset" SILENT=true
+[2021.10.25-20.13.09:026][412]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_01_BuiltData7A56652049403C070DE24D91B962411E.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_01_BuiltData.uasset'
+[2021.10.25-20.13.09:034][412]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.25-20.13.09:034][412]LogContentValidation: Display: Validating World /Game/Mapas/Mapa_01.Mapa_01
+[2021.10.25-20.13.09:034][412]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/Mapa_01_BuiltData.Mapa_01_BuiltData
+[2021.10.25-20.13.12:718][843]LogEditorViewport: Clicking on Actor (LMB): BP_Frenetico_01_C (BP_Frenetico_01)
+[2021.10.25-20.13.15:770][138]Cmd: DELETE
+[2021.10.25-20.13.15:770][138]Cmd: ACTOR DELETE
+[2021.10.25-20.13.15:786][138]LogEditorActor: Deleted Actor: BP_Frenetico_01_C
+[2021.10.25-20.13.15:814][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.10.25-20.13.15:816][138]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2021.10.25-20.13.19:880][606]Cmd: DELETE
+[2021.10.25-20.13.19:880][606]Cmd: ACTOR DELETE
+[2021.10.25-20.13.19:882][606]LogEditorActor: Deleted Actor: RecastNavMesh
+[2021.10.25-20.13.19:882][606]LogCrowdFollowing: Error: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2021.10.25-20.13.19:908][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.10.25-20.13.19:910][606]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2021.10.25-20.13.21:038][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_01" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.25-20.13.21:065][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.10.25-20.13.21:080][731]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_0162509FC246CFBBE11F8B31B295CF89EE.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_01.umap'
+[2021.10.25-20.13.21:134][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_01_BuiltData" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_01_BuiltData.uasset" SILENT=true
+[2021.10.25-20.13.21:142][731]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_01_BuiltData5C66E9EC4D2F679637CA05B74B9099FC.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_01_BuiltData.uasset'
+[2021.10.25-20.13.21:150][731]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.25-20.13.21:150][731]LogContentValidation: Display: Validating World /Game/Mapas/Mapa_01.Mapa_01
+[2021.10.25-20.13.21:150][731]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/Mapa_01_BuiltData.Mapa_01_BuiltData
+[2021.10.25-20.13.22:026][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.10.25-20.13.22:054][830]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Mapas/Mapa_Pruebas.Mapa_Pruebas
+[2021.10.25-20.13.22:054][830]Cmd: MAP LOAD FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_Pruebas.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.25-20.13.22:054][830]LightingResults: New page: Lighting Build
+[2021.10.25-20.13.22:054][830]LoadErrors: New page: Loading map: Mapa_Pruebas.umap
+[2021.10.25-20.13.22:055][830]LogWorld: UWorld::CleanupWorld for Mapa_01, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-20.13.22:055][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-20.13.22:055][830]MapCheck: New page: Map Check
+[2021.10.25-20.13.22:055][830]LightingResults: New page: Lighting Build
+[2021.10.25-20.13.22:082][830]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.25-20.13.22:085][830]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.10.25-20.13.22:086][830]LogAudio: Display: Audio Device (ID: 1) registered with world 'Mapa_Pruebas'.
+[2021.10.25-20.13.22:164][830]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.25-20.13.22:164][830]LogAIModule: Creating AISystem for world Mapa_Pruebas
+[2021.10.25-20.13.22:194][830]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.10.25-20.13.22:198][830]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.25-20.13.22:198][830]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.108ms to complete.
+[2021.10.25-20.13.22:198][830]LogFileHelpers: Loading map 'Mapa_Pruebas' took 0.144
+[2021.10.25-20.13.26:315][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.10.25-20.13.26:342][314]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Mapas/Mapa_01.Mapa_01
+[2021.10.25-20.13.26:343][314]Cmd: MAP LOAD FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.25-20.13.26:343][314]LightingResults: New page: Lighting Build
+[2021.10.25-20.13.26:343][314]LoadErrors: New page: Loading map: Mapa_01.umap
+[2021.10.25-20.13.26:382][314]LogWorld: UWorld::CleanupWorld for Mapa_Pruebas, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-20.13.26:383][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-20.13.26:383][314]MapCheck: New page: Map Check
+[2021.10.25-20.13.26:383][314]LightingResults: New page: Lighting Build
+[2021.10.25-20.13.26:408][314]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.25-20.13.26:412][314]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.10.25-20.13.26:413][314]LogAudio: Display: Audio Device (ID: 1) registered with world 'Mapa_01'.
+[2021.10.25-20.13.26:476][314]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.25-20.13.26:476][314]LogAIModule: Creating AISystem for world Mapa_01
+[2021.10.25-20.13.26:506][314]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.10.25-20.13.26:510][314]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.25-20.13.26:511][314]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.109ms to complete.
+[2021.10.25-20.13.26:511][314]LogFileHelpers: Loading map 'Mapa_01' took 0.168
+[2021.10.25-20.13.28:276][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_01" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.25-20.13.28:302][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.10.25-20.13.28:318][514]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_01A4F3753B4FDA36ED318331BA97CA20A0.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_01.umap'
+[2021.10.25-20.13.28:372][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_01_BuiltData" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_01_BuiltData.uasset" SILENT=true
+[2021.10.25-20.13.28:384][514]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_01_BuiltDataC8B4A4F64137BCC6907B67B6DB5D5417.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_01_BuiltData.uasset'
+[2021.10.25-20.13.28:392][514]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.25-20.13.28:392][514]LogContentValidation: Display: Validating World /Game/Mapas/Mapa_01.Mapa_01
+[2021.10.25-20.13.28:392][514]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/Mapa_01_BuiltData.Mapa_01_BuiltData
+[2021.10.25-20.13.29:656][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_01" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.25-20.13.29:683][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.10.25-20.13.29:699][653]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_01D47EF0314ECF923EE6A3B388A675FDFA.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_01.umap'
+[2021.10.25-20.13.29:754][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_01_BuiltData" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_01_BuiltData.uasset" SILENT=true
+[2021.10.25-20.13.29:761][653]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_01_BuiltDataC54A7E434CCAB03DEA24E3B2F4BFFF22.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_01_BuiltData.uasset'
+[2021.10.25-20.13.29:769][653]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.25-20.13.29:769][653]LogContentValidation: Display: Validating World /Game/Mapas/Mapa_01.Mapa_01
+[2021.10.25-20.13.29:769][653]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/Mapa_01_BuiltData.Mapa_01_BuiltData
+[2021.10.25-20.13.30:323][714]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.25-20.13.30:331][714]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.25-20.13.30:331][714]PIE: New page: PIE session: Mapa_01 (Oct 25, 2021, 8:13:30 AM)
+[2021.10.25-20.13.30:373][714]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Mapa_01
+[2021.10.25-20.13.30:378][714]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005142s)
+[2021.10.25-20.13.30:379][714]LogAIModule: Creating AISystem for world Mapa_01
+[2021.10.25-20.13.30:379][714]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2021.10.25-20.13.30:379][714]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Mapa_01.Mapa_01 to /Game/Mapas/UEDPIE_0_Mapa_01.Mapa_01 (0.006079s)
+[2021.10.25-20.13.30:407][714]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.10.25-20.13.30:407][714]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2021.10.25-20.13.30:407][714]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.25-20.13.30:407][714]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.25-20.13.30:407][714]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.25-20.13.30:407][714]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.25-20.13.30:407][714]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.25-20.13.30:407][714]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.25-20.13.30:407][714]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.25-20.13.30:407][714]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.25-20.13.30:408][714]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.25-20.13.30:408][714]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.25-20.13.30:408][714]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.25-20.13.30:408][714]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.25-20.13.30:411][714]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.25-20.13.30:411][714]LogAudioMixer: Display: 1: FrontRight
+[2021.10.25-20.13.30:411][714]LogAudioMixer: Display: 2: FrontCenter
+[2021.10.25-20.13.30:411][714]LogAudioMixer: Display: 3: LowFrequency
+[2021.10.25-20.13.30:411][714]LogAudioMixer: Display: 4: BackLeft
+[2021.10.25-20.13.30:411][714]LogAudioMixer: Display: 5: BackRight
+[2021.10.25-20.13.30:411][714]LogAudioMixer: Display: 6: SideLeft
+[2021.10.25-20.13.30:411][714]LogAudioMixer: Display: 7: SideRight
+[2021.10.25-20.13.30:420][714]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G560 Gaming Speaker)
+[2021.10.25-20.13.30:420][714]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.25-20.13.30:420][714]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.25-20.13.30:420][714]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.25-20.13.30:421][714]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.25-20.13.30:421][714]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.25-20.13.30:421][714]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.10.25-20.13.30:422][714]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.25-20.13.30:422][714]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.25-20.13.30:422][714]LogInit: FAudioDevice initialized.
+[2021.10.25-20.13.30:422][714]LogAudio: Display: Audio Device (ID: 33) registered with world 'Mapa_01'.
+[2021.10.25-20.13.30:432][714]LogLoad: Game class is 'BP_ModoDeJuego_C'
+[2021.10.25-20.13.30:433][714]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Mapa_01.Mapa_01 up for play (max tick rate 0) at 2021.10.25-14.13.30
+[2021.10.25-20.13.30:433][714]LogWorld: Bringing up level for play took: 0.000850
+[2021.10.25-20.13.30:433][714]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2021.10.25-20.13.30:436][714]PIE: Server logged in
+[2021.10.25-20.13.30:436][714]PIE: Play in editor total start time 0.109 seconds.
+[2021.10.25-20.13.49:325][972]LogNet: Browse: /Game/Mapas/Mapa_02
+[2021.10.25-20.13.49:325][972]LogLoad: LoadMap: /Game/Mapas/Mapa_02
+[2021.10.25-20.13.49:325][972]LogWorld: BeginTearingDown for /Game/Mapas/UEDPIE_0_Mapa_01
+[2021.10.25-20.13.49:325][972]LogWorld: UWorld::CleanupWorld for Mapa_01, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-20.13.49:325][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-20.13.49:387][972]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.25-20.13.49:391][972]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.10.25-20.13.49:404][972]LogAudio: Display: Audio Device (ID: 33) registered with world 'Mapa_02'.
+[2021.10.25-20.13.49:404][972]LogAIModule: Creating AISystem for world Mapa_02
+[2021.10.25-20.13.49:404][972]LogLoad: Game class is 'BP_ModoDeJuego_C'
+[2021.10.25-20.13.49:409][972]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Mapa_02.Mapa_02 up for play (max tick rate 0) at 2021.10.25-14.13.49
+[2021.10.25-20.13.49:409][972]LogWorld: Bringing up level for play took: 0.003895
+[2021.10.25-20.13.49:410][972]LogLoad: Took 0.085310 seconds to LoadMap(/Game/Mapas/Mapa_02)
+[2021.10.25-20.14.20:363][675]LogNet: Browse: /Game/Mapas/Mapa_03
+[2021.10.25-20.14.20:363][675]LogLoad: LoadMap: /Game/Mapas/Mapa_03
+[2021.10.25-20.14.20:363][675]LogWorld: BeginTearingDown for /Game/Mapas/UEDPIE_0_Mapa_02
+[2021.10.25-20.14.20:363][675]LogWorld: UWorld::CleanupWorld for Mapa_02, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-20.14.20:363][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-20.14.20:428][675]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.25-20.14.20:431][675]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.10.25-20.14.20:446][675]LogAudio: Display: Audio Device (ID: 33) registered with world 'Mapa_03'.
+[2021.10.25-20.14.20:446][675]LogAIModule: Creating AISystem for world Mapa_03
+[2021.10.25-20.14.20:447][675]LogLoad: Game class is 'BP_ModoDeJuego_C'
+[2021.10.25-20.14.20:452][675]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Mapa_03.Mapa_03 up for play (max tick rate 0) at 2021.10.25-14.14.20
+[2021.10.25-20.14.20:453][675]LogWorld: Bringing up level for play took: 0.005427
+[2021.10.25-20.14.20:454][675]LogLoad: Took 0.091071 seconds to LoadMap(/Game/Mapas/Mapa_03)
+[2021.10.25-20.15.40:682][279]LogNet: Browse: /Game/Mapas/Mapa_04
+[2021.10.25-20.15.40:682][279]LogLoad: LoadMap: /Game/Mapas/Mapa_04
+[2021.10.25-20.15.40:682][279]LogWorld: BeginTearingDown for /Game/Mapas/UEDPIE_0_Mapa_03
+[2021.10.25-20.15.40:682][279]LogWorld: UWorld::CleanupWorld for Mapa_03, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-20.15.40:682][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-20.15.40:748][279]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.25-20.15.40:751][279]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.10.25-20.15.40:763][279]LogAudio: Display: Audio Device (ID: 33) registered with world 'Mapa_04'.
+[2021.10.25-20.15.40:764][279]LogAIModule: Creating AISystem for world Mapa_04
+[2021.10.25-20.15.40:764][279]LogLoad: Game class is 'BP_ModoDeJuego_C'
+[2021.10.25-20.15.40:770][279]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Mapa_04.Mapa_04 up for play (max tick rate 0) at 2021.10.25-14.15.40
+[2021.10.25-20.15.40:770][279]LogWorld: Bringing up level for play took: 0.005876
+[2021.10.25-20.15.40:772][279]LogLoad: Took 0.090190 seconds to LoadMap(/Game/Mapas/Mapa_04)
+[2021.10.25-20.16.21:127][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.25-20.16.21:127][ 99]LogWorld: BeginTearingDown for /Game/Mapas/UEDPIE_0_Mapa_04
+[2021.10.25-20.16.21:127][ 99]LogWorld: UWorld::CleanupWorld for Mapa_04, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-20.16.21:127][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-20.16.21:133][ 99]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.25-20.16.21:137][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-20.16.21:164][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.25-20.16.21:164][ 99]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-20.16.21:165][ 99]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-20.16.21:171][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.10.25-20.16.21:197][100]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2021.10.25-20.16.28:059][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_01" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.25-20.16.28:087][910]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.10.25-20.16.28:103][910]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_01164E61514F73850C932B7C97076E6AD4.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_01.umap'
+[2021.10.25-20.16.28:155][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_01_BuiltData" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_01_BuiltData.uasset" SILENT=true
+[2021.10.25-20.16.28:162][910]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_01_BuiltData37677404437D5E3150D443B5DFE1F28E.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_01_BuiltData.uasset'
+[2021.10.25-20.16.28:170][910]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.25-20.16.28:170][910]LogContentValidation: Display: Validating World /Game/Mapas/Mapa_01.Mapa_01
+[2021.10.25-20.16.28:170][910]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/Mapa_01_BuiltData.Mapa_01_BuiltData
+[2021.10.25-20.16.29:175][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.10.25-20.16.29:207][ 25]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Mapas/Mapa_04.Mapa_04
+[2021.10.25-20.16.29:207][ 25]Cmd: MAP LOAD FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.25-20.16.29:207][ 25]LightingResults: New page: Lighting Build
+[2021.10.25-20.16.29:207][ 25]LoadErrors: New page: Loading map: Mapa_04.umap
+[2021.10.25-20.16.29:253][ 25]LogWorld: UWorld::CleanupWorld for Mapa_01, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-20.16.29:254][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-20.16.29:254][ 25]MapCheck: New page: Map Check
+[2021.10.25-20.16.29:254][ 25]LightingResults: New page: Lighting Build
+[2021.10.25-20.16.29:279][ 25]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.25-20.16.29:284][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.10.25-20.16.29:284][ 25]LogAudio: Display: Audio Device (ID: 1) registered with world 'Mapa_04'.
+[2021.10.25-20.16.29:363][ 25]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.25-20.16.29:363][ 25]LogAIModule: Creating AISystem for world Mapa_04
+[2021.10.25-20.16.29:393][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.10.25-20.16.29:398][ 25]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.25-20.16.29:399][ 25]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.111ms to complete.
+[2021.10.25-20.16.29:399][ 25]LogFileHelpers: Loading map 'Mapa_04' took 0.191
+[2021.10.25-20.16.31:196][236]LogEditorViewport: Clicking on Actor (LMB): BP_Puerta_Salida_C (BP_Puerta_Salida)
+[2021.10.25-20.16.52:924][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_04" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.25-20.16.52:951][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.10.25-20.16.52:974][675]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_046603337746EA84D0EFABF0B659CDC2B3.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04.umap'
+[2021.10.25-20.16.53:030][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_04_BuiltData" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04_BuiltData.uasset" SILENT=true
+[2021.10.25-20.16.53:057][675]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_04_BuiltData6D049CD245D40B517FC426957990EA67.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04_BuiltData.uasset'
+[2021.10.25-20.16.53:066][675]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.25-20.16.53:066][675]LogContentValidation: Display: Validating World /Game/Mapas/Mapa_04.Mapa_04
+[2021.10.25-20.16.53:066][675]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/Mapa_04_BuiltData.Mapa_04_BuiltData
+[2021.10.25-20.16.58:127][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_04" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.25-20.16.58:154][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.10.25-20.16.58:175][218]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_04B95F43DB4C5192878D4EFB97BDA7D124.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04.umap'
+[2021.10.25-20.16.58:231][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_04_BuiltData" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04_BuiltData.uasset" SILENT=true
+[2021.10.25-20.16.58:247][218]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_04_BuiltData5C7870B94DC9E8F1824C5D9109E16CDC.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04_BuiltData.uasset'
+[2021.10.25-20.16.58:256][218]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.25-20.16.58:256][218]LogContentValidation: Display: Validating World /Game/Mapas/Mapa_04.Mapa_04
+[2021.10.25-20.16.58:256][218]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/Mapa_04_BuiltData.Mapa_04_BuiltData
+[2021.10.25-20.18.40:726][688]LogSlate: Window 'BP_Picos' being destroyed
+[2021.10.25-20.18.40:729][688]LogSlate: Window 'BP_Picos' being destroyed
+[2021.10.25-20.18.40:772][688]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-20.18.40:772][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-20.18.40:823][688]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-20.18.40:823][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-20.18.40:831][688]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-20.18.40:831][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-20.18.40:890][688]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-20.18.40:890][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-20.18.40:908][688]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-20.18.40:908][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-20.18.40:948][688]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-20.18.40:948][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-20.18.40:967][688]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-20.18.40:967][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-20.18.41:000][688]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.10.25-20.18.41:000][688]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-20.18.41:000][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-20.18.47:704][478]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Puertas/BP_Puerta_Salida.BP_Puerta_Salida
+[2021.10.25-20.19.08:506][878]BlueprintLog: New page: Compile BP_Puerta_Salida
+[2021.10.25-20.19.08:578][878]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2021.10.25-20.19.09:301][946]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/BP_Puerta_Salida5CC64838449F3071FB0EC184A7D74163.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Blueprints/Puertas/BP_Puerta_Salida.uasset'
+[2021.10.25-20.19.09:311][946]AssetCheck: New page: Asset Save: BP_Puerta_Salida
+[2021.10.25-20.19.09:311][946]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Puertas/BP_Puerta_Salida.BP_Puerta_Salida
+[2021.10.25-20.19.13:446][428]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Objetivos/BP_Objetivo.BP_Objetivo
+[2021.10.25-20.20.52:271][744]BlueprintLog: New page: Compile BP_Puerta_Salida
+[2021.10.25-20.20.52:342][744]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.10.25-20.20.53:019][802]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/BP_Puerta_SalidaE229C0A54B433A9E62FC62A153994455.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Blueprints/Puertas/BP_Puerta_Salida.uasset'
+[2021.10.25-20.20.53:027][802]AssetCheck: New page: Asset Save: BP_Puerta_Salida
+[2021.10.25-20.20.53:027][802]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Puertas/BP_Puerta_Salida.BP_Puerta_Salida
+[2021.10.25-20.21.10:105][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_04" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.25-20.21.10:125][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.10.25-20.21.10:149][795]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_04C08C6D7C4A7FFA50F7D0E79DAF5B4B53.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04.umap'
+[2021.10.25-20.21.10:202][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_04_BuiltData" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04_BuiltData.uasset" SILENT=true
+[2021.10.25-20.21.10:218][795]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_04_BuiltDataB8E407F14FAC32043C5194987A6F7F32.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04_BuiltData.uasset'
+[2021.10.25-20.21.10:225][795]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.25-20.21.10:225][795]LogContentValidation: Display: Validating World /Game/Mapas/Mapa_04.Mapa_04
+[2021.10.25-20.21.10:225][795]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/Mapa_04_BuiltData.Mapa_04_BuiltData
+[2021.10.25-20.21.19:421][846]BlueprintLog: New page: Compile BP_Puerta_Salida
+[2021.10.25-20.21.19:464][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.10.25-20.21.19:920][881]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/BP_Puerta_SalidaD65754EF404E690DB138998F6E443CF5.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Blueprints/Puertas/BP_Puerta_Salida.uasset'
+[2021.10.25-20.21.19:929][881]AssetCheck: New page: Asset Save: BP_Puerta_Salida
+[2021.10.25-20.21.19:929][881]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Puertas/BP_Puerta_Salida.BP_Puerta_Salida
+[2021.10.25-20.21.24:899][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_04" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.25-20.21.24:919][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.10.25-20.21.24:941][451]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_04463A7BC74256DDE886D39594382054BC.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04.umap'
+[2021.10.25-20.21.24:995][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_04_BuiltData" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04_BuiltData.uasset" SILENT=true
+[2021.10.25-20.21.25:011][451]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_04_BuiltData59778D654DFEBA69BF9428AD874EE753.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04_BuiltData.uasset'
+[2021.10.25-20.21.25:018][451]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.25-20.21.25:018][451]LogContentValidation: Display: Validating World /Game/Mapas/Mapa_04.Mapa_04
+[2021.10.25-20.21.25:018][451]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/Mapa_04_BuiltData.Mapa_04_BuiltData
+[2021.10.25-20.21.27:651][766]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.25-20.21.27:657][766]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.25-20.21.27:657][766]PIE: New page: PIE session: Mapa_04 (Oct 25, 2021, 8:21:27 AM)
+[2021.10.25-20.21.27:682][766]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Mapa_04
+[2021.10.25-20.21.27:689][766]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006659s)
+[2021.10.25-20.21.27:689][766]LogAIModule: Creating AISystem for world Mapa_04
+[2021.10.25-20.21.27:689][766]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2021.10.25-20.21.27:689][766]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Mapa_04.Mapa_04 to /Game/Mapas/UEDPIE_0_Mapa_04.Mapa_04 (0.007538s)
+[2021.10.25-20.21.27:708][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.10.25-20.21.27:710][766]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2021.10.25-20.21.27:710][766]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.25-20.21.27:710][766]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.25-20.21.27:710][766]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.25-20.21.27:710][766]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.25-20.21.27:710][766]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.25-20.21.27:710][766]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.25-20.21.27:710][766]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.25-20.21.27:710][766]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.25-20.21.27:710][766]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.25-20.21.27:710][766]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.25-20.21.27:710][766]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.25-20.21.27:710][766]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.25-20.21.27:713][766]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.25-20.21.27:713][766]LogAudioMixer: Display: 1: FrontRight
+[2021.10.25-20.21.27:713][766]LogAudioMixer: Display: 2: FrontCenter
+[2021.10.25-20.21.27:713][766]LogAudioMixer: Display: 3: LowFrequency
+[2021.10.25-20.21.27:713][766]LogAudioMixer: Display: 4: BackLeft
+[2021.10.25-20.21.27:713][766]LogAudioMixer: Display: 5: BackRight
+[2021.10.25-20.21.27:713][766]LogAudioMixer: Display: 6: SideLeft
+[2021.10.25-20.21.27:713][766]LogAudioMixer: Display: 7: SideRight
+[2021.10.25-20.21.27:724][766]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G560 Gaming Speaker)
+[2021.10.25-20.21.27:724][766]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.25-20.21.27:724][766]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.25-20.21.27:724][766]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.25-20.21.27:724][766]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.25-20.21.27:724][766]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.25-20.21.27:724][766]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.10.25-20.21.27:725][766]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.25-20.21.27:725][766]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.25-20.21.27:725][766]LogInit: FAudioDevice initialized.
+[2021.10.25-20.21.27:725][766]LogAudio: Display: Audio Device (ID: 34) registered with world 'Mapa_04'.
+[2021.10.25-20.21.27:731][766]LogLoad: Game class is 'BP_ModoDeJuego_C'
+[2021.10.25-20.21.27:733][766]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Mapa_04.Mapa_04 up for play (max tick rate 0) at 2021.10.25-14.21.27
+[2021.10.25-20.21.27:733][766]LogWorld: Bringing up level for play took: 0.001589
+[2021.10.25-20.21.27:733][766]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2021.10.25-20.21.27:736][766]PIE: Server logged in
+[2021.10.25-20.21.27:736][766]PIE: Play in editor total start time 0.081 seconds.
+[2021.10.25-20.22.35:292][869]LogNet: Browse: /Game/Mapas/Mapa_Pruebas
+[2021.10.25-20.22.35:292][869]LogLoad: LoadMap: /Game/Mapas/Mapa_Pruebas
+[2021.10.25-20.22.35:292][869]LogWorld: BeginTearingDown for /Game/Mapas/UEDPIE_0_Mapa_04
+[2021.10.25-20.22.35:292][869]LogWorld: UWorld::CleanupWorld for Mapa_04, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-20.22.35:292][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-20.22.35:349][869]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.25-20.22.35:352][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.10.25-20.22.35:364][869]LogAudio: Display: Audio Device (ID: 34) registered with world 'Mapa_Pruebas'.
+[2021.10.25-20.22.35:365][869]LogAIModule: Creating AISystem for world Mapa_Pruebas
+[2021.10.25-20.22.35:365][869]LogLoad: Game class is 'BP_ModoDeJuego_C'
+[2021.10.25-20.22.35:369][869]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Mapa_Pruebas.Mapa_Pruebas up for play (max tick rate 0) at 2021.10.25-14.22.35
+[2021.10.25-20.22.35:369][869]LogWorld: Bringing up level for play took: 0.003683
+[2021.10.25-20.22.35:371][869]LogLoad: Took 0.079653 seconds to LoadMap(/Game/Mapas/Mapa_Pruebas)
+[2021.10.25-20.22.39:965][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.25-20.22.39:965][414]LogWorld: BeginTearingDown for /Game/Mapas/UEDPIE_0_Mapa_Pruebas
+[2021.10.25-20.22.39:965][414]LogWorld: UWorld::CleanupWorld for Mapa_Pruebas, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-20.22.39:965][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-20.22.39:971][414]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.25-20.22.39:978][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-20.22.39:995][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.25-20.22.39:995][414]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-20.22.39:996][414]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-20.22.40:001][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.10.25-20.22.40:031][415]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2021.10.25-20.22.41:455][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_04" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.25-20.22.41:474][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.10.25-20.22.41:495][572]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_04D93762DE4F2BB9A573913BBE67E7F6AD.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04.umap'
+[2021.10.25-20.22.41:546][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_04_BuiltData" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04_BuiltData.uasset" SILENT=true
+[2021.10.25-20.22.41:561][572]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_04_BuiltDataD37325EB45043C0BB5A5B2A88B41566D.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04_BuiltData.uasset'
+[2021.10.25-20.22.41:569][572]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.25-20.22.41:569][572]LogContentValidation: Display: Validating World /Game/Mapas/Mapa_04.Mapa_04
+[2021.10.25-20.22.41:569][572]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/Mapa_04_BuiltData.Mapa_04_BuiltData
+[2021.10.25-20.22.52:693][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_04" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.25-20.22.52:711][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.10.25-20.22.52:734][887]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_04A260ECB2488B7E2A3B5946939ED97F73.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04.umap'
+[2021.10.25-20.22.52:799][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_04_BuiltData" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04_BuiltData.uasset" SILENT=true
+[2021.10.25-20.22.52:815][887]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_04_BuiltData8437F44B4FEDDA23E07301B057EFBAAA.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04_BuiltData.uasset'
+[2021.10.25-20.22.52:822][887]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.25-20.22.52:822][887]LogContentValidation: Display: Validating World /Game/Mapas/Mapa_04.Mapa_04
+[2021.10.25-20.22.52:822][887]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/Mapa_04_BuiltData.Mapa_04_BuiltData
+[2021.10.25-20.23.07:609][630]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/WBP_Pantalla_Fin_Juego.WBP_Pantalla_Fin_Juego
+[2021.10.25-20.23.16:925][590]BlueprintLog: New page: Compile WBP_Pantalla_Fin_Juego
+[2021.10.25-20.23.16:960][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.10.25-20.23.17:665][662]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/WBP_Pantalla_Fin_JuegoE0AC2A5B4096CFB3F65F0AAA8E2284E1.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Blueprints/UI/WBP_Pantalla_Fin_Juego.uasset'
+[2021.10.25-20.23.17:675][662]AssetCheck: New page: Asset Save: WBP_Pantalla_Fin_Juego
+[2021.10.25-20.23.17:675][662]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/WBP_Pantalla_Fin_Juego.WBP_Pantalla_Fin_Juego
+[2021.10.25-20.23.34:177][395]BlueprintLog: New page: Compile BP_Puerta_Salida
+[2021.10.25-20.23.34:226][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.10.25-20.23.34:791][440]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/BP_Puerta_Salida879F0DF443B28DBBB69CC8AFFE1B335C.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Blueprints/Puertas/BP_Puerta_Salida.uasset'
+[2021.10.25-20.23.34:800][440]AssetCheck: New page: Asset Save: BP_Puerta_Salida
+[2021.10.25-20.23.34:800][440]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Puertas/BP_Puerta_Salida.BP_Puerta_Salida
+[2021.10.25-20.23.37:213][706]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.25-20.23.37:219][706]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.25-20.23.37:219][706]PIE: New page: PIE session: Mapa_04 (Oct 25, 2021, 8:23:37 AM)
+[2021.10.25-20.23.37:262][706]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Mapa_04
+[2021.10.25-20.23.37:269][706]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006736s)
+[2021.10.25-20.23.37:269][706]LogAIModule: Creating AISystem for world Mapa_04
+[2021.10.25-20.23.37:270][706]LogPlayLevel: PIE: World Init took: (0.000800s)
+[2021.10.25-20.23.37:270][706]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Mapa_04.Mapa_04 to /Game/Mapas/UEDPIE_0_Mapa_04.Mapa_04 (0.007663s)
+[2021.10.25-20.23.37:291][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.10.25-20.23.37:292][706]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2021.10.25-20.23.37:292][706]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.25-20.23.37:292][706]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.25-20.23.37:292][706]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.25-20.23.37:292][706]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.25-20.23.37:292][706]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.25-20.23.37:292][706]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.25-20.23.37:292][706]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.25-20.23.37:292][706]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.25-20.23.37:292][706]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.25-20.23.37:292][706]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.25-20.23.37:292][706]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.25-20.23.37:293][706]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.25-20.23.37:295][706]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.25-20.23.37:295][706]LogAudioMixer: Display: 1: FrontRight
+[2021.10.25-20.23.37:295][706]LogAudioMixer: Display: 2: FrontCenter
+[2021.10.25-20.23.37:295][706]LogAudioMixer: Display: 3: LowFrequency
+[2021.10.25-20.23.37:295][706]LogAudioMixer: Display: 4: BackLeft
+[2021.10.25-20.23.37:295][706]LogAudioMixer: Display: 5: BackRight
+[2021.10.25-20.23.37:295][706]LogAudioMixer: Display: 6: SideLeft
+[2021.10.25-20.23.37:295][706]LogAudioMixer: Display: 7: SideRight
+[2021.10.25-20.23.37:305][706]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G560 Gaming Speaker)
+[2021.10.25-20.23.37:305][706]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.25-20.23.37:305][706]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.25-20.23.37:305][706]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.25-20.23.37:306][706]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.25-20.23.37:306][706]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.25-20.23.37:306][706]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.10.25-20.23.37:307][706]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.25-20.23.37:307][706]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.25-20.23.37:307][706]LogInit: FAudioDevice initialized.
+[2021.10.25-20.23.37:307][706]LogAudio: Display: Audio Device (ID: 35) registered with world 'Mapa_04'.
+[2021.10.25-20.23.37:317][706]LogLoad: Game class is 'BP_ModoDeJuego_C'
+[2021.10.25-20.23.37:319][706]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Mapa_04.Mapa_04 up for play (max tick rate 0) at 2021.10.25-14.23.37
+[2021.10.25-20.23.37:320][706]LogWorld: Bringing up level for play took: 0.001518
+[2021.10.25-20.23.37:320][706]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2021.10.25-20.23.37:322][706]PIE: Server logged in
+[2021.10.25-20.23.37:323][706]PIE: Play in editor total start time 0.106 seconds.
+[2021.10.25-20.24.46:384][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.25-20.24.46:384][985]LogWorld: BeginTearingDown for /Game/Mapas/UEDPIE_0_Mapa_04
+[2021.10.25-20.24.46:384][985]LogWorld: UWorld::CleanupWorld for Mapa_04, bSessionEnded=true, bCleanupResources=true
+[2021.10.25-20.24.46:384][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-20.24.46:397][985]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.25-20.24.46:404][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.25-20.24.46:423][985]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.25-20.24.46:423][985]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-20.24.46:424][985]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.25-20.24.46:426][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.25-20.24.46:429][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.10.25-20.24.46:457][986]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2021.10.25-20.24.50:367][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_04" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.25-20.24.50:389][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.10.25-20.24.50:410][445]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_049D794EDA47923B91DA38E0A8B20817C3.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04.umap'
+[2021.10.25-20.24.50:464][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_04_BuiltData" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04_BuiltData.uasset" SILENT=true
+[2021.10.25-20.24.50:480][445]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_04_BuiltData2E31AB484A2632B8933FC0BB55FE4E57.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04_BuiltData.uasset'
+[2021.10.25-20.24.50:487][445]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.25-20.24.50:487][445]LogContentValidation: Display: Validating World /Game/Mapas/Mapa_04.Mapa_04
+[2021.10.25-20.24.50:487][445]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/Mapa_04_BuiltData.Mapa_04_BuiltData
+[2021.10.25-20.24.58:514][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_04" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.25-20.24.58:536][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.10.25-20.24.58:557][395]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_048179DEE540BE868366AF1590247CC2CD.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04.umap'
+[2021.10.25-20.24.58:612][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_04_BuiltData" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04_BuiltData.uasset" SILENT=true
+[2021.10.25-20.24.58:628][395]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_04_BuiltData6E4B2A8348A809C593973ABE4F3347B4.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04_BuiltData.uasset'
+[2021.10.25-20.24.58:635][395]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.25-20.24.58:635][395]LogContentValidation: Display: Validating World /Game/Mapas/Mapa_04.Mapa_04
+[2021.10.25-20.24.58:635][395]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapas/Mapa_04_BuiltData.Mapa_04_BuiltData
+[2021.10.25-20.25.01:591][713]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Content' is outside repository
+[2021.10.25-20.25.01:591][713]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository
+[2021.10.25-20.25.01:591][713]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository
+[2021.10.25-20.25.01:591][713]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository
+[2021.10.25-20.25.01:591][713]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository
+[2021.10.25-20.25.01:591][713]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository
+[2021.10.25-20.25.01:591][713]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository
+[2021.10.25-20.25.01:591][713]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository
+[2021.10.25-20.25.01:591][713]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository
+[2021.10.25-20.25.01:591][713]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository
+[2021.10.25-20.25.01:591][713]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository
+[2021.10.25-20.25.01:591][713]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository
+[2021.10.25-20.25.01:591][713]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository
+[2021.10.25-20.25.01:591][713]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository
+[2021.10.25-20.25.01:591][713]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository
+[2021.10.25-20.25.01:591][713]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository
+[2021.10.25-20.25.01:591][713]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository
+[2021.10.25-20.25.01:591][713]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository
+[2021.10.25-20.25.01:591][713]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository
+[2021.10.25-20.25.01:591][713]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository
+[2021.10.25-20.25.01:591][713]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository
+[2021.10.25-20.25.01:591][713]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository
+[2021.10.25-20.25.01:591][713]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository
+[2021.10.25-20.25.01:591][713]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository
+[2021.10.25-20.25.01:591][713]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository
+[2021.10.25-20.25.01:591][713]SourceControl: fatal: D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/Program Files (x86)/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository
+[2021.10.25-20.25.01:896][713]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/BP_Puerta_Salida01AB81D842BE4DC61F913A89B6A5E051.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Blueprints/Puertas/BP_Puerta_Salida.uasset'
+[2021.10.25-20.25.01:904][713]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/WBP_Pantalla_Fin_JuegoD58D56E444AD9B79B8F2859C3D4A7AA2.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Blueprints/UI/WBP_Pantalla_Fin_Juego.uasset'
+[2021.10.25-20.25.01:905][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Mapa_04" FILE="C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.25-20.25.01:925][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.10.25-20.25.01:946][713]LogSavePackage: Moving 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Saved/Mapa_04509CDE9F4711EFB8366B109BEB461C72.tmp' to 'C:/Users/isach/source/repos/IsaacXB/DVJ2/ActividadIndividual/EscapeMadness/Content/Mapas/Mapa_04.umap'
+[2021.10.25-20.25.01:951][713]LogFileHelpers: Saving map 'Mapa_04' took 0.046
+[2021.10.25-20.25.10:473][713]LogSlate: Window 'Submit Files' being destroyed
+[2021.10.25-20.25.10:801][713]LogSourceControl: commit successful: [main b3d6d82] mejora fin de juego
+[2021.10.25-20.25.10:900][713]SourceControl: [main b3d6d82] mejora fin de juego
+[2021.10.25-20.25.10:900][713]SourceControl:  4 files changed, 0 insertions(+), 0 deletions(-)
+[2021.10.25-20.25.10:900][713]SourceControl:  rewrite EscapeMadness/Content/Blueprints/Puertas/BP_Puerta_Salida.uasset (90%)
+[2021.10.25-20.25.10:900][713]SourceControl:  rewrite EscapeMadness/Content/Blueprints/UI/WBP_Pantalla_Fin_Juego.uasset (61%)
+[2021.10.25-20.25.10:904][713]SourceControl: Commited [main b3d6d82] mejora fin de juego.
+[2021.10.25-20.25.10:929][714]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.25-20.25.10:929][714]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Puertas/BP_Puerta_Salida.BP_Puerta_Salida
+[2021.10.25-20.25.10:929][714]LogContentValidation: Display: Validating World /Game/Mapas/Mapa_04.Mapa_04
+[2021.10.25-20.25.10:929][714]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/WBP_Pantalla_Fin_Juego.WBP_Pantalla_Fin_Juego
